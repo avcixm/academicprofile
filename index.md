@@ -18,8 +18,8 @@ I am a professor of mathematics specializing in stochastic processes, nonlinear 
 
 ## 📄 Selected Publications
 
-- *Generalized Volatility Models with Variable Exponent Diffusions*, 2025  
-- *Nehari Manifold Techniques in Nonlinear PDEs*, 2023
+- [*Generalized Volatility Models with Variable Exponent Diffusions*, 2025  ](https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2473492)
+
 
 ---
 
