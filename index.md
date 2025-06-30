@@ -8,8 +8,8 @@ I am a professor of mathematics specializing in stochastic processes, and nonlin
 
 # 🔬 Research Interests
 
-- Stochastic volatility modeling
-- Variable exponent PDEs
+- Stochastic volatility modeling.
+- Variable exponent PDEs.
 
 # 📄 Publications
 
