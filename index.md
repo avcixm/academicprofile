@@ -2,28 +2,51 @@
 title: Dr. Mustafa Avci — Academic Profile
 ---
 
-# 📌 About Me
+# 👋 Welcome
 
-I am a professor of mathematics specializing in stochastic processes, and nonlinear PDEs. This page summarizes my academic profile, research interests, and publications.
+I am a professor of mathematics specializing in stochastic processes, and nonlinear PDEs.  
+This site presents my academic background, research interests, teaching, and current projects.
 
-# 🔬 Research Interests
+---
 
-- Stochastic volatility modeling.
-- Variable exponent PDEs.
+## 🔬 Research Interests
 
-# 📄 Publications
+- Stochastic volatility modeling 
+- Nonlinear and variable exponent PDEs
+- Numerical simulation of stochastic differential equations
+- Functional analysis and variational methods in finance and physics
 
-- https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2473492
-- https://www.aimspress.com/article/doi/10.3934/cam.2024026
-- https://link.springer.com/article/10.1007/s12591-024-00702-0
-- https://www.tandfonline.com/doi/full/10.1080/17476933.2024.2378316
-- https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en
+---
 
-# 🎓 Teaching
+## 📄 Publications
 
-- MATH 451 – Stochastic Processes
-- MATH 305 – Real Analysis
+{% include_relative publications.md %}
 
-# 📬 Contact
+> _The list above is auto-generated from Python and updated as needed._
 
-Email: mavci@athabasu.ca
+---
+
+## 🎓 Teaching
+
+- **MATH 451** — Stochastic Processes  
+- **MATH 305** — Real Analysis  
+
+---
+
+## 🧠 Current Projects
+
+- Generalized volatility models with data-driven diffusion exponents
+- Existence and moment bounds for nonlinear SDEs
+- Applications of Sobolev spaces with variable exponents to modeling uncertainty
+
+---
+
+## 📬 Contact
+
+**Email**: mavci@athabascau.ca  
+**GitHub**: [github.com/avcixm](https://github.com/avcixm)  
+**Website**: [https://avcixm.github.io/academicprofile](https://avcixm.github.io/academicprofile)
+
+---
+
+*Last updated on {{ site.time | date: '%B %d, %Y' }}*
