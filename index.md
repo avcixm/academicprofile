@@ -43,7 +43,7 @@ This site presents my academic background, research interests, teaching, and cur
 
 ## 📬 Contact
 
-**Email**: mavci@athabascau.ca  
+**Email**: [mavci@athabascau.ca](mavci@athabascau.ca)  
 **GitHub**: [github.com/avcixm](https://github.com/avcixm)  
 **Website**: [https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html](https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html)
 
