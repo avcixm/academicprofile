@@ -1,11 +1,25 @@
 /* ===== Athabasca University look & tidy typography ===== */
+/* Softer AU card color (very light orange) */
 :root{
-  --au-navy:   #1C355E;   /* deep blue */
-  --au-orange: #F05A28;   /* accent */
-  --au-ink:    #0F1B2A;   /* body text */
-  --au-bg:     #F7F9FC;   /* light page bg (not used when full navy) */
-  --au-card:   #FFFFFF;   /* content panels */
+  --au-navy:   #1C355E;
+  --au-orange: #F05A28;
+  --au-ink:    #0F1B2A;
+  --au-card:   #FFF4ED;   /* ⟵ was #FFFFFF */
+  --au-card-border: #F1E1D9;
 }
+
+/* Content card uses the warm tint instead of white */
+.page__inner-wrap{
+  background: var(--au-card);
+  border: 1px solid var(--au-card-border);
+  box-shadow: 0 2px 12px rgba(0,0,0,.05);
+  border-radius: 6px;
+}
+
+/* Optional: match dividers to the warm palette */
+hr{ border-top: 2px solid var(--au-card-border); }
+.page__title{ border-bottom: 2px solid var(--au-card-border); }
+
 
 /* Base text sizing */
 html { font-size: 15px; }           /* change to 14px if you want smaller */
