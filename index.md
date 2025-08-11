@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Home
+title: Welcome to my Academic Portfolio
 ---
-# Welcome to my Academic Portfolio
+# 
 <div class="home-media">
   <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
   <a href="https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html" target="_blank" rel="noopener">
