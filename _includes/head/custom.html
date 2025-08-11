@@ -1,0 +1,11 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href');
+    if (!href || href.startsWith('#')) return;
+    var external = /^https?:\/\//i.test(href) &&
+                   (new URL(href, location.href)).hostname !== location.hostname;
+    if (external) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
+  });
+});
+</script>
