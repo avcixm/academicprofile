@@ -3,9 +3,11 @@ layout: single
 title: Research
 permalink: /publications/
 ---
-# Publications
-Your list here.
-
+# Research Interest
+Research interest.
+---
+# List of publications
+List of publications here.
 
 
 
