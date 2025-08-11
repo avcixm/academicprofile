@@ -33,14 +33,16 @@ This site presents my academic background, research interests, teaching, and cur
 - **MATH 366** — Complex Variables I
 - **MATH 370** — Applied Real Analysis
 - **MATH 376** — Ordinary Differential Equations
+- **MATH 491** — Special Study I
+- **MATH 493** — Special Study II
+- **MATH 495** — Mathematics Projects I
 
 ---
 
 ## 🧠 Current Projects
 
-- Generalized volatility models with data-driven diffusion exponents
-- Existence and moment bounds for nonlinear SDEs
-- Applications of Sobolev spaces with variable exponents to modeling uncertainty
+- Generalized volatility models with state-dependent variable exponent diffusion
+- PDEs in Variable Lebesgue and Sobolev spaces
 
 ---
 
@@ -49,6 +51,8 @@ This site presents my academic background, research interests, teaching, and cur
 **Email**: [mavci@athabascau.ca](mavci@athabascau.ca)  
 **GitHub**: [github.com/avcixm](https://github.com/avcixm)  
 **Website**: [https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html](https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html)
+**ORCID**: [https://orcid.org/0000-0002-6001-627X]
+**Google Scholar**: [https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en]
 
 ---
 
