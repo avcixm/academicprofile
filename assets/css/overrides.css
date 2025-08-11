@@ -106,3 +106,18 @@ hr { border-top: 2px solid var(--au-card-border); }
 .masthead__inner-wrap { max-width: var(--content-w) !important; margin: 0 auto; }
 .greedy-nav { justify-content: flex-start !important; }
 .greedy-nav .visible-links { margin-left: 0 !important; }
+
+/* Styling for the left-column links under the photos */
+.home-links { margin-top: 14px; color: #fff; font-size: 0.95rem; }
+.home-links h3 { color: #fff; font-size: 1.05rem; margin: .6rem 0 .35rem; }
+.home-links a { color: #fff; text-decoration: underline; }
+.home-links a:hover { color: var(--au-orange); }
+.home-links li { margin: .25rem 0; }
+
+/* Mobile: when the left column stacks, let links wrap nicely */
+@media (max-width: 1200px){
+  .home-links { color: var(--au-ink); }            /* back to dark text on light card */
+  .home-links a { color: var(--au-navy); }
+  .home-links a:hover { color: var(--au-orange); }
+}
+
