@@ -102,3 +102,7 @@ hr { border-top: 2px solid var(--au-card-border); }
   .home-photo{ width: 140px; }
   .home-au{ width: 120px; }
 }
+/* Align masthead width with the content card and left-align the tabs */
+.masthead__inner-wrap { max-width: var(--content-w) !important; margin: 0 auto; }
+.greedy-nav { justify-content: flex-start !important; }
+.greedy-nav .visible-links { margin-left: 0 !important; }
