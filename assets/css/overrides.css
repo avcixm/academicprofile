@@ -1,6 +1,44 @@
-/* ---- Site background only ---- */
-:root { --site-bg: #f7fafc; }   /* pick your color */
-body { background: var(--site-bg) !important; }
+/* ===== Athabasca-inspired palette (tweak if you prefer) ===== */
+:root{
+  --au-navy:   #1C355E;  /* deep blue */
+  --au-orange: #F05A28;  /* warm orange */
+  --au-ink:    #0F1B2A;  /* body text */
+  --au-bg:     #F7F9FC;  /* page background */
+  --au-card:   #FFFFFF;  /* content panels */
+}
+
+/* Site background + text */
+body{ background: var(--au-bg); color: var(--au-ink); }
+
+/* Content area stays white on top of the light background */
+.page, .page__inner-wrap{ background: var(--au-card); }
+
+/* ===== Masthead (top bar) ===== */
+.masthead{ background: var(--au-navy) !important; }
+.masthead .site-title, .masthead__menu-item a{ color:#fff !important; }
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus{ color: var(--au-orange) !important; }
+
+/* ===== Links & accents ===== */
+a{ color: var(--au-navy); }
+a:hover, a:focus{ color: var(--au-orange); }
+
+/* Buttons (if you use them) */
+.btn, .btn--primary{
+  background: var(--au-orange); border-color: var(--au-orange);
+  color:#fff;
+}
+.btn:hover, .btn:focus{
+  filter: brightness(0.95);
+}
+
+/* Horizontal rules & small accents */
+hr{ border-top: 2px solid #e8edf5; }
+.page__title{ border-bottom: 2px solid #e8edf5; }
+
+/* (Keep your existing type scaling rules below this if you added them) */
+
+
 /* ===== Global sizing ===== */
 html { font-size: 15px; }           /* use 14px if you want even smaller */
 body { font-size: 0.95rem; line-height: 1.55; }
