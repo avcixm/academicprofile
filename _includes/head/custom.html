@@ -1,1 +1,19 @@
 <link rel="stylesheet" href="{{ '/assets/css/overrides.css' | relative_url }}">
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href');
+    if (!href || href.startsWith('#')) return;
+
+    // only http(s) links, and only if host differs from this site
+    if (/^https?:\/\//i.test(href)) {
+      var u = new URL(href, document.baseURI);
+      if (u.hostname !== location.hostname) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    }
+  });
+});
+</script>
