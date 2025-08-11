@@ -11,7 +11,6 @@ This site presents my academic background, research interests, teaching, and cur
 
 ## 🔬 Research Interests
 
-- Nonlinear Analysis
 - Analysis of nonlinear variable exponent PDEs
 - Variable Lebesgue Spaces
 - Stochastic Processes
