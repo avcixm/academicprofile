@@ -16,6 +16,7 @@ This academic portfolio provides an up-to-date, structured summary of my profess
 - AU Website: <https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html>
 - ORCID: <https://orcid.org/0000-0002-6001-627X>
 - Google Scholar: <https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en>
+- ResearchGate: <https://www.researchgate.net/profile/Mustafa-Avci-7>
 - GitHub: <https://github.com/avcixm>
 
 ## Contact
