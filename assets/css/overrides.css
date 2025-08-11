@@ -1,69 +1,68 @@
-/* ===== Athabasca-inspired palette (tweak if you prefer) ===== */
+/* ===== Athabasca University look & tidy typography ===== */
 :root{
-  --au-navy:   #1C355E;  /* deep blue */
-  --au-orange: #F05A28;  /* warm orange */
-  --au-ink:    #0F1B2A;  /* body text */
-  --au-bg:     #F7F9FC;  /* page background */
-  --au-card:   #FFFFFF;  /* content panels */
+  --au-navy:   #1C355E;   /* deep blue */
+  --au-orange: #F05A28;   /* accent */
+  --au-ink:    #0F1B2A;   /* body text */
+  --au-bg:     #F7F9FC;   /* light page bg (not used when full navy) */
+  --au-card:   #FFFFFF;   /* content panels */
 }
 
-/* body{ background: var(--au-bg); color: var(--au-ink); } */
-body{ background: var(--au-navy); color: #fff; }
+/* Base text sizing */
+html { font-size: 15px; }           /* change to 14px if you want smaller */
+body { font-size: 0.95rem; line-height: 1.55; color: var(--au-ink); }
 
-
-/* Content area stays white on top of the light background */
-.page, .page__inner-wrap{ background: var(--au-card); }
-
-/* ===== Masthead (top bar) ===== */
-.masthead{ background: var(--au-navy) !important; }
-.masthead .site-title, .masthead__menu-item a{ color:#fff !important; }
-.masthead__menu-item a:hover,
-.masthead__menu-item a:focus{ color: var(--au-orange) !important; }
-
-/* ===== Links & accents ===== */
-a{ color: var(--au-navy); }
-a:hover, a:focus{ color: var(--au-orange); }
-
-/* Buttons (if you use them) */
-.btn, .btn--primary{
-  background: var(--au-orange); border-color: var(--au-orange);
-  color:#fff;
-}
-.btn:hover, .btn:focus{
-  filter: brightness(0.95);
-}
-
-/* Horizontal rules & small accents */
-hr{ border-top: 2px solid #e8edf5; }
-.page__title{ border-bottom: 2px solid #e8edf5; }
-
-/* (Keep your existing type scaling rules below this if you added them) */
-
-
-/* ===== Global sizing ===== */
-html { font-size: 15px; }           /* use 14px if you want even smaller */
-body { font-size: 0.95rem; line-height: 1.55; }
-
-/* Page title and section headings (smaller & tighter) */
+/* Headings smaller & tighter */
 .page__title { font-size: 1.6rem; margin-bottom: .6rem; }
 .page__content h2 { font-size: 1.25rem; margin-top: 1.25rem; margin-bottom: .4rem; }
 .page__content h3 { font-size: 1.1rem;  margin-top: 1rem;   margin-bottom: .3rem; }
 .page__content h4 { font-size: 1rem;    margin-top: .8rem;  margin-bottom: .25rem; }
 
-/* Lists: compact bullets with consistent spacing */
+/* Lists compact */
 .page__content ul,
 .page__content ol { margin: .25rem 0 .75rem; padding-left: 1.25rem; }
 .page__content li { margin: .15rem 0; }
 
-/* Optional: shrink horizontal-rule spacing a bit */
-.page__content hr { margin: 1rem 0; }
-
-/* Desktop reading width */
-@media (min-width: 64em) {
-  .page, .page__inner-wrap { max-width: 900px; } /* tweak 860–980px to taste */
-}
-
-/* Hide “Permalink” anchor links next to headings (you asked to remove them) */
+/* Hide heading "Permalink" anchors */
 .page__content a.header-link,
 .page__content .anchorjs-link,
 .anchorjs-link { display: none !important; }
+
+/* Desktop reading width */
+@media (min-width: 64em) {
+  .page, .page__inner-wrap { max-width: 900px; }
+}
+
+/* ===== Masthead + navigation ===== */
+.masthead,
+.greedy-nav { background: var(--au-navy) !important; }
+
+/* site title */
+.site-title, .site-title a { color: #fff !important; }
+
+/* nav links always visible & orange */
+.greedy-nav .visible-links > li > a,
+.masthead__menu-item a {
+  color: var(--au-orange) !important;
+  opacity: 1 !important;         /* MM dims links by default */
+  font-weight: 600;
+}
+.greedy-nav .visible-links > li > a:hover,
+.masthead__menu-item a:hover { text-decoration: underline; }
+
+/* slim orange divider under the masthead */
+.masthead { border-bottom: 3px solid var(--au-orange); }
+
+/* ===== Single background (navy) + white content card ===== */
+body { background: var(--au-navy) !important; }
+.page { background: transparent !important; }      /* remove extra white band */
+.page__inner-wrap {
+  background: var(--au-card);
+  box-shadow: 0 2px 12px rgba(0,0,0,.06);
+  border-radius: 6px;
+}
+
+/* Links & accents inside content */
+a { color: var(--au-navy); }
+a:hover, a:focus { color: var(--au-orange); }
+hr { border-top: 2px solid #e8edf5; }
+.page__title { border-bottom: 2px solid #e8edf5; }
