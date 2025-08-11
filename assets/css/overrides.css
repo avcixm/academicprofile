@@ -42,8 +42,8 @@ body { font-size: 0.95rem; line-height: 1.55; color: var(--au-ink); }
 .anchorjs-link { display: none !important; }
 
 /* Desktop reading width */
-@media (min-width: 64em) {
-  .page, .page__inner-wrap { max-width: 900px; }
+@media (min-width: 64em){
+  .page, .page__inner-wrap { max-width: var(--content-w); }
 }
 
 /* ===== Masthead + navigation ===== */
@@ -83,7 +83,7 @@ hr { border-top: 2px solid #e8edf5; }
 
 /* ---- Home page: place photo + AU logo OUTSIDE the card (left) ---- */
 :root{
-  --content-w: 1200px;    /* matches your page__inner-wrap max-width */
+  --content-w: 1040px;    /* matches your page__inner-wrap max-width */
   --media-w:   220px;    /* width of the left column */
   --media-gap: 24px;     /* gap between images and the card */
 }
