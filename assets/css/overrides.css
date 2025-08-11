@@ -10,7 +10,7 @@
   --au-card-border:  #F1E1D9;
 
   /* Layout controls */
-  --content-w: 1100px;  /* <— change this to widen/narrow the main card */
+  --content-w: 1200px;  /* <— change this to widen/narrow the main card */
   --media-w:   220px;   /* left images column width on Home */
   --media-gap: 24px;    /* space between left images and card */
 }
