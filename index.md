@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Dr. Mustafa Avci-Academic Profile
 ---
 # Welcome
