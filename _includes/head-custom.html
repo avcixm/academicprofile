@@ -1,1 +1,18 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var anchors = document.querySelectorAll('a[href]');
+  anchors.forEach(function (a) {
+    var href = a.getAttribute('href');
+    if (!href) return;
+    if (href.startsWith('#')) return;              // same-page anchors
+    if (!/^https?:\/\//i.test(href)) return;       // only http(s)
+    // external if hostname differs from current site
+    var isExternal = (new URL(href, location.href)).hostname !== location.hostname;
+    if (isExternal) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>
 
