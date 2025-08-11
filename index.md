@@ -12,14 +12,14 @@ This site presents my academic background, research interests, teaching, and cur
 ## 🔬 Research Interests
 
 - Analysis of nonlinear variable exponent PDEs
-- Variable Lebesgue Spaces
-- Stochastic Processes
+- Variable Lebesgue spaces
+- Stochastic processes
 
 ---
 ## 🧠 Current Projects
 
 - Generalized volatility models with state-dependent variable exponent diffusion
-- PDEs in Variable Lebesgue and Sobolev spaces
+- PDEs in variable Lebesgue and Sobolev spaces
 
 ---
 
