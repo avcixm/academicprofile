@@ -1,1 +1,35 @@
 <!-- TEST HEADER -->
+<header class="site-header">
+  <div class="wrapper">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    </h1>
+
+    {% if site.navigation %}
+      <nav class="site-nav">
+        <ul class="nav">
+          {% for link in site.navigation %}
+            {% assign href = link.url %}
+            {% assign is_external = href contains '://' %}
+            <li class="nav-item">
+              <a
+                href="{% if is_external %}{{ href }}{% else %}{{ href | relative_url }}{% endif %}"
+                {% if is_external %}target="_blank" rel="noopener noreferrer"{% endif %}
+              >
+                {{ link.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
+  </div>
+</header>
+
+<style>
+  /* optional: tiny bit of spacing so it looks decent with Leap Day */
+  .site-header .wrapper { display:flex; align-items:center; gap:2rem; }
+  .site-title { margin:0; font-size:1.5rem; }
+  .site-nav .nav { list-style:none; margin:0; padding:0; display:flex; gap:1rem; }
+  .site-nav a { text-decoration:none; }
+</style>
