@@ -21,7 +21,7 @@ This site presents my academic background, research interests, teaching, and cur
 
 - Generalized volatility models with state-dependent variable exponent diffusion
 - PDEs in Variable Lebesgue and Sobolev spaces
-  
+
 ---
 
 ## 📄 Publications
@@ -29,7 +29,9 @@ This site presents my academic background, research interests, teaching, and cur
 {% include_relative publications.md %}
 
 > _The list above is auto-generated from Python and updated as needed._
+
 ---
+
 ## 🎓 Teaching
 
 - **MATH 216** — Computer-Oriented Approach to Statistics
@@ -47,7 +49,7 @@ This site presents my academic background, research interests, teaching, and cur
 
 **Email**: [mavci@athabascau.ca](mavci@athabascau.ca)  
 **GitHub**: [github.com/avcixm](https://github.com/avcixm)  
-**Website**: [https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html]
+**Website**: (https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html)
 **ORCID**: [https://orcid.org/0000-0002-6001-627X]
 **Google Scholar**: [https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en]
 
