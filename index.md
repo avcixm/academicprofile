@@ -28,8 +28,11 @@ This site presents my academic background, research interests, teaching, and cur
 
 ## 🎓 Teaching
 
-- **MATH 451** — Stochastic Processes  
-- **MATH 305** — Real Analysis  
+- **MATH 216** — Computer-Oriented Approach to Statistics
+- **MATH 260** — Calculus for Social Sciences and Economics
+- **MATH 366** — Complex Variables I
+- **MATH 370** — Applied Real Analysis
+- **MATH 376** — Ordinary Differential Equations
 
 ---
 
