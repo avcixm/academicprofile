@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Publications
+title: Research
 permalink: /publications/
 ---
 # Publications
 Your list here.
+
 
 
 
