@@ -6,5 +6,3 @@ permalink: /publications/
 
 # Publications
 Your list here.
-
-
