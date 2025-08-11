@@ -1,4 +1,14 @@
 theme: jekyll-theme-leap-day
 title: Dr. Mustafa Avci-Academic Profile
 
-
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=kzgJh58AAAAJ&hl=en
+  - title: GitHub
+    url: https://github.com/avcixm
+  - title: AU Profile
+    url: https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html
