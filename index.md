@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 # Welcome
 I am an assistant professor of mathematics specializing in analysis of PDEs and its applications.  
 This site presents my academic background, research interests, teaching, and current projects.
