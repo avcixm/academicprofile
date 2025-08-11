@@ -84,7 +84,7 @@ hr { border-top: 2px solid #e8edf5; }
 /* ---- Home page: place photo + AU logo OUTSIDE the card (left) ---- */
 :root{
   --content-w: 1200px;    /* matches your page__inner-wrap max-width */
-  --media-w:   220px;    /* width of the left column */
+  --media-w:   400px;    /* width of the left column */
   --media-gap: 24px;     /* gap between images and the card */
 }
 
