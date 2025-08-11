@@ -1,1 +1,9 @@
-
+main:
+  - title: Home
+    url: /
+  - title: Teaching
+    url: /courses/
+  - title: Publications
+    url: /publications/
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=kzgJh58AAAAJ&hl=en
