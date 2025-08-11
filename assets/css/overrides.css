@@ -81,24 +81,23 @@ a:hover, a:focus { color: var(--au-orange); }
 hr { border-top: 2px solid #e8edf5; }
 .page__title { border-bottom: 2px solid #e8edf5; }
 
-/* --- Home page left column (images) --- */
+/* Home page media block: fixed left column */
 .home-media{
-  float: left;              /* push content to the right */
-  width: 180px;             /* left column width */
-  margin: 2px 18px 8px 0;   /* space around the block */
+  float: left;
+  width: 200px;                 /* adjust to taste */
+  margin: 6px 18px 12px 0;      /* space around the column */
 }
-.home-media img{ display:block; }
-.home-photo{
+.home-media img{
+  display: block;
   width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+  height: auto;
 }
-.home-au{
-  width: 100%;
-  margin-top: 12px;
-}
+.home-au{ margin-top: 12px; }
 
-/* Mobile: stack images above content, no float */
+/* Avoid any accidental overlap with the main heading */
+.page__content h1 { clear: both; }
+
+/* Mobile: stack images above content */
 @media (max-width: 800px){
   .home-media{
     float: none;
