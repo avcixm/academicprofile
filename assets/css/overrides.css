@@ -19,6 +19,12 @@ body { font-size: 0.95rem; }
 @media (min-width: 64em) {
   .page, .page__inner-wrap { max-width: 900px; }
 }
+/* Hide “Permalink” anchor links that appear next to headings */
+.page__content a.header-link,
+.page__content .anchorjs-link,
+.anchorjs-link {
+  display: none !important;
+}
 
 
 
