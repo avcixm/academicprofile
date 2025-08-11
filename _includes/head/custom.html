@@ -9,3 +9,20 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+<style>
+  /* Global text a touch smaller */
+  html { font-size: 14px; }            /* was ~16px; change to 14px if you want even smaller */
+  body { font-size: 0.95rem; }
+
+  /* Headings scaled down a bit */
+  .page__content h1 { font-size: 1.8rem; }
+  .page__content h2 { font-size: 1.35rem; }
+  .page__content h3 { font-size: 1.15rem; }
+  .masthead__menu-item a { font-size: 0.95rem; }
+
+  /* Optional: narrow the reading width on desktop */
+  @media (min-width: 64em) {
+    .page,
+    .page__inner-wrap { max-width: 900px; }  /* try 860–980px to taste */
+  }
+</style>
