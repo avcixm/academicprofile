@@ -1,18 +1,37 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var anchors = document.querySelectorAll('a[href]');
-  anchors.forEach(function (a) {
+  // 1) Build a menu from site.navigation and insert it under the banner
+  var items = {{ site.navigation | jsonify }};
+  if (items && items.length) {
+    var nav = document.createElement('nav');
+    nav.className = 'site-nav injected-nav';
+    var ul = document.createElement('ul');
+    nav.appendChild(ul);
+    items.forEach(function (link) {
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.textContent = link.title;
+      a.href = link.url;
+      var isExternal = /^(?:[a-z]+:)?\/\//i.test(link.url);
+      if (isExternal) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
+      li.appendChild(a); ul.appendChild(li);
+    });
+    var banner = document.getElementById('banner');
+    if (banner && banner.parentNode) banner.parentNode.insertBefore(nav, banner.nextSibling);
+  }
+
+  // 2) Make ALL external links on the page open in a new tab
+  document.querySelectorAll('a[href]').forEach(function (a) {
     var href = a.getAttribute('href');
-    if (!href) return;
-    if (href.startsWith('#')) return;              // same-page anchors
-    if (!/^https?:\/\//i.test(href)) return;       // only http(s)
-    // external if hostname differs from current site
-    var isExternal = (new URL(href, location.href)).hostname !== location.hostname;
-    if (isExternal) {
-      a.setAttribute('target', '_blank');
-      a.setAttribute('rel', 'noopener noreferrer');
-    }
+    if (!href || href.startsWith('#')) return;
+    var external = /^https?:\/\//i.test(href) && (new URL(href, location.href)).hostname !== location.hostname;
+    if (external) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
+    if (/^[^:@\/\s]+@[^:@\/\s]+\.[^:@\/\s]+$/.test(href)) a.href = 'mailto:' + href; // fix plain emails
   });
 });
 </script>
-
+<style>
+.injected-nav{display:flex;justify-content:center;margin:10px 0 12px}
+.injected-nav ul{list-style:none;display:flex;gap:16px;margin:0;padding:0;flex-wrap:wrap}
+.injected-nav a{text-decoration:none}
+</style>
