@@ -2,8 +2,7 @@
 layout: single
 title: Welcome to my Academic Portfolio
 ---
-I am an assistant professor of mathematics specializing in analysis of PDEs and its applications.  
-This site presents my academic background, research interests, teaching, and current projects.
+This academic portfolio provides an up-to-date, structured summary of my professional contributions as a faculty member at Athabasca University, highlighting my work in teaching, research, and service to the academic and broader community. The introductory section includes my full curriculum vitae, contact information, and a detailed account of my academic background prior to joining Athabasca University.
 
 ## Research Interests
 - Analysis of nonlinear variable exponent PDEs
