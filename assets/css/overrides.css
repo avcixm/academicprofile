@@ -41,11 +41,6 @@ body { font-size: 0.95rem; line-height: 1.55; color: var(--au-ink); }
 .page__content .anchorjs-link,
 .anchorjs-link { display: none !important; }
 
-/* Desktop reading width */
-@media (min-width: 64em){
-  .page, .page__inner-wrap { max-width: var(--content-w); }
-}
-
 /* ===== Masthead + navigation ===== */
 .masthead,
 .greedy-nav { background: var(--au-navy) !important; }
@@ -81,23 +76,7 @@ a:hover, a:focus { color: var(--au-orange); }
 hr { border-top: 2px solid #e8edf5; }
 .page__title { border-bottom: 2px solid #e8edf5; }
 
-/* ---- Home page: place photo + AU logo OUTSIDE the card (left) ---- */
-:root{
-  --content-w: 1040px;    /* matches your page__inner-wrap max-width */
-  --media-w:   220px;    /* width of the left column */
-  --media-gap: 24px;     /* gap between images and the card */
-}
-
 .page{ position: relative; }  /* anchor for absolute positioning */
-
-/* Put the image block to the left of the centered content card */
-.home-media{
-  position: absolute;
-  left: calc(50% - var(--content-w)/2 - var(--media-w) - var(--media-gap));
-  top: 8px;               /* adjust up/down as you like: 0–24px */
-  width: var(--media-w);
-  z-index: 1;             /* sits above the blue background */
-}
 
 .home-media img{ display:block; width:100%; height:auto; }
 .home-au{ margin-top: 12px; }
@@ -114,5 +93,21 @@ hr { border-top: 2px solid #e8edf5; }
   }
   .home-photo{ width: 140px; }
   .home-au{ width: 120px; }
+}
+/* --- Site content width (card) --- */
+:root{
+  --content-w: 1040px;   /* try 1040 or 1100; change here only */
+  --media-w:   220px;    /* your left images column width */
+  --media-gap: 24px;     /* gap between images and card */
+}
+
+@media (min-width: 64em){
+  .page,
+  .page__inner-wrap { max-width: var(--content-w) !important; }
+}
+
+/* Home left images use the same width variable, so they stay aligned */
+.home-media{
+  left: calc(50% - var(--content-w)/2 - var(--media-w) - var(--media-gap));
 }
 
