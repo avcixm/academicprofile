@@ -55,10 +55,8 @@ This site presents my academic background, research interests, teaching, and cur
 
 ## 📬 Contact
 
-- **Email (primary)**: [mavci@athabascau.ca](mavci@athabascau.ca)  
-- **Email**: [avcixmustafa@gmail.com](avcixmustafa@gmail.com)  
-<a href="mailto:mavci@athabascau.ca">mavci@athabascau.ca</a>
-<a href="mailto:avcixmustafa@gmail.com">avcixmustafa@gmail.com</a>
+- **Email (primary)**: <a href="mailto:mavci@athabascau.ca">mavci@athabascau.ca</a>
+- **Email**:  <a href="mailto:avcixmustafa@gmail.com">avcixmustafa@gmail.com</a>
 
 ---
 
