@@ -1,1 +1,22 @@
+/* Base size (affects all rem units) */
+html { font-size: 15px; }        /* try 14px if you want smaller */
+body { font-size: 0.95rem; }
+
+/* Headings and content */
+.page__title { font-size: 1.8rem; }     /* page H1 */
+.page__lead  { font-size: 1rem; }       /* optional lead text */
+.page__content { font-size: 0.95rem; }
+.page__content h1 { font-size: 1.8rem; }
+.page__content h2 { font-size: 1.35rem; }
+.page__content h3 { font-size: 1.15rem; }
+
+/* Nav, sidebar, archives (covers other layouts too) */
+.masthead__menu-item a { font-size: 0.95rem; }
+.sidebar .nav__list a { font-size: 0.95rem; }
+.archive__item-title { font-size: 1.1rem; }
+
+/* Optional: slightly narrower reading width on large screens */
+@media (min-width: 64em) {
+  .page, .page__inner-wrap { max-width: 900px; }
+}
 
