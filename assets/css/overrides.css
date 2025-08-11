@@ -1,3 +1,6 @@
+/* ---- Site background only ---- */
+:root { --site-bg: #f7fafc; }   /* pick your color */
+body { background: var(--site-bg) !important; }
 /* ===== Global sizing ===== */
 html { font-size: 15px; }           /* use 14px if you want even smaller */
 body { font-size: 0.95rem; line-height: 1.55; }
