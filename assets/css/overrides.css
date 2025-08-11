@@ -1,30 +1,27 @@
-/* Base size (affects all rem units) */
-html { font-size: 15px; }        /* try 14px if you want smaller */
-body { font-size: 0.95rem; }
+/* ===== Global sizing ===== */
+html { font-size: 15px; }           /* use 14px if you want even smaller */
+body { font-size: 0.95rem; line-height: 1.55; }
 
-/* Headings and content */
-.page__title { font-size: 1.8rem; }     /* page H1 */
-.page__lead  { font-size: 1rem; }       /* optional lead text */
-.page__content { font-size: 0.95rem; }
-.page__content h1 { font-size: 1.8rem; }
-.page__content h2 { font-size: 1.35rem; }
-.page__content h3 { font-size: 1.15rem; }
+/* Page title and section headings (smaller & tighter) */
+.page__title { font-size: 1.6rem; margin-bottom: .6rem; }
+.page__content h2 { font-size: 1.25rem; margin-top: 1.25rem; margin-bottom: .4rem; }
+.page__content h3 { font-size: 1.1rem;  margin-top: 1rem;   margin-bottom: .3rem; }
+.page__content h4 { font-size: 1rem;    margin-top: .8rem;  margin-bottom: .25rem; }
 
-/* Nav, sidebar, archives (covers other layouts too) */
-.masthead__menu-item a { font-size: 0.95rem; }
-.sidebar .nav__list a { font-size: 0.95rem; }
-.archive__item-title { font-size: 1.1rem; }
+/* Lists: compact bullets with consistent spacing */
+.page__content ul,
+.page__content ol { margin: .25rem 0 .75rem; padding-left: 1.25rem; }
+.page__content li { margin: .15rem 0; }
 
-/* Optional: slightly narrower reading width on large screens */
+/* Optional: shrink horizontal-rule spacing a bit */
+.page__content hr { margin: 1rem 0; }
+
+/* Desktop reading width */
 @media (min-width: 64em) {
-  .page, .page__inner-wrap { max-width: 900px; }
+  .page, .page__inner-wrap { max-width: 900px; } /* tweak 860–980px to taste */
 }
-/* Hide “Permalink” anchor links that appear next to headings */
+
+/* Hide “Permalink” anchor links next to headings (you asked to remove them) */
 .page__content a.header-link,
 .page__content .anchorjs-link,
-.anchorjs-link {
-  display: none !important;
-}
-
-
-
+.anchorjs-link { display: none !important; }
