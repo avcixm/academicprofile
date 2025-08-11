@@ -1,6 +1,6 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  // 1) Build a menu from site.navigation and insert it under the banner
+  // Build menu from site.navigation
   var items = {{ site.navigation | jsonify }};
   if (items && items.length) {
     var nav = document.createElement('nav');
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (banner && banner.parentNode) banner.parentNode.insertBefore(nav, banner.nextSibling);
   }
 
-  // 2) Make ALL external links on the page open in a new tab
+  // Make all external links open in new tab
   document.querySelectorAll('a[href]').forEach(function (a) {
     var href = a.getAttribute('href');
     if (!href || href.startsWith('#')) return;
