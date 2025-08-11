@@ -1,5 +1,6 @@
 
-# Dr. Mustafa Avci Academic Profile
+---
+title: Dr. Mustafa Avci — Academic Profile
 ---
 # 👋 Welcome
 
