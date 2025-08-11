@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Welcome to my Academic Portfolio
+title: Home
 ---
-<!-- Left column: photo + AU logo (Home page only) -->
+# Welcome to my Academic Portfolio
 <div class="home-media">
-  <img src="{{ '/assets/images/me.jpg' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
+  <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
   <a href="https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/au-logo.png' | relative_url }}" alt="Athabasca University" class="home-au">
+    <img src="{{ '/assets/images/AU_background.png' | relative_url }}" alt="Athabasca University" class="home-au">
   </a>
 </div>
 
