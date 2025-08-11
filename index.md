@@ -4,17 +4,17 @@ title: Dr. Mustafa Avci — Academic Profile
 
 # 👋 Welcome
 
-I am a professor of mathematics specializing in stochastic processes, and nonlinear PDEs.  
+I am an assistant professor of mathematics specializing in analysis of PDEs and its applications.  
 This site presents my academic background, research interests, teaching, and current projects.
 
 ---
 
 ## 🔬 Research Interests
 
-- Stochastic volatility modeling 
-- Nonlinear and variable exponent PDEs
-- Numerical simulation of stochastic differential equations
-- Functional analysis and variational methods in finance and physics
+- Nonlinear Analysis
+- Analysis of nonlinear variable exponent PDEs
+- Variable Lebesgue Spaces
+- Stochastic Processes
 
 ---
 
@@ -25,7 +25,12 @@ This site presents my academic background, research interests, teaching, and cur
 > _The list above is auto-generated from Python and updated as needed._
 
 ---
+## 🧠 Current Projects
 
+- Generalized volatility models with state-dependent variable exponent diffusion
+- PDEs in Variable Lebesgue and Sobolev spaces
+
+---
 ## 🎓 Teaching
 
 - **MATH 216** — Computer-Oriented Approach to Statistics
@@ -39,20 +44,13 @@ This site presents my academic background, research interests, teaching, and cur
 
 ---
 
-## 🧠 Current Projects
-
-- Generalized volatility models with state-dependent variable exponent diffusion
-- PDEs in Variable Lebesgue and Sobolev spaces
-
----
-
 ## 📬 Contact
 
 **Email**: [mavci@athabascau.ca](mavci@athabascau.ca)  
 **GitHub**: [github.com/avcixm](https://github.com/avcixm)  
 **Website**: [https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html]
-**ORCID**: https://orcid.org/0000-0002-6001-627X
-**Google Scholar**: [https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en
+**ORCID**: [https://orcid.org/0000-0002-6001-627X]
+**Google Scholar**: [https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en]
 
 ---
 
