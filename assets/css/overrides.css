@@ -1,28 +1,22 @@
 /* ===== Athabasca University look & tidy typography ===== */
-/* Softer AU card color (very light orange) */
 :root{
+  /* Brand */
   --au-navy:   #1C355E;
   --au-orange: #F05A28;
   --au-ink:    #0F1B2A;
-  --au-card:   #FFF4ED;   /* ⟵ was #FFFFFF */
-  --au-card-border: #F1E1D9;
+
+  /* Content card (warm, low-contrast) */
+  --au-card:         #FFF4ED;
+  --au-card-border:  #F1E1D9;
+
+  /* Layout controls */
+  --content-w: 1040px;  /* <— change this to widen/narrow the main card */
+  --media-w:   220px;   /* left images column width on Home */
+  --media-gap: 24px;    /* space between left images and card */
 }
-
-/* Content card uses the warm tint instead of white */
-.page__inner-wrap{
-  background: var(--au-card);
-  border: 1px solid var(--au-card-border);
-  box-shadow: 0 2px 12px rgba(0,0,0,.05);
-  border-radius: 6px;
-}
-
-/* Optional: match dividers to the warm palette */
-hr{ border-top: 2px solid var(--au-card-border); }
-.page__title{ border-bottom: 2px solid var(--au-card-border); }
-
 
 /* Base text sizing */
-html { font-size: 15px; }           /* change to 14px if you want smaller */
+html { font-size: 15px; }                  /* 14px if you want smaller */
 body { font-size: 0.95rem; line-height: 1.55; color: var(--au-ink); }
 
 /* Headings smaller & tighter */
@@ -44,15 +38,12 @@ body { font-size: 0.95rem; line-height: 1.55; color: var(--au-ink); }
 /* ===== Masthead + navigation ===== */
 .masthead,
 .greedy-nav { background: var(--au-navy) !important; }
-
-/* site title */
 .site-title, .site-title a { color: #fff !important; }
 
-/* nav links always visible & orange */
 .greedy-nav .visible-links > li > a,
 .masthead__menu-item a {
   color: var(--au-orange) !important;
-  opacity: 1 !important;         /* MM dims links by default */
+  opacity: 1 !important;                 /* MM dims links by default */
   font-weight: 600;
 }
 .greedy-nav .visible-links > li > a:hover,
@@ -61,11 +52,12 @@ body { font-size: 0.95rem; line-height: 1.55; color: var(--au-ink); }
 /* slim orange divider under the masthead */
 .masthead { border-bottom: 3px solid var(--au-orange); }
 
-/* ===== Single background (navy) + white content card ===== */
+/* ===== Single navy background + warm content card ===== */
 body { background: var(--au-navy) !important; }
 .page { background: transparent !important; }      /* remove extra white band */
-.page__inner-wrap {
+.page__inner-wrap{
   background: var(--au-card);
+  border: 1px solid var(--au-card-border);
   box-shadow: 0 2px 12px rgba(0,0,0,.06);
   border-radius: 6px;
 }
@@ -73,11 +65,27 @@ body { background: var(--au-navy) !important; }
 /* Links & accents inside content */
 a { color: var(--au-navy); }
 a:hover, a:focus { color: var(--au-orange); }
-hr { border-top: 2px solid #e8edf5; }
-.page__title { border-bottom: 2px solid #e8edf5; }
 
-.page{ position: relative; }  /* anchor for absolute positioning */
+/* Warm dividers */
+hr { border-top: 2px solid var(--au-card-border); }
+.page__title { border-bottom: 2px solid var(--au-card-border); }
 
+/* ===== Site content width (card) ===== */
+@media (min-width: 64em){
+  .page,
+  .page__inner-wrap { max-width: var(--content-w) !important; }
+}
+
+/* ---- Home page: place photo + AU logo OUTSIDE the card (left) ---- */
+.page { position: relative; }  /* anchor for absolute positioning */
+
+.home-media{
+  position: absolute;
+  left: calc(50% - var(--content-w)/2 - var(--media-w) - var(--media-gap));
+  top: 8px;               /* adjust up/down to taste */
+  width: var(--media-w);
+  z-index: 1;
+}
 .home-media img{ display:block; width:100%; height:auto; }
 .home-au{ margin-top: 12px; }
 
@@ -94,20 +102,3 @@ hr { border-top: 2px solid #e8edf5; }
   .home-photo{ width: 140px; }
   .home-au{ width: 120px; }
 }
-/* --- Site content width (card) --- */
-:root{
-  --content-w: 1040px;   /* try 1040 or 1100; change here only */
-  --media-w:   220px;    /* your left images column width */
-  --media-gap: 24px;     /* gap between images and card */
-}
-
-@media (min-width: 64em){
-  .page,
-  .page__inner-wrap { max-width: var(--content-w) !important; }
-}
-
-/* Home left images use the same width variable, so they stay aligned */
-.home-media{
-  left: calc(50% - var(--content-w)/2 - var(--media-w) - var(--media-gap));
-}
-
