@@ -1,6 +1,6 @@
 
-# Dr.Mustafa Avci Academic Profile
-
+# Dr. Mustafa Avci Academic Profile
+---
 # 👋 Welcome
 
 I am an assistant professor of mathematics specializing in analysis of PDEs and its applications.  
