@@ -7,8 +7,9 @@
   --au-card:   #FFFFFF;  /* content panels */
 }
 
-/* Site background + text */
-body{ background: var(--au-bg); color: var(--au-ink); }
+/* body{ background: var(--au-bg); color: var(--au-ink); } */
+body{ background: var(--au-navy); color: #fff; }
+
 
 /* Content area stays white on top of the light background */
 .page, .page__inner-wrap{ background: var(--au-card); }
