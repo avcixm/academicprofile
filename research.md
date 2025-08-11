@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Research Interests
-- Analysis of nonlinear variable exponent PDEs
+- Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
 - Stochastic processes
 
@@ -15,3 +15,4 @@ permalink: /research/
 
 ## Selected Publications
 - (add bullet points here)
+
