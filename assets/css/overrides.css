@@ -81,26 +81,31 @@ a:hover, a:focus { color: var(--au-orange); }
 hr { border-top: 2px solid #e8edf5; }
 .page__title { border-bottom: 2px solid #e8edf5; }
 
-/* Home page media block: fixed left column */
+/* ---- Home page: place photo + AU logo OUTSIDE the card (left) ---- */
+:root{
+  --content-w: 900px;    /* matches your page__inner-wrap max-width */
+  --media-w:   220px;    /* width of the left column */
+  --media-gap: 24px;     /* gap between images and the card */
+}
+
+.page{ position: relative; }  /* anchor for absolute positioning */
+
+/* Put the image block to the left of the centered content card */
 .home-media{
-  float: left;
-  width: 200px;                 /* adjust to taste */
-  margin: 6px 18px 12px 0;      /* space around the column */
+  position: absolute;
+  left: calc(50% - var(--content-w)/2 - var(--media-w) - var(--media-gap));
+  top: 8px;               /* adjust up/down as you like: 0–24px */
+  width: var(--media-w);
+  z-index: 1;             /* sits above the blue background */
 }
-.home-media img{
-  display: block;
-  width: 100%;
-  height: auto;
-}
+
+.home-media img{ display:block; width:100%; height:auto; }
 .home-au{ margin-top: 12px; }
 
-/* Avoid any accidental overlap with the main heading */
-.page__content h1 { clear: both; }
-
-/* Mobile: stack images above content */
-@media (max-width: 800px){
+/* Mobile / narrow screens: fall back to normal flow (stack above content) */
+@media (max-width: 1200px){
   .home-media{
-    float: none;
+    position: static;
     width: auto;
     margin: 0 0 12px 0;
     display: flex;
@@ -110,3 +115,4 @@ hr { border-top: 2px solid #e8edf5; }
   .home-photo{ width: 140px; }
   .home-au{ width: 120px; }
 }
+
