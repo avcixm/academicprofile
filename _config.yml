@@ -1,12 +1,4 @@
 heme: jekyll-theme-leap-day
 title: Dr. Mustafa Avci
 
-navigation:
-  - title: Home
-    url: https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html
-  - title: Publications
-    url: /publications/
-  - title: Google Scholar
-    url: https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en
-  - title: GitHub
-    url: https://github.com/avcixm
+
