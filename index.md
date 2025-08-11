@@ -1,4 +1,11 @@
 ---
+layout: default
+title: Home
+---
+
+# Welcome
+Your content here.
+
 title: Dr. Mustafa Avci — Academic Profile
 ---
 
