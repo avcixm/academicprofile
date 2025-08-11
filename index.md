@@ -17,19 +17,18 @@ This site presents my academic background, research interests, teaching, and cur
 - Stochastic Processes
 
 ---
+## 🧠 Current Projects
+
+- Generalized volatility models with state-dependent variable exponent diffusion
+- PDEs in Variable Lebesgue and Sobolev spaces
+  
+---
 
 ## 📄 Publications
 
 {% include_relative publications.md %}
 
 > _The list above is auto-generated from Python and updated as needed._
-
----
-## 🧠 Current Projects
-
-- Generalized volatility models with state-dependent variable exponent diffusion
-- PDEs in Variable Lebesgue and Sobolev spaces
-
 ---
 ## 🎓 Teaching
 
