@@ -9,5 +9,5 @@ baseurl: "/academicprofile"
 
 # optional, nice URLs
 permalink: /:title/
-heading_anchors: false
+
 
