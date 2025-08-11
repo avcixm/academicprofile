@@ -1,6 +1,8 @@
 main:
   - title: Home
     url: /
+  - title: Teaching
+  - url: /
   - title: Publications
     url: /publications/
   - title: Google Scholar
