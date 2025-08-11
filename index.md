@@ -48,7 +48,7 @@ This site presents my academic background, research interests, teaching, and cur
 
 - **AU Website**: [https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html](https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html)
 - **ORCID**: [https://orcid.org/0000-0002-6001-627X](https://orcid.org/0000-0002-6001-627X)
-- **Google Scholar**: [https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en](https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en)
+- **Google Scholar**: "https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en"
 - **GitHub**: [github.com/avcixm](https://github.com/avcixm)  
 
 ---
