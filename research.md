@@ -19,6 +19,11 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 ## Papers
    Published
    - (add bullet points here)
+   Preprint
+   - (add bullet points here)
+   In preparation
+   - (add bullet points here)
+
 
 
 
