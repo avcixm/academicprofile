@@ -30,12 +30,18 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
       <strong>Three Solutions for a Double-Phase Variable-Exponent Kirchhoff Problem</strong>, <em>Mathematics</em> 13(15) (2025), 2462.
       <a href="https://www.mdpi.com/2227-7390/13/15/2462" target="_blank" rel="noopener">Website</a>
     </li>
-    <li><strong>Singular p(x)-Laplacian equation with application to boundary layer theory</strong>, <em>Applicable Analysis</em> 104(13) (2025), 2546–2566.</li>
+    <li>
+      <strong>Singular p(x)-Laplacian equation with application to boundary layer theory</strong>, <em>Applicable Analysis</em> 104(13) (2025), 2546–2566.
+      <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2473492" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>
       <strong>On a p(x)–Kirchhoff-type Equation with Singular and Superlinear Nonlinearities</strong>, <em>Differential Equations and Dynamical Systems</em>, 2024.
       <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
     </li>
-    <li><strong>Existence results for a class of singular p(x)–Kirchhoff equations</strong>, <em>Complex Variables and Elliptic Equations</em> 70(7) (2025), 1222–1253.</li>
+    <li>
+      <strong>Existence results for a class of singular p(x)–Kirchhoff equations</strong>, <em>Complex Variables and Elliptic Equations</em> 70(7) (2025), 1222–1253.
+      <a href="https://www.tandfonline.com/doi/full/10.1080/17476933.2024.2378316" target="_blank" rel="noopener">Website</a>
+    </li>
     <li><strong>On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities</strong>, <em>Communications in Analysis and Mechanics</em> 16(3) (2024), 554–577.</li>
     <li><strong>On a p(x)-Kirchhoff Problem with Variable Singular and Sublinear Exponents</strong>, <em>Taiwanese Journal of Mathematics</em> 29(2) (2025), 379–402.</li>
     <li><strong>Multiple solutions for a class of p(x)–Kirchhoff-type equations</strong> (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 (2022), 160–168.</li>
@@ -109,6 +115,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
 
 
