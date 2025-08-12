@@ -10,6 +10,7 @@ permalink: /courses/
   <button class="btn export" data-kind="txt">Text</button>
   <button class="btn" onclick="window.print()">Print</button>
 </div>
+
 ## Courses
 - MATH 216 — Computer-Oriented Approach to Statistics
 - MATH 260 — Calculus for Social Sciences and Economics
