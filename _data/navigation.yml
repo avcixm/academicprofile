@@ -7,6 +7,10 @@ main:
     url: /courses/
   - title: Research
     url: /research/
+  - title: Supervision
+    url: /supervision/
   - title: Service & Contributions
     url: /service_contributions/
+  - title: Professional Activities
+    url: /professionalactivities/
 
