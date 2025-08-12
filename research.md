@@ -9,7 +9,7 @@ permalink: /research/
 - Variable Lebesgue spaces
 - Stochastic processes
 
-## Research Specialization Keywords:
+## Research Specialization Keywords
 Partial Differential Equations, Variable Exponent Lebesgue and Sobolev
 Spaces, Variational Mathods, Nonlinear Analysis, Measure Theory, Operator Theory, Stochastic Partial
 Differential Equations, Stochastic Processes and Applications
@@ -20,5 +20,6 @@ Differential Equations, Stochastic Processes and Applications
 
 ## Selected Publications
 - (add bullet points here)
+
 
 
