@@ -102,8 +102,8 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> <em>Under review.</em></li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> <em>Under review.</em></li>
     <li><strong>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems.</strong> <em>Under review.</em></li>
-    <li><strong>Existence and Uniqueness Results for a Singular Elliptic Problem Governed by an Anisotropic (\overset{\rightarrow}{p}(\cdot),\overset{\rightarrow}{q}(\cdot))-Kirchhoff-Type Operator.</strong> <em>Under review.</em></li>
-    <li><strong>Anisotropic Singular Equation with (\overset{\rightarrow}{p}(\cdot),\overset{\rightarrow}{q}(\cdot))-Laplacian Operator and Hardy-type Potential.</strong> <em>Under review.</em></li>
+    <li><strong>Existence and Uniqueness Results for a Singular Elliptic Problem Governed by an Anisotropic (p(⋅), q(⋅))-Kirchhoff-Type Operator.</strong> <em>Under review.</em></li>
+    <li><strong>Anisotropic Singular Equation with (p(⋅), q(⋅))-Laplacian Operator and Hardy-type Potential.</strong> <em>Under review.</em></li>
     <li><strong>A topological result for a singular double phase variable exponent problem.</strong> <em>Under review.</em></li>
     <li><strong>Variational and nonvariational solutions for double phase variable exponent problems.</strong> <em>Under review.</em></li>
     <li><strong>Nehari manifold approach for a singular multi-phase variable exponent problem.</strong> <em>Under review.</em></li>
@@ -121,6 +121,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
 
 
