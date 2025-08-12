@@ -25,9 +25,14 @@ title: Welcome to my Academic Portfolio
   </div>
 </div>
 
+I am an Assistant Professor in Applied Mathematics at the Athabasca University. I completed my B.Sc., M.Sc., and Ph.D. degrees in Mathematics. 
 This academic portfolio provides an up-to-date, structured summary of my professional contributions as a faculty member at Athabasca University, highlighting my work in teaching, research, and service to the academic and broader community. The introductory section includes my full curriculum vitae, contact information, and a detailed account of my academic background prior to joining Athabasca University.
 
 ## Educational Background
  - PhD Mathematics, Dicle University
  - MSc Mathematics, Dicle University
  - BSc Mathematics, Dicle University
+
+## Past Academic Positions
+ -Lecturer, Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
+ -Assistant Professor, Department of Mathematics, Trent University (2020/8 - 2021/7).
