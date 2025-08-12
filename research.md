@@ -30,7 +30,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Singular p(x)-Laplacian equation with application to boundary layer theory</strong>, <em>Applicable Analysis</em> 104(13) (2025), 2546–2566.</li>
     <li>
       <strong>On a p(x)–Kirchhoff-type Equation with Singular and Superlinear Nonlinearities</strong>, <em>Differential Equations and Dynamical Systems</em>, 2024.
-      <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener"></a>
+      <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
     </li>
     <li><strong>Existence results for a class of singular p(x)–Kirchhoff equations</strong>, <em>Complex Variables and Elliptic Equations</em> 70(7) (2025), 1222–1253.</li>
     <li><strong>On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities</strong>, <em>Communications in Analysis and Mechanics</em> 16(3) (2024), 554–577.</li>
@@ -106,6 +106,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
 
 
