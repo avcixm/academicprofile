@@ -16,8 +16,10 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
-## Selected Publications
+## Papers
+ # Published
 - (add bullet points here)
+
 
 
 
