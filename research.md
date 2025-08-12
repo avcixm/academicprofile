@@ -21,7 +21,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (2014-2015).
 
 ## Book & Book Chapters
-- <strong>Nontrivial Weak Solutions of a Quasilinear Equation Involving p-Laplace Operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
+- <strong>Nontrivial Wweak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
   ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2.
   <a href="https://stm1.bookpi.org/index.php/amacs-v2" target="_blank" rel="noopener">Website</a>
 - <strong>A Closer Look at Boundary Value Problems</strong> (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
@@ -40,9 +40,9 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
   <summary><strong>Published / Accepted</strong></summary>
 
   <ol>
-    <li><strong>Existence and Multiplicity of Solutions for a Discrete Fourth-Order Boundary Value Problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted (2025).</li>
+    <li><strong>Existence and multiplicity of solutions for a discrete fourth-order boundary value problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted (2025).</li>
     <li>
-      <strong>Three Solutions for a Double-Phase Variable-Exponent Kirchhoff Problem</strong>, <em>Mathematics</em> 13(15) (2025), 2462.
+      <strong>Three Solutions for a double-phase variable-exponent Kirchhoff problem</strong>, <em>Mathematics</em> 13(15) (2025), 2462.
       <a href="https://www.mdpi.com/2227-7390/13/15/2462" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -50,7 +50,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
       <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2473492" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      <strong>On a p(x)–Kirchhoff-type Equation with Singular and Superlinear Nonlinearities</strong>, <em>Differential Equations and Dynamical Systems</em>, 2024.
+      <strong>On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities</strong>, <em>Differential Equations and Dynamical Systems</em>, 2024.
       <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -62,13 +62,13 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
       <a href="https://www.aimspress.com/article/doi/10.3934/cam.2024026" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      <strong>On a p(x)-Kirchhoff Problem with Variable Singular and Sublinear Exponents</strong>, <em>Taiwanese Journal of Mathematics</em> 29(2) (2025), 379–402.
+      <strong>On a p(x)-Kirchhoff problem with variable singular and sublinear exponents</strong>, <em>Taiwanese Journal of Mathematics</em> 29(2) (2025), 379–402.
       <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank" rel="noopener">Website</a>
     </li>
     <li><strong>Multiple solutions for a class of p(x)–Kirchhoff-type equations</strong> (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 (2022), 160–168.</li>
     <li><strong>Solutions of Ginzburg–Landau-type equations involving variable exponent</strong>, <em>Thai Journal of Mathematics</em> 20(1) (2022), 369–384.</li>
     <li><strong>Critical points approaches to a nonlocal elliptic problem driven by p(x)–biharmonic operator</strong> (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) (2021), 55–69.</li>
-    <li><strong>A Class of Nonlocal Elliptic Equations in Orlicz–Sobolev Spaces</strong> (with B. Suer, V. Turut), <em>Journal of Abstract and Computational Mathematics</em> 6(2) (2021), 16–29.</li>
+    <li><strong>A Class of nonlocal elliptic equations in Orlicz–Sobolev spaces</strong> (with B. Suer, V. Turut), <em>Journal of Abstract and Computational Mathematics</em> 6(2) (2021), 16–29.</li>
     <li><strong>On a nonlocal problem with indefinite weights in Orlicz–Sobolev space</strong> (with N. T. Chung), <em>Communications of the Korean Mathematical Society</em> 35(2) (2020), 517–532.</li>
     <li><strong>A variational approach to the existence of infinitely many solutions for difference equations</strong> (with M. K. Moghadam, S. Tersian), <em>Journal of New Research in Mathematics</em> 5(22) (2020), 99–110.</li>
     <li><strong>A topological result for a class of anisotropic difference equations</strong>, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 46(2) (2019), 328–343.</li>
@@ -117,14 +117,14 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> <em>Under review.</em></li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> <em>Under review.</em></li>
     <li><strong>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems.</strong> <em>Under review.</em></li>
-    <li><strong>Existence and Uniqueness Results for a Singular Elliptic Problem Governed by an Anisotropic (p(⋅), q(⋅))-Kirchhoff-Type Operator.</strong> <em>Under review.</em></li>
+    <li><strong>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator.</strong> <em>Under review.</em></li>
     <li><strong>Anisotropic Singular Equation with (p(⋅), q(⋅))-Laplacian Operator and Hardy-type Potential.</strong> <em>Under review.</em></li>
     <li><strong>A topological result for a singular double phase variable exponent problem.</strong> <em>Under review.</em></li>
     <li><strong>Variational and nonvariational solutions for double phase variable exponent problems.</strong> <em>Under review.</em></li>
     <li><strong>Nehari manifold approach for a singular multi-phase variable exponent problem.</strong> <em>Under review.</em></li>
-    <li><strong>Anisotropic Variable Exponent Kirchhoff-type Equation with Double Singularity</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
-    <li><strong>Singular Kirchhoff–Ginzburg–Landau-type Equation with Variable Exponent</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
-    <li><strong>On a p(x)-Kirchhoff Equation with Double Singularity Exponent</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
+    <li><strong>Anisotropic Variable exponent Kirchhoff-type equation with double singularity</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
+    <li><strong>Singular Kirchhoff–Ginzburg–Landau-type equation with variable Exponent</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
+    <li><strong>On a p(x)-Kirchhoff Equation with double singularity exponent</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
     <li><strong>Existence results for a class of double phase singular Kirchhoff-type equations with nonstandard growth</strong> (with A. Razani). <em>Under review.</em></li>
   </ol>
 </details>
@@ -147,6 +147,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Variational Approach for Analysis of PDEs</strong>, Mathematics Colloquium, Northwestern Polytechnic, Science Department, Grande Prairie, AB, Canada, February, 2020.</li>
   </ol>
 </details>
+
 
 
 
