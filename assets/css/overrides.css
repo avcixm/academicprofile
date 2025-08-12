@@ -134,4 +134,33 @@ hr { border-top: 2px solid var(--au-card-border); }
 /* Keep menu left-aligned with the card */
 .greedy-nav { justify-content: flex-start !important; }
 
+/* Nicely styled collapsibles */
+details.hover-open {
+  border: 1px solid var(--au-card-border);
+  border-radius: 6px;
+  padding: .35rem .5rem;
+  background: rgba(255, 244, 237, .5);
+  margin: .6rem 0;
+}
+
+details.hover-open summary {
+  list-style: none;             /* removes default marker */
+  cursor: pointer;
+  font-weight: 600;
+  outline: none;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  user-select: none;
+}
+
+/* custom caret */
+details.hover-open summary::-webkit-details-marker { display: none; }
+details.hover-open summary::after {
+  content: "▸";
+  margin-left: auto;
+  transition: transform .15s ease;
+  color: var(--au-orange);
+}
+details.hover-open[open] summary::after { transform: rotate(90deg); }
 
