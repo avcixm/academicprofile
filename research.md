@@ -21,8 +21,8 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 <details class="hover-open">
   <summary><strong>Published</strong></summary>
 
-- Title A — *Journal*, 2025. [DOI](#)
-- Title B — *Journal*, 2024. [DOI](#)
+- Title A, *Journal*, 2025. [DOI](#)
+- Title B, *Journal*, 2024. [DOI](#)
 
 </details>
 
@@ -40,6 +40,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - Working title 2
 
 </details>
+
 
 
 
