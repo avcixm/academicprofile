@@ -17,3 +17,22 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('details.hover-open').forEach(function (det) {
+    const sum = det.querySelector('summary');
+    if (!sum) return;
+
+    // Open on hover / focus
+    det.addEventListener('mouseenter', () => { det.open = true; });
+    det.addEventListener('mouseleave', () => { det.open = false; });
+    sum.addEventListener('focus', () => { det.open = true; });
+    sum.addEventListener('blur',  () => { det.open = false; });
+
+    // Keep click working for mobile/keyboard (no changes needed)
+    // Optional: ESC closes
+    sum.addEventListener('keydown', (e) => { if (e.key === 'Escape') det.open = false; });
+  });
+});
+</script>
