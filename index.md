@@ -4,7 +4,7 @@ title: Welcome to my Academic Portfolio
 ---
 <div class="home-media">
   <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
-  <a href="https://www.athabascau.ca/science-and-technology/our-people/mustafa-avci.html" target="_blank" rel="noopener">
+  <a href="https://www.athabascau.ca/" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/AU_background.png' | relative_url }}" alt="Athabasca University" class="home-au">
   </a>
 
