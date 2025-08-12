@@ -164,3 +164,9 @@ details.hover-open summary::after {
 }
 details.hover-open[open] summary::after { transform: rotate(90deg); }
 
+.download-bar{ display:flex; gap:.5rem; flex-wrap:wrap; margin:.25rem 0 1rem; }
+.download-bar .btn{
+  padding:.35rem .6rem; border:1px solid var(--au-card-border);
+  border-radius:6px; background:#fff; cursor:pointer;
+}
+.download-bar .btn:hover{ background: var(--au-orange); color:#fff; border-color:var(--au-orange); }
