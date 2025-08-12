@@ -13,11 +13,12 @@ permalink: /research/
 Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
 ## Current Projects
-- Generalized volatility models with state-dependent variable exponent diffusion
+- Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
 ## Selected Publications
 - (add bullet points here)
+
 
 
 
