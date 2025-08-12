@@ -22,7 +22,8 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 
 ## Book & Book Chapters
 - Nontrivial Weak Solutions of a Quasilinear Equation Involving p-Laplace Operator (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
-  ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2
+  ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2.
+  <a href="https://stm1.bookpi.org/index.php/amacs-v2" target="_blank" rel="noopener">Website</a>
 - A Closer Look at Boundary Value Problems (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
   <a href="https://novapublishers.com/shop/a-closer-look-at-boundary-value-problems/" target="_blank" rel="noopener">Book</a>
 
@@ -132,6 +133,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
 
 
