@@ -21,7 +21,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (2014-2015).
 
 ## Book & Book Chapters
-- <strong>Nontrivial Wweak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
+- <strong>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
   ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2.
   <a href="https://stm1.bookpi.org/index.php/amacs-v2" target="_blank" rel="noopener">Website</a>
 - <strong>A Closer Look at Boundary Value Problems</strong> (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
@@ -147,6 +147,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Variational Approach for Analysis of PDEs</strong>, Mathematics Colloquium, Northwestern Polytechnic, Science Department, Grande Prairie, AB, Canada, February, 2020.</li>
   </ol>
 </details>
+
 
 
 
