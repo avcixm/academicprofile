@@ -144,9 +144,10 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
   <summary><strong>List</strong></summary>
   <ol>
     <li><strong>The Regularization method for multivalued elliptic PDEs with variable exponent<strong>International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29-31 October 2020.</li>
-    <li><strong>2.	Variational Approach for Analysis of PDEs<strong>Mathematics Colloquium, Northwestern Polytechnic, Science Department, Grande Prairie, AB, Canada, February, 2020.</li>
+    <li><strong>Variational Approach for Analysis of PDEs<strong>Mathematics Colloquium, Northwestern Polytechnic, Science Department, Grande Prairie, AB, Canada, February, 2020.</li>
   </ol>
 </details>
+
 
 
 
