@@ -18,6 +18,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 
 ## Papers
 
+
 <details class="hover-open">
   <summary><strong>Published / Accepted</strong></summary>
 
@@ -75,11 +76,24 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 
 <!-- (Optional) add more collapsible groups like this: -->
 <details class="hover-open">
-  <summary><strong>Preprints</strong></summary>
+  <summary><strong>Submitted</strong></summary>
+
   <ol>
-    <li>—</li>
+    <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> <em>Under review.</em></li>
+    <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> <em>Under review.</em></li>
+    <li><strong>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems.</strong> <em>Under review.</em></li>
+    <li><strong>Existence and Uniqueness Results for a Singular Elliptic Problem Governed by an Anisotropic $(\overset{\rightarrow}{p}(\cdot),\overset{\rightarrow}{q}(\cdot))$-Kirchhoff-Type Operator.</strong> <em>Under review.</em></li>
+    <li><strong>Anisotropic Singular Equation with $(\overset{\rightarrow}{p}(\cdot),\overset{\rightarrow}{q}(\cdot))$-Laplacian Operator and Hardy-type Potential.</strong> <em>Under review.</em></li>
+    <li><strong>A topological result for a singular double phase variable exponent problem.</strong> <em>Under review.</em></li>
+    <li><strong>Variational and nonvariational solutions for double phase variable exponent problems.</strong> <em>Under review.</em></li>
+    <li><strong>Nehari manifold approach for a singular multi-phase variable exponent problem.</strong> <em>Under review.</em></li>
+    <li><strong>Anisotropic Variable Exponent Kirchhoff-type Equation with Double Singularity</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
+    <li><strong>Singular Kirchhoff–Ginzburg–Landau-type Equation with Variable Exponent</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
+    <li><strong>On a $p(x)$-Kirchhoff Equation with Double Singularity Exponent</strong> (with B. Cekic, Z. Yucedag). <em>Under review.</em></li>
+    <li><strong>Existence results for a class of double phase singular Kirchhoff-type equations with nonstandard growth</strong> (with A. Razani). <em>Under review.</em></li>
   </ol>
 </details>
+
 
 <details class="hover-open">
   <summary><strong>In preparation</strong></summary>
@@ -87,3 +101,4 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
