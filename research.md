@@ -18,6 +18,8 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 
 ## Papers
 
+<!-- (The list is numbered automatically by <ol>…</ol>. Items stay numbered even when the section is collapsed. -->
+<!-- (You can add DOI/arXiv/PDF links inside each <li> as needed. -->
 
 <details class="hover-open">
   <summary><strong>Published / Accepted</strong></summary>
@@ -101,4 +103,5 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
