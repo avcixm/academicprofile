@@ -27,6 +27,9 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - A Closer Look at Boundary Value Problems (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
   <a href="https://novapublishers.com/shop/a-closer-look-at-boundary-value-problems/" target="_blank" rel="noopener">Website</a>
 
+## Conference Proceedings
+- A new solution of some weighted problems for Riemann-Liouville and Weyl operators (with S. Ograş, R. Mashiyev), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007, 2009.
+  <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
 ## Papers (click to see the lists)
 
@@ -133,6 +136,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
 
 
