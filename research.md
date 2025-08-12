@@ -16,6 +16,15 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
+## Research Funding
+- Athabasca University, Research Incentive Account Grant (2023-2026).
+- International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (2014-2015).
+
+## Book & Book Chapters
+- Nontrivial Weak Solutions of a Quasilinear Equation Involving p-Laplace Operator (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
+  ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2
+- A Closer Look at Boundary Value Problems (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
+
 ## Papers (click to see the lists)
 
 <!-- (The list is numbered automatically by <ol>…</ol>. Items stay numbered even when the section is collapsed. -->
@@ -123,9 +132,8 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 </details>
 
 
-## Research Funding
-- Athabasca University, Research Incentive Account Grant (2023-2026).
-- International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (2014-2015).
+
+
 
 
 
