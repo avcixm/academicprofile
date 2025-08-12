@@ -121,3 +121,17 @@ hr { border-top: 2px solid var(--au-card-border); }
   .home-links a:hover { color: var(--au-orange); }
 }
 
+/* Give the masthead more width than the card (left edge still aligned) */
+.masthead__inner-wrap{
+  max-width: calc(var(--content-w) + 320px) !important; /* add ~320px of space to the right */
+  margin: 0 auto;
+}
+
+/* Tighten nav so more items fit */
+.greedy-nav .visible-links > li { margin: 0 .35rem; }
+.greedy-nav .visible-links > li > a { font-size: .95rem; padding: 0; }
+
+/* Keep menu left-aligned with the card */
+.greedy-nav { justify-content: flex-start !important; }
+
+
