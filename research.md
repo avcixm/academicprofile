@@ -28,13 +28,16 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Existence and Multiplicity of Solutions for a Discrete Fourth-Order Boundary Value Problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>, Accepted (2025).</li>
     <li><strong>Three Solutions for a Double-Phase Variable-Exponent Kirchhoff Problem</strong>, <em>Mathematics</em> 13(15) (2025), 2462.</li>
     <li><strong>Singular p(x)-Laplacian equation with application to boundary layer theory</strong>, <em>Applicable Analysis</em> 104(13) (2025), 2546–2566.</li>
-    <li><strong>On a –Kirchhoff-type Equation with Singular and Superlinear Nonlinearities</strong>, <em>Differential Equations and Dynamical Systems</em>, 2024.</li>
-    <li><strong>Existence results for a class of singular –Kirchhoff equations</strong>, <em>Complex Variables and Elliptic Equations</em> 70(7) (2025), 1222–1253.</li>
+    <li>
+      <strong>On a p(x)–Kirchhoff-type Equation with Singular and Superlinear Nonlinearities</strong>, <em>Differential Equations and Dynamical Systems</em>, 2024.
+      <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener"></a>
+    </li>
+    <li><strong>Existence results for a class of singular p(x)–Kirchhoff equations</strong>, <em>Complex Variables and Elliptic Equations</em> 70(7) (2025), 1222–1253.</li>
     <li><strong>On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities</strong>, <em>Communications in Analysis and Mechanics</em> 16(3) (2024), 554–577.</li>
     <li><strong>On a p(x)-Kirchhoff Problem with Variable Singular and Sublinear Exponents</strong>, <em>Taiwanese Journal of Mathematics</em> 29(2) (2025), 379–402.</li>
-    <li><strong>Multiple solutions for a class of –Kirchhoff-type equations</strong> (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 (2022), 160–168.</li>
+    <li><strong>Multiple solutions for a class of p(x)–Kirchhoff-type equations</strong> (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 (2022), 160–168.</li>
     <li><strong>Solutions of Ginzburg–Landau-type equations involving variable exponent</strong>, <em>Thai Journal of Mathematics</em> 20(1) (2022), 369–384.</li>
-    <li><strong>Critical points approaches to a nonlocal elliptic problem driven by –biharmonic operator</strong> (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) (2021), 55–69.</li>
+    <li><strong>Critical points approaches to a nonlocal elliptic problem driven by p(x)–biharmonic operator</strong> (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) (2021), 55–69.</li>
     <li><strong>A Class of Nonlocal Elliptic Equations in Orlicz–Sobolev Spaces</strong> (with B. Suer, V. Turut), <em>Journal of Abstract and Computational Mathematics</em> 6(2) (2021), 16–29.</li>
     <li><strong>On a nonlocal problem with indefinite weights in Orlicz–Sobolev space</strong> (with N. T. Chung), <em>Communications of the Korean Mathematical Society</em> 35(2) (2020), 517–532.</li>
     <li><strong>A variational approach to the existence of infinitely many solutions for difference equations</strong> (with M. K. Moghadam, S. Tersian), <em>Journal of New Research in Mathematics</em> 5(22) (2020), 99–110.</li>
@@ -67,11 +70,11 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li><strong>Solutions of nonlocal (p₁(x), p₂(x))-Laplacian equations</strong> (with R. Mashiyev), <em>International Journal of Partial Differential Equations</em>, Vol. 2013, Article ID 364251, 7 pages.</li>
     <li><strong>Existence of weak solutions for a nonlocal problem involving the –Laplace operator</strong>, <em>Universal Journal of Applied Mathematics</em> 1(3) (2013), 192–197.</li>
     <li><strong>Solutions of an anisotropic nonlocal problem involving variable exponent</strong> (with R. Mashiyev, B. Cekic), <em>Advances in Nonlinear Analysis</em> 2(3) (2013), 325–338.</li>
-    <li><strong>On an elliptic system of –Kirchhoff-type under Neumann boundary condition</strong> (with Z. Yucedag, R. Mashiyev), <em>Mathematical Modelling and Analysis</em> 17(2) (2012), 161–170.</li>
+    <li><strong>On an elliptic system of p(x)–Kirchhoff-type under Neumann boundary condition</strong> (with Z. Yucedag, R. Mashiyev), <em>Mathematical Modelling and Analysis</em> 17(2) (2012), 161–170.</li>
     <li><strong>p-estimates of vector fields and applications to magnetostatics problems</strong> (with B. Cekic, A. V. Kalinin, R. Mashiyev), <em>Journal of Mathematical Analysis and Applications</em> 389(2) (2012), 838–851.</li>
     <li><strong>Existence and multiplicity of weak solutions for nonuniformly elliptic equations with nonstandard growth</strong> (with R. Mashiyev, B. Cekic, Z. Yucedag), <em>Complex Variables and Elliptic Equations</em> 57(5) (2012), 579–595.</li>
     <li><strong>Existence and multiplicity of solutions of the p(x)-Kirchhoff type equation via genus theory</strong> (with B. Cekic, R. Mashiyev), <em>Mathematical Methods in the Applied Sciences</em> 34(14) (2011), 1751–1759.</li>
-    <li><strong>The Nehari manifold approach for a Dirichlet problem involving the –Laplacian</strong> (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) (2010), 845–860.</li>
+    <li><strong>The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian</strong> (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) (2010), 845–860.</li>
     <li><strong>Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p, q)-Laplacian</strong> (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 (2008).</li>
   </ol>
 </details>
@@ -103,6 +106,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
     <li>—</li>
   </ol>
 </details>
+
 
 
 
