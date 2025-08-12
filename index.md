@@ -25,5 +25,7 @@ title: Welcome to my Academic Portfolio
   </div>
 </div>
 
-This academic portfolio provides an up-to-date, structured summary of my professional contributions as a faculty member at Athabasca University, highlighting my work in teaching, research, and service to the academic and broader community. The introductory section includes my full curriculum vitae, contact information, and a detailed account of my academic background prior to joining Athabasca University.
 
+
+
+This academic portfolio provides an up-to-date, structured summary of my professional contributions as a faculty member at Athabasca University, highlighting my work in teaching, research, and service to the academic and broader community. The introductory section includes my full curriculum vitae, contact information, and a detailed account of my academic background prior to joining Athabasca University.
