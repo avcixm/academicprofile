@@ -4,13 +4,21 @@ title: Research
 permalink: /research/
 ---
 
+<!-- Export buttons -->
+<div class="download-bar">
+  <a class="btn" href="{{ '/assets/exports/research.pdf'  | relative_url }}">PDF</a>
+  <a class="btn" href="{{ '/assets/exports/research.docx' | relative_url }}">Word</a>
+  <a class="btn" href="{{ '/assets/exports/research.txt'  | relative_url }}">Text</a>
+  <button class="btn" onclick="window.print()">Print</button>
+</div>
+
 ## Research Interests
 - Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
 - Stochastic processes
 
 ## Research Specialization Keywords
-Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
+Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
 ## Current Projects
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
@@ -33,10 +41,9 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 
 ## Papers <small>(click to see the lists)</small>
 
-<!-- (The list is numbered automatically by <ol>…</ol>. Items stay numbered even when the section is collapsed. -->
-<!-- (You can add DOI/arXiv/PDF links inside each <li> as needed. -->
+<!-- The lists are numbered by <ol>. They also open on hover thanks to the `hover-open` class. -->
 
-<details>
+<details class="hover-open">
   <summary><strong>Published / Accepted</strong></summary>
 
   <ol>
@@ -109,8 +116,7 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
   </ol>
 </details>
 
-<!-- (Optional) add more collapsible groups like this: -->
-<details>
+<details class="hover-open">
   <summary><strong>Submitted</strong></summary>
 
   <ol>
@@ -129,46 +135,19 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
   </ol>
 </details>
 
-
-<details>
+<details class="hover-open">
   <summary><strong>In preparation</strong></summary>
   <ol>
     <li>—</li>
   </ol>
 </details>
 
-
 ## Presentations & Talks
 
-<details>
+<details class="hover-open">
   <summary><strong>List</strong></summary>
   <ol>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29-31 October 2020.</li>
     <li><strong>Variational approach for analysis of PDEs</strong>, Mathematics Colloquium, Northwestern Polytechnic, Science Department, Grande Prairie, AB, Canada, February, 2020.</li>
   </ol>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
