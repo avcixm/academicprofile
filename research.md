@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-<!-- Export buttons -->
+<!-- Export buttons (no 404; PDF opens print dialog, Word/TXT download locally) -->
 <div class="download-bar">
-  <a class="btn" href="{{ '/assets/exports/research.pdf'  | relative_url }}">PDF</a>
-  <a class="btn" href="{{ '/assets/exports/research.docx' | relative_url }}">Word</a>
-  <a class="btn" href="{{ '/assets/exports/research.txt'  | relative_url }}">Text</a>
+  <button class="btn export" data-kind="pdf">PDF</button>
+  <button class="btn export" data-kind="doc">Word</button>
+  <button class="btn export" data-kind="txt">Text</button>
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
@@ -41,9 +41,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
 
 ## Papers <small>(click to see the lists)</small>
 
-<!-- The lists are numbered by <ol>. They also open on hover thanks to the `hover-open` class. -->
-
-<details class="hover-open">
+<details>
   <summary><strong>Published / Accepted</strong></summary>
 
   <ol>
@@ -116,9 +114,8 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
   </ol>
 </details>
 
-<details class="hover-open">
+<details>
   <summary><strong>Submitted</strong></summary>
-
   <ol>
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> <em>Under review.</em></li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> <em>Under review.</em></li>
@@ -135,7 +132,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
   </ol>
 </details>
 
-<details class="hover-open">
+<details>
   <summary><strong>In preparation</strong></summary>
   <ol>
     <li>—</li>
@@ -144,7 +141,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
 
 ## Presentations & Talks
 
-<details class="hover-open">
+<details>
   <summary><strong>List</strong></summary>
   <ol>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29-31 October 2020.</li>
