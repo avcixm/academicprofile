@@ -21,25 +21,26 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 <details class="hover-open">
   <summary><strong>Published</strong></summary>
 
-- **Title A** — *Journal*, 2025. [DOI](#)
-- **Title B** — *Journal*, 2024. [DOI](#)
+- Title A — *Journal*, 2025. [DOI](#)
+- Title B — *Journal*, 2024. [DOI](#)
 
 </details>
 
 <details class="hover-open">
   <summary><strong>Preprints</strong></summary>
 
-- **Preprint title**, with Coauthor — arXiv:1234.5678. [arXiv](#)
+- Preprint title, with Coauthor — arXiv:1234.5678. [arXiv](#)
 
 </details>
 
 <details class="hover-open">
   <summary><strong>In preparation</strong></summary>
 
-- **Working title 1**
-- **Working title 2**
+- Working title 1
+- Working title 2
 
 </details>
+
 
 
 
