@@ -5,4 +5,4 @@ permalink: /professionalactivities/
 ---
 
 ## Editorial Activities
-- Analysis of variable exponent PDEs (Deterministic & Stochastic)
+- Editorial Board Member, Advances in Differential Equations and Control Processes
