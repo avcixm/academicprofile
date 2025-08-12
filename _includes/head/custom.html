@@ -36,3 +36,52 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+
+<script>
+/* Export buttons: PDF opens print dialog; DOC/TXT generated client-side */
+document.addEventListener('DOMContentLoaded', function () {
+  const contentSel = '.page__content';
+  function getContentNode() {
+    const node = document.querySelector(contentSel) || document.querySelector('main') || document.body;
+    const clone = node.cloneNode(true);
+    // remove the export bar from the exported content
+    const bar = clone.querySelector('.download-bar');
+    if (bar) bar.remove();
+    return clone;
+  }
+  function download(filename, blob){
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    requestAnimationFrame(()=>{ URL.revokeObjectURL(url); a.remove(); });
+  }
+  function htmlForWord(innerHTML, title){
+    return `
+      <html xmlns:o='urn:schemas-microsoft-com:office:office'
+            xmlns:w='urn:schemas-microsoft-com:office:word'
+            xmlns='http://www.w3.org/TR/REC-html40'>
+        <head><meta charset="utf-8"><title>${title}</title></head>
+        <body>${innerHTML}</body>
+      </html>`;
+  }
+
+  document.querySelectorAll('.download-bar .export').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      const kind  = btn.dataset.kind; // pdf | doc | txt
+      const title = (document.querySelector('.page__title')?.innerText || document.title).trim().replace(/\s+/g,'_');
+
+      if (kind === 'pdf') { window.print(); return; }
+
+      const node = getContentNode();
+      if (kind === 'txt') {
+        const text = node.innerText.replace(/\n{3,}/g, '\n\n');
+        download(`${title}.txt`, new Blob([text], {type:'text/plain'}));
+      } else if (kind === 'doc') {
+        const html = htmlForWord(node.innerHTML, title);
+        download(`${title}.doc`, new Blob([html], {type:'application/msword'}));
+      }
+    });
+  });
+});
+</script>
