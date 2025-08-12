@@ -17,8 +17,9 @@ Variable Exponent Lebesgue Spaces, Variational Mathods, Nonlinear Analysis, Meas
 - PDEs in variable Lebesgue and Sobolev spaces
 
 ## Papers
- # Published
-- (add bullet points here)
+   Published
+   - (add bullet points here)
+
 
 
 
