@@ -34,5 +34,5 @@ This academic portfolio provides an up-to-date, structured summary of my profess
  - BSc Mathematics, Dicle University
 
 ## Past Academic Positions
- -Lecturer, Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
- -Assistant Professor, Department of Mathematics, Trent University (2020/8 - 2021/7).
+ - Lecturer, Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
+ - Assistant Professor, Department of Mathematics, Trent University (2020/8 - 2021/7).
