@@ -9,7 +9,7 @@ title: Welcome to my Academic Portfolio
   </a>
 
   <div class="home-links">
-    <h3>Academic Pages</h3>
+    <h3>Web Presence</h3>
     <ul>
       <li>ORCID: <a href="https://orcid.org/0000-0002-6001-627X" target="_blank" rel="noopener">https://orcid.org/0000-0002-6001-627X</a></li>
       <li>Google Scholar: <a href="https://scholar.google.com.tw/citations?user=kzgJh58AAAAJ&hl=en" target="_blank" rel="noopener">profile</a></li>
