@@ -3,7 +3,7 @@ layout: single
 title: Research
 permalink: /research/
 sidebar:
-  title: "Reseacher Profile"
+  title: "Reseacher Profiles"
   nav: research-links
 ---
 <!-- Export buttons (no 404; PDF opens print dialog, Word/TXT download locally) -->
@@ -170,6 +170,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
