@@ -36,3 +36,14 @@ permalink: /courses/
 - MATH 216 — Computer-Oriented Approach to Statistics — Major Revision (2024)
 - MATH 260 — Calculus for Social Sciences and Economics — Minor Revision (2024)
 
+## University of Saskatchewan Courses
+- COMM 121 — Business Mathematics (2021/6 — 2022/7)
+- COMM 207 — Business Statistics II (2019/Summer)
+- COMM 104 — Business Statistics I (2019/Sipring)
+
+## Trent University Courses
+- Applied Calculus (Lecture + Seminar) (2020/Fall & Winter)
+- Calculus I (Lecture + Seminar) (2020/Fall)
+- Calculus IV (Lecture + Seminar)
+- Mathematical Modelling (Lecture + Lab)
+- Mathematical Aspects of Modeling (Lecture + Lab)     
