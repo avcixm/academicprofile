@@ -12,8 +12,10 @@ permalink: /service_contributions/
 </div>
 
 ## Athabasca University Committee Memberships
-- Academic & Professional Development Fund Committee (APDF) - 3-year term: July 1, 2025 to June 30, 2028.
-- ARF
-- GFC Academic Planning Policy Stand Committee
-- GFC Academic Research Committee
-- Academic & Professional Development Fund Committee (APDF) - Replacement term - April 12, 2023 to June 30, 2025.
+- FST Faculty Council - (2022 - )
+- FST Undergraduate Program Council - (2025 - 2028)
+- Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
+- Academic Research Fund Committee (ARF) - (2024 - 2027)
+- GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - 2027)
+- GFC Academic Research Committee (ARC)- (2024 - 2027)
+- Academic & Professional Development Fund Committee (APDF) - Replacement term - (2023 - 2025)
