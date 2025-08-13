@@ -22,3 +22,4 @@ permalink: /service_contributions/
 
 ## AU Ad Hoc Committee/Group Memberships 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
+- Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - )
