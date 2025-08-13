@@ -193,3 +193,26 @@ details.hover-open[open] summary::after { transform: rotate(90deg); }
 .sidebar__title {
   color: var(--au-orange) !important;
 }
+/* === Research sidebar links (Google Scholar, ResearchGate, arXiv) === */
+/* Minimal Mistakes puts these in the right sidebar nav list */
+.sidebar .nav__list a,
+.sidebar .nav__list a:visited {
+  color: var(--au-orange) !important;  /* make link text AU orange */
+}
+
+/* hover/focus style (optional) */
+.sidebar .nav__list a:hover,
+.sidebar .nav__list a:focus {
+  color: #fff !important;
+  background: var(--au-orange);
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+/* make the external-link icon match the text color */
+.sidebar .nav__list a .icon,
+.sidebar .nav__list svg {
+  fill: currentColor !important;
+  color: currentColor !important;
+}
+
