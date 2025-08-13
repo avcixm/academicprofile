@@ -14,6 +14,9 @@ permalink: /professionalactivities/
 ## Editorial Activities
 - Editorial Board Member, Advances in Differential Equations and Control Processes
 
+## Service to Discipline
+- Canadian Mathematical Society, Member (2023/12 - )
+
 ## Event Administration
 - Co-organizer - Organized Session: Recent Developments in Stochastic Analysis, PDEs and Related Topics. <br>
   Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. <a href="https://sites.google.com/view/ucalgary-amd2025/schedule" target="_blank" rel="noopener">Website</a>
@@ -26,3 +29,6 @@ permalink: /professionalactivities/
 - Scientific Board Member, 2nd  International Natural and Health Science Conference (INHSC), October 19-21, 2017, Antalya, Turkey. 
 - Scientific Board Member, 1st International Engineering, Science and Education Conference (INESEC), December 1-3, 2016, Dicle University, Turkey.
 - Session Chair, 1st International Engineering, Science and Education Conference (INESEC), December 1-3, 2016, Dicle University, Turkey.
+
+## Reviewer for Journals
+
