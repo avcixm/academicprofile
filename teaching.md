@@ -52,7 +52,7 @@ permalink: /courses/
 - MATH 1185 Mathematics for Technology I (2021 — 2022) 
 - MATH 2150 Mathematics for Technology II (2020 — 2021) 
 
-## Northwestern Polytechnic (Formerly Grande Prairie Regional College) Courses
+## Northwestern Polytechnic (Grande Prairie Regional College) Courses
 - ST 1510 Introduction to Applied Statistics I (Lecture + Lab) (2019/Fall & Winter)
 - ST 2520 Introduction to Applied Statistics II (Lecture + Lab) (2020/Winter)
 - MA 1130 Elementary Calculus I (Lecture + Seminar) (2019/Fall)
