@@ -16,6 +16,8 @@ main:
 
 # Right-hand links for the Research page
 research-links:
+  - title: ORCID
+    url: https://orcid.org/0000-0002-6001-627X
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=kzgJh58AAAAJ&hl=en
     external: true
