@@ -11,5 +11,6 @@ permalink: /supervision/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
-## Student Supervision 
-- MATH 216 — Computer-Oriented Approach to Statistics
+## Athabasca University Student Supervision 
+- Amina Anna Mahamane Ousmane, MATH 495 Mathematics Projects I. Project Title: Investigating the effectiveness of optimization methods : Full-Batch
+  Gradient Descent vs. Stochastic Gradient Descent for training regression models on housing market data 
