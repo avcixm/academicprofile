@@ -90,6 +90,6 @@ permalink: /courses/
 - 61090128  Business Statistics
 - 61090201  Research Methods          
 
-
-
-
+## Dicle University (2009 – 2013)
+- Business Mathematics
+- Business Statistics
