@@ -27,4 +27,12 @@ permalink: /service_contributions/
 - ARC CFI-JELF Expression of Interest Review Subcommittee (2025)
 - Applied Math Program Advisory Committee - (2025 - )
 - Mobius Ladership Group - (2024 - )
+- Hiring Committee service - Assistant Professor - Applied Math.
+- Hiring Committee service - Tutor - MATH 216.
+- Hiring Committee service-Tutor - MATH 266.
+- Hiring Committee service-Tutor - MATH 309.
+- Hiring Committee service-Tutor - MATH 376.
+- Hiring Committee service-Tutor - MATH 476.
+- Hiring Committee service-Tutor - MATH 480.
+- Hiring Committee service-Tutor - MATH 481.
 
