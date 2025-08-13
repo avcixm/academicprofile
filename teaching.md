@@ -42,8 +42,8 @@ permalink: /courses/
 - COMM 104 — Business Statistics I (2019/Sipring)
 
 ## Trent University Courses
-- Applied Calculus (Lecture + Seminar) (2020/Fall & Winter)
-- Calculus I (Lecture + Seminar) (2020/Fall)
-- Calculus IV (Lecture + Seminar)
-- Mathematical Modelling (Lecture + Lab)
-- Mathematical Aspects of Modeling (Lecture + Lab)     
+- MATH 1005H — Applied Calculus (Lecture + Seminar) (2020/Fall & Winter)
+- MATH 1110H — Calculus I (Lecture + Seminar) (2020/Fall)
+- MATH 2120H — Calculus IV (Lecture + Seminar)
+- MATH 4120H — Mathematical Modelling I (Lecture + Lab)
+- AMOD 5220H — Mathematical Aspects of Modeling (Lecture + Lab)     
