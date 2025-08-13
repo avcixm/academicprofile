@@ -11,7 +11,7 @@ permalink: /service_contributions/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
-## Athabasca University Committee Memberships
+## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - )
 - FST Undergraduate Program Council - (2025 - 2028)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
@@ -19,3 +19,6 @@ permalink: /service_contributions/
 - GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - 2027)
 - GFC Academic Research Committee (ARC)- (2024 - 2027)
 - Academic & Professional Development Fund Committee (APDF) - Replacement term - (2023 - 2025)
+
+## AU Ad Hoc Committee Memberships 
+- FST Faculty Council - (2022 - )
