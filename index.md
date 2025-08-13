@@ -2,6 +2,13 @@
 layout: single
 title: Welcome to my Academic Portfolio
 ---
+<!-- Export buttons (no 404; PDF opens print dialog, Word/TXT download locally) -->
+<div class="download-bar">
+  <button class="btn export" data-kind="pdf">PDF</button>
+  <button class="btn export" data-kind="doc">Word</button>
+  <button class="btn export" data-kind="txt">Text</button>
+  <button class="btn" onclick="window.print()">Print</button>
+</div>
 <div class="home-media">
   <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
   <a href="https://www.athabascau.ca/science-and-technology/index.html" target="_blank" rel="noopener">
