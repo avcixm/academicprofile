@@ -170,3 +170,26 @@ details.hover-open[open] summary::after { transform: rotate(90deg); }
   border-radius:6px; background:#fff; cursor:pointer;
 }
 .download-bar .btn:hover{ background: var(--au-orange); color:#fff; border-color:var(--au-orange); }
+
+/* ===== AU orange titles ===== */
+
+/* Main page title (H1) and in-content headings */
+.page__title,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  color: var(--au-orange) !important;
+}
+
+/* Collapsible section headers (<details><summary>…</summary>) */
+.page__content details > summary {
+  color: var(--au-orange);
+  font-weight: 700;           /* keep them bold */
+}
+.page__content details > summary * { color: inherit; }  /* e.g., <strong> inside summary */
+
+/* Right-hand sidebar box title (Minimal Mistakes) */
+.sidebar .nav__title,
+.sidebar__title {
+  color: var(--au-orange) !important;
+}
