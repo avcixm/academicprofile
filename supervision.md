@@ -21,3 +21,9 @@ permalink: /supervision/
   Stochastic Gradient Descent for training regression models on housing market data.
 - John Didiodato - MATH 493 Special Study II. (2024/1 - 2024/5) <br>
   Project Title: Mathematical Finance.
+- Andre Leke Umambo - MATH 495 Mathematics Projects I. (2023/7 - 2023/11) <br>
+  Project Title: The queuing system.
+- Alexander van Dijk - MATH 493 Special Study II. (2022/9 - 2022/12) <br>
+  Project Title: Introduction to Mathematical Finance.
+- Mahin Khan - MATH 492 Special Study I. (2024/7 - 2024/12) <br>
+  Project Title: Measure Theory and Lebesgue Integration.
