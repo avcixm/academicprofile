@@ -27,3 +27,12 @@ permalink: /supervision/
   Project Title: Introduction to Mathematical Finance.
 - Mahin Khan - MATH 492 Special Study I. (2024/7 - 2024/12) <br>
   Project Title: Measure Theory and Lebesgue Integration.
+
+## Theses Supervised
+- Berat Süer - On Solutions of the Ginzburg-Landau-type Equation in Orlicz-Sobolev Spaces, M.Sc. Mathematics (Co-supervisor), Batman University, 2020.
+- Kenan Süslü - On Solutions of Nonlocal Equations in Orlicz-Sobolev Spaces, M.Sc. Mathematics, Batman University, 2017.
+- İdris Teymur - Coefficient Bounds for Subclasses of M-Fold Symmetric Bi-Univalent Functions, M.Sc. Mathematics (Co-supervisor), Batman University, 2017.
+- Diyadin Keskin - Approximation by Simple Functions in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
+- İbrahim Eren Atalay - Convex Functions and Inequalities in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
+- Mehmet Nuri Tüzün, Bounded Linear Operators and Riesz Representation Theorem in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
+- Mustafa Yılmaz, Approximation by Continuous Functions in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
