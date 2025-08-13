@@ -40,7 +40,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
   <a href="https://novapublishers.com/shop/a-closer-look-at-boundary-value-problems/" target="_blank" rel="noopener">Website</a>
 
 ## Conference Proceedings
-- <strong>A new solution of some weighted problems for Riemann-Liouville and Weyl operators</strong> (with S. Ograş, R. Mashiyev), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007, 2009.
+- <strong>A new solution of some weighted problems for Riemann-Liouville and Weyl operators</strong> (with S. Ograş, R. Mashiyev) (2009), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007.
   <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
 ## Papers <small>(click to see the lists)</small>
@@ -170,6 +170,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
