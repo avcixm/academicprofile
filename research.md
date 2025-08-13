@@ -26,14 +26,15 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
-## Research Funding
-- Applied for NSERC-Discovery Grants (Individual) Program 2025 <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
-- Athabasca University Academic Research Fund-Publication (2025)
+## Research Funding (Awards & Grants)
+- External Funding Proposal: Applied for NSERC-Discovery Grants (Individual) Program 2025
+  <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
+- Athabasca University Academic Research Fund-Publication Award (2025)
 - Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2026)
 - International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (Grant No: 1059B191400450, 12 months, 2014-2015).
   <a href="https://tubitak.gov.tr/en/scholarships/postdoctoral/research-scholarship-programs/2219-international-postdoctoral-research-fellowship-program-turkish-citizens" target="_blank" rel="noopener">Website</a>
-- Dicle University Scientific Project Research Management (DUPAB) (2007 - 2009).<br>
-  Project Title: The Solutions of Parabolic and Elliptic Equations with Standard and Nonstandard Growth Conditions in the Variable Exponent Lebesgue-Sobolev Spaces.
+- Dicle University Scientific Project Research Management (DUPAB) Grant (2007 - 2009)<br>
+  for the Research Project: The Solutions of Parabolic and Elliptic Equations with Standard and Nonstandard Growth Conditions in the Variable Exponent Lebesgue-Sobolev Spaces.
 
 ## Book & Book Chapters
 - <strong>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
@@ -173,6 +174,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
