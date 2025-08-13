@@ -29,6 +29,9 @@ permalink: /courses/
 - MGSC 312 — Statistics for Business and Economics II (2020—202)
 
 ## Athabasca University Course Development and Revisions
+- MATH 415 — Introduction to Measure and Integration (In Development)
+- MATH 426 — Introduction to Stochastic Processes (In Development)
+- MATH 437 — Introduction to Stochastic Calculus (In Development)
 - MATH 325 — Linear Programming — Development (2022—2023)
 - MATH 216 — Computer-Oriented Approach to Statistics — Major Revision (2024)
 - MATH 260 — Calculus for Social Sciences and Economics — Minor Revision (2024)
