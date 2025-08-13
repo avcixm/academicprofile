@@ -146,10 +146,27 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
 <details>
   <summary><strong>List</strong></summary>
   <ol>
-    <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29-31 October 2020.</li>
-    <li><strong>Variational approach for analysis of PDEs</strong>, Mathematics Colloquium, Northwestern Polytechnic, Science Department, Grande Prairie, AB, Canada, February, 2020.</li>
+    <li><strong>The Regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
+    <li><strong>Variational Approach for Analysis of PDEs</strong>, Mathematics Colloquium, Grande Prairie Regional College, Science Department, February 2020, Grande Prairie, Canada.</li>
+    <li><strong>Existence and uniqueness results for a Dirichlet problem in Orlicz–Sobolev spaces</strong>, International Conference on Mathematics and Mathematics Education (ICMME-2017), 11–13 May 2017, Şanlıurfa, Turkey.</li>
+    <li><strong>Nontrivial solutions for a Dirichlet problem in Orlicz–Sobolev spaces</strong>, ICMME-2017, 11–13 May 2017, Şanlıurfa, Turkey.</li>
+    <li><strong>Solutions of an anisotropic Kirchhoff problem involving variable exponent</strong>, ICMME-2017, 11–13 May 2017, Şanlıurfa, Turkey.</li>
+    <li><strong>Solutions of Kirchhoff problem in anisotropic variable exponent spaces</strong>, ICMME-2017, 11–13 May 2017, Şanlıurfa, Turkey.</li>
+    <li><strong>On some elliptic problems in Orlicz–Sobolev spaces</strong>, International Health and Natural Sciences Conference (INHSC 2017), 19–21 October 2017, Antalya, Turkey.</li>
+    <li><strong>Solutions to a nonlocal elliptic problem in Orlicz–Sobolev spaces</strong>, INHSC 2017, 19–21 October 2017, Antalya, Turkey.</li>
+    <li><strong>Solutions of generalized anisotropic problems in variable exponent spaces</strong>, INHSC 2017, 19–21 October 2017, Antalya, Turkey.</li>
+    <li><strong>A system of anisotropic discrete boundary value problems</strong>, International Engineering, Science and Education Conference, 1–3 December 2016, Diyarbakır, Turkey.</li>
+    <li><strong>Existence of three solutions to a nonlinear difference equation involving p(k)-Laplace operator</strong>, International Engineering, Science and Education Conference, 1–3 December 2016, Diyarbakır, Turkey.</li>
+    <li><strong>Variable Lebesgue spaces and variational approach</strong>, Morgan State University, Department of Mathematics, Mathematics Colloquium, November 2014, Baltimore, U.S.A.</li>
+    <li><strong>Existence and uniqueness of an elliptic equation with p(x)-Laplace operator</strong>, XXVI. Ulusal Matematik Sempozyumu, 4–7 Eylül 2013, Dicle University, Diyarbakır, Turkey (in Turkish).</li>
+    <li><strong>Power-type weighted Hardy and Hankel operators in variable exponent Morrey space</strong>, “Operators in General Morrey-Type Spaces and Applications” (Dedicated to the 70th Birthday of Prof. Victor I. Burenkov), Ahi Evran University, Kırşehir, Turkey, 20–27 May 2011.</li>
+    <li><strong>Maximal and Riesz operators in weighted variable exponent Morrey space</strong>, same event, Ahi Evran University, Kırşehir, Turkey, 20–27 May 2011.</li>
+    <li><strong>Existence of solutions for nonuniformly elliptic equations of p(x)-Laplacian type</strong>, 3rd International Conference on Differential Equations and Applications, Lviv, Ukraine, 3–6 November 2010.</li>
+    <li><strong>A new solution of some weighted problems for the Riemann–Liouville and Weyl operators</strong>, Further Progress in Analysis, Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13–18 August 2007, pp. 321–326 (published 2009).</li>
+    <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
