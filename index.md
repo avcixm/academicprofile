@@ -9,6 +9,7 @@ title: Welcome to my Academic Portfolio
   <button class="btn export" data-kind="txt">Text</button>
   <button class="btn" onclick="window.print()">Print</button>
 </div>
+
 <div class="home-media">
   <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
   <a href="https://www.athabascau.ca/science-and-technology/index.html" target="_blank" rel="noopener">
