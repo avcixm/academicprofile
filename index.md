@@ -45,6 +45,6 @@ I am an Assistant Professor in Applied Mathematics at Athabasca University. This
  - Assistant Professor (Term), Department of Mathematics, Trent University (2020/8 - 2021/7).
  - Instructor (Term), Department of Science and Technology, Northwestern Polytechnic (2019/8 - 2020/4)
  - Instructor (Sessional), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2019/5 - 2019/8).
- - Associate Professor (Tenured), Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
  - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10).
+ - Associate Professor (Tenured), Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
  - Instructor (Tenured), Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
