@@ -61,4 +61,16 @@ permalink: /courses/
 ## Morgan State University Courses (USA)
 - MATH 241  Calculus I (2015/Spring)
 
-## Batman University Courses (Turkey)
+## Batman University Courses (Turkey) (2013 — 2018)
+- 05010303	Business Mathematics
+- 61090128  Business Statistics
+- 05010105  Calculus I
+- 05010205  Calculus II
+- 02030306  Differential Equations
+- 02010405  Applied Calculus for Engineers
+- 02040401  Applied Calculus for Engineers (Numerical Methods)
+- 
+
+
+
+
