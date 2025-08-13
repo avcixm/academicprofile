@@ -11,7 +11,7 @@ permalink: /courses/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
-## Athabasca University Courses
+## Athabasca University Teaching and Course Coordination
 - MATH 260 Calculus for Social Sciences and Economics (2022 — )
 - MATH 366 Complex Variables I (2022 — )
 - MATH 370 Applied Real Analysis (2022 — )
