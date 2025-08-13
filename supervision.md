@@ -12,6 +12,6 @@ permalink: /supervision/
 </div>
 
 ## Athabasca University Student Supervision 
-- Amina Anna Mahamane Ousmane, MATH 495 Mathematics Projects I. <br>
+- Amina Anna Mahamane Ousmane, MATH 495 Mathematics Projects I. (2025/5 - 2025/6) <br>
   Project Title: Investigating the effectiveness of optimization methods : Full-Batch
   Gradient Descent vs. Stochastic Gradient Descent for training regression models on housing market data 
