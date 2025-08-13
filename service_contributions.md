@@ -18,7 +18,7 @@ permalink: /service_contributions/
 - Academic Research Fund Committee (ARF) - (2024 - 2027)
 - GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - 2027)
 - GFC Academic Research Committee (ARC)- (2024 - 2027)
-- Academic & Professional Development Fund Committee (APDF) - Replacement term - (2023 - 2025)
+- Academic & Professional Development Fund Committee - Replacement term - (2023 - 2025)
 
 ## AU Ad Hoc Committee/Group Memberships 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
