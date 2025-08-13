@@ -76,9 +76,13 @@ permalink: /courses/
 - 01030302  Introduction to Topology
 - 01030401  Advanced Analysis II
 - 01030606  Vector Analysis
--
--
--
+- 01030701  Functional Analysis
+- 60070101  Functional Analysis and Applications I
+- 60070111  Functional Analysis and Applications II
+- 60070102  Advanced Real Analysis I
+- 60070112  Advanced Real Analysis II
+- 60070128  Variational Analysis I
+- 60070135  Variational Analysis II
 - 61090128  Business Statistics          
 
 
