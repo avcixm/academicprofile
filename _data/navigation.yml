@@ -14,3 +14,14 @@ main:
   - title: Professional Activities
     url: /professionalactivities/
 
+# Right-hand links for the Research page
+research-links:
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=kzgJh58AAAAJ&hl=en
+    external: true
+  - title: ResearchGate
+    url: https://www.researchgate.net/profile/Mustafa-Avci-7
+    external: true
+  - title: arXiv
+    url: https://arxiv.org/search/?searchtype=author&query=Avci%2C%20Mustafa
+    external: true
