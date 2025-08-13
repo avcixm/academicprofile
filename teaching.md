@@ -69,7 +69,7 @@ permalink: /courses/
 - 05010601  Research Methods and Techniques
 - 02030306  Differential Equations
 - 02030405  Engineering Mathematics
-- 02010405  Applied Mathematica for Engineers
+- 02010405  Applied Mathematics for Engineers
 - 02040401  Applied Calculus for Engineers: Numerical Methods
 - 02010407  Numerical Analysis
 - 01030301  Advanced Analysis I
@@ -93,3 +93,4 @@ permalink: /courses/
 ## Dicle University (2009 – 2013)
 - Business Mathematics
 - Business Statistics
+- Engineering Mathematics
