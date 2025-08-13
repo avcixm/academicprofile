@@ -146,8 +146,8 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
 <details>
   <summary><strong>List</strong></summary>
   <ol>
-    <li><strong>A generalized stochastic volatility model</strong>strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
-    <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments (with A. Beltaos, J. Greenwood-Lee)</strong>strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
+    <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
+    <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments (with A. Beltaos, J. Greenwood-Lee)</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
     <li><strong>Variational approach for analysis of PDEs</strong>, Mathematics Colloquium, Grande Prairie Regional College, Science Department, February 2020, Grande Prairie, Canada.</li>
     <li><strong>Existence and uniqueness results for a Dirichlet problem in Orlicz–Sobolev spaces</strong>, International Conference on Mathematics and Mathematics Education (ICMME-2017), 11–13 May 2017, Şanlıurfa, Turkey.</li>
@@ -168,6 +168,7 @@ Variable Exponent Lebesgue Spaces, **Variational Methods**, Nonlinear Analysis, 
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
