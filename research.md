@@ -22,7 +22,7 @@ sidebar:
 ## Research Specialization Keywords
 Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
-## Current Projects
+## Research In Progress
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
@@ -174,6 +174,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
