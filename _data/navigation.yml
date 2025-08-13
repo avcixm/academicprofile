@@ -18,6 +18,7 @@ main:
 research-links:
   - title: ORCID
     url: https://orcid.org/0000-0002-6001-627X
+    external: true
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=kzgJh58AAAAJ&hl=en
     external: true
@@ -26,4 +27,16 @@ research-links:
     external: true
   - title: arXiv
     url: https://arxiv.org/search/?searchtype=author&query=Avci%2C%20Mustafa
+    external: true
+  - title: Scopus Profile
+    url: https://www.scopus.com/authid/detail.uri?authorId=25621332700
+    external: true
+  - title: WoS Profile
+    url: https://www.webofscience.com/wos/author/record/ACT-1567-2022
+    external: true
+  - title: AMS Math Reviews Profile
+    url: https://mathscinet.ams.org/mathscinet/MRAuthorID/849785
+    external: true
+  - title: SciProfiles
+    url: https://sciprofiles.com/profile/2740208
     external: true
