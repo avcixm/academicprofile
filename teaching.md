@@ -11,12 +11,19 @@ permalink: /courses/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
-## Courses
-- MATH 216 — Computer-Oriented Approach to Statistics
-- MATH 260 — Calculus for Social Sciences and Economics
-- MATH 366 — Complex Variables I
-- MATH 370 — Applied Real Analysis
-- MATH 376 — Ordinary Differential Equations
-- MATH 491 — Special Study I
-- MATH 493 — Special Study II
-- MATH 495 — Mathematics Projects I
+## Athabasca University Courses
+- MATH 216 — Computer-Oriented Approach to Statistics (2022—2025).
+- MATH 260 — Calculus for Social Sciences and Economics (2022— ).
+- MATH 366 — Complex Variables I (2022— ).
+- MATH 370 — Applied Real Analysis (2022— ).
+- MATH 376 — Ordinary Differential Equations (2025— ).
+- MATH 491 — Special Study I (2022— ).
+- MATH 493 — Special Study II (2022— ).
+- MATH 495 — Mathematics Projects I (2022— ).
+
+## Athabasca University Tutoring
+- MATH 376 — Ordinary Differential Equations (2025— ).
+- MATH 216 — Computer-Oriented Approach to Statistics (2022—2025).
+- MATH 365 — Multivariable Calculus (2021—2022).
+- MGSC 301 — Statistics for Business and Economics I (2020—2022).
+- MGSC 312 — Statistics for Business and Economics II (2020—202).
