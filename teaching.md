@@ -12,38 +12,53 @@ permalink: /courses/
 </div>
 
 ## Athabasca University Courses
-- MATH 260 — Calculus for Social Sciences and Economics (2022 — )
-- MATH 366 — Complex Variables I (2022 — )
-- MATH 370 — Applied Real Analysis (2022 — )
-- MATH 376 — Ordinary Differential Equations (2025 — )
-- MATH 491 — Special Study I (2022 — )
-- MATH 493 — Special Study II (2022 — )
-- MATH 495 — Mathematics Projects I (2022 — )
-- MATH 216 — Computer-Oriented Approach to Statistics (2022 — 2025).
+- MATH 260 Calculus for Social Sciences and Economics (2022 — )
+- MATH 366 Complex Variables I (2022 — )
+- MATH 370 Applied Real Analysis (2022 — )
+- MATH 376 Ordinary Differential Equations (2025 — )
+- MATH 491 Special Study I (2022 — )
+- MATH 493 Special Study II (2022 — )
+- MATH 495 Mathematics Projects I (2022 — )
+- MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025).
 
 ## Athabasca University Tutoring
-- MATH 376 — Ordinary Differential Equations (2025 — )
-- MATH 216 — Computer-Oriented Approach to Statistics (2022—2025)
-- MATH 365 — Multivariable Calculus (2021—2022)
-- MGSC 301 — Statistics for Business and Economics I (2020 — 2022)
-- MGSC 312 — Statistics for Business and Economics II (2020 — 202)
+- MATH 376 Ordinary Differential Equations (2025 — )
+- MATH 216 Computer-Oriented Approach to Statistics (2022—2025)
+- MATH 365 Multivariable Calculus (2021—2022)
+- MGSC 301 Statistics for Business and Economics I (2020 — 2022)
+- MGSC 312 Statistics for Business and Economics II (2020 — 202)
 
 ## Athabasca University Course Development and Revisions
-- MATH 415 — Introduction to Measure and Integration (In Development, 2025 — )
-- MATH 426 — Introduction to Stochastic Processes (In Development, 2025 — )
-- MATH 437 — Introduction to Stochastic Calculus (In Development, 2025 — )
-- MATH 325 — Linear Programming — Development (In Production) (2024)
-- MATH 216 — Computer-Oriented Approach to Statistics — Major Revision (2024)
-- MATH 260 — Calculus for Social Sciences and Economics — Minor Revision (2024)
+- MATH 415 Introduction to Measure and Integration (In Development, 2025 — )
+- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — )
+- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — )
+- MATH 325 Linear Programming — Development (In Production) (2024)
+- MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
+- MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
 
 ## University of Saskatchewan Courses
-- COMM 121 — Business Mathematics (2021/6 — 2022/7)
-- COMM 207 — Business Statistics II (2019/Summer)
-- COMM 104 — Business Statistics I (2019/Sipring)
+- COMM 121 Business Mathematics (2021/6 — 2022/7)
+- COMM 207 Business Statistics II (2019/Summer)
+- COMM 104 Business Statistics I (2019/Sipring)
 
 ## Trent University Courses
-- MATH 1005H — Applied Calculus (Lecture + Seminar) (2020-21/Fall & Winter & Spring)
-- MATH 1110H — Calculus I (Lecture + Seminar) (2020/Fall)
-- MATH 2120H — Calculus IV (Lecture + Seminar) (2021/Winter)
-- MATH 4120H — Mathematical Modelling I (Lecture + Lab) (2021/Winter)
-- AMOD 5220H — Mathematical Aspects of Modeling (Lecture + Lab) (2021/Spring)    
+- MATH 1005H Applied Calculus (Lecture + Seminar) (2020-21/Fall & Winter & Spring)
+- MATH 1110H Calculus I (Lecture + Seminar) (2020/Fall)
+- MATH 2120H Calculus IV (Lecture + Seminar) (2021/Winter)
+- MATH 4120H Mathematical Modelling I (Lecture + Lab) (2021/Winter)
+- AMOD 5220H Mathematical Aspects of Modeling (Lecture + Lab) (2021/Spring)    
+
+## Durham College Courses
+- MATH 1185 Mathematics for Technology I (2021 — 2022) 
+- MATH 2150 Mathematics for Technology II (2020 — 2021) 
+
+## Northwestern Polytechnic (Formerly Grande Prairie Regional College) Courses
+- ST 1510 Introduction to Applied Statistics I (Lecture + Lab) (2019/Fall & Winter)
+- ST 2520 Introduction to Applied Statistics II (Lecture + Lab) (2020/Winter)
+- MA 1130 Elementary Calculus I (Lecture + Seminar) (2019/Fall)
+- MA 1600 Higher Arithmetic (Lecture + Seminar) (2020/Winter)
+
+## Morgan State University Courses (USA)
+- MATH 241  Calculus I (2015/Spring)
+
+## Batman University Courses (Turkey)
