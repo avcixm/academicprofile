@@ -15,5 +15,7 @@ permalink: /professionalactivities/
 - Editorial Board Member, Advances in Differential Equations and Control Processes
 
 ## Event Administration
-- Co-organizer - Organized Session: Innovative Strategies in Online Learning Environments for Mathematics Education. <br>
+- Co-organizer - Organized Session: Recent Developments in Stochastic Analysis, PDEs and Related Topics. <br>
   Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. <a href="https://sites.google.com/view/ucalgary-amd2025/schedule" target="_blank" rel="noopener">Website</a>
+- Co-organizer - Organized Session: Innovative Strategies in Online Learning Environments for Mathematics Education. <br>
+  Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. 
