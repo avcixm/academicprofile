@@ -20,5 +20,5 @@ permalink: /service_contributions/
 - GFC Academic Research Committee (ARC)- (2024 - 2027)
 - Academic & Professional Development Fund Committee (APDF) - Replacement term - (2023 - 2025)
 
-## AU Ad Hoc Committee Memberships 
-- FST Faculty Council - (2022 - )
+## AU Ad Hoc Committee/Group Memberships 
+- Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
