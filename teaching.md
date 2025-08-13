@@ -63,13 +63,23 @@ permalink: /courses/
 
 ## Batman University Courses (Turkey) (2013 — 2018)
 - 05010303	Business Mathematics
-- 61090128  Business Statistics
+- 05050407  Statistics
 - 05010105  Calculus I
 - 05010205  Calculus II
+- 05010601  Research Methods and Techniques
 - 02030306  Differential Equations
-- 02010405  Applied Calculus for Engineers
-- 02040401  Applied Calculus for Engineers (Numerical Methods)
-- 
+- 02030405  Engineering Mathematics
+- 02010405  Applied Mathematica for Engineers
+- 02040401  Applied Calculus for Engineers: Numerical Methods
+- 02010407  Numerical Analysis
+- 01030301  Advanced Analysis I
+- 01030302  Introduction to Topology
+- 01030401  Advanced Analysis II
+- 01030606  Vector Analysis
+-
+-
+-
+- 61090128  Business Statistics          
 
 
 
