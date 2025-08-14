@@ -10,6 +10,13 @@ title: Welcome to my Academic Portfolio
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+<div class="download-bar">
+  <a class="btn" href="{{ '/assets/exports/cv.pdf' | relative_url }}?v={{ site.github.build_revision }}">
+    Download CV (PDF)
+  </a>
+</div>
+
+
 <div class="home-media">
   <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
   <a href="https://www.athabascau.ca/science-and-technology/index.html" target="_blank" rel="noopener">
