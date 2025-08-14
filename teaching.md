@@ -16,9 +16,10 @@ permalink: /courses/
 - MATH 366 Complex Variables I (2022 — )
 - MATH 370 Applied Real Analysis (2022 — )
 - MATH 376 Ordinary Differential Equations (2025 — )
-- MATH 491 Special Study I (2022 — )
+- MATH 492 Special Study I (2022 — )
 - MATH 493 Special Study II (2022 — )
 - MATH 495 Mathematics Projects I (2022 — )
+- MATH 496 Mathematics Projects II (2022 — )
 - MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025).
 
 ## AU Tutoring
