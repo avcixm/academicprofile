@@ -11,7 +11,7 @@ permalink: /supervision/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
-## AU Student Supervision 
+## AU Undergraduate Student Supervision 
 - Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - ) <br>
   Project Title: Advanced Engineering Mathematics.
 - Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - ) <br>
