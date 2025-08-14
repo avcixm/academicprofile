@@ -70,7 +70,7 @@ permalink: /courses/
 - 02030306  Differential Equations
 - 02030405  Engineering Mathematics
 - 02010405  Applied Mathematics for Engineers
-- 02040401  Applied Calculus for Engineers: Numerical Methods
+- 02040401  Applied Mathematics for Engineers: Numerical Methods
 - 02010407  Numerical Analysis
 - 01030301  Advanced Analysis I
 - 01030401  Advanced Analysis II
