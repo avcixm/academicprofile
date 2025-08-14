@@ -44,7 +44,7 @@ permalink: /professionalactivities/
 <details>
   <summary><strong>List</strong></summary>
   <ol>
-    <li>AMS Mathematical/MathSciNet Reviews (Reviewer)</li>
+    <li>AMS Mathematical/MathSciNet Reviews (Reviewer)</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
     <li>Acta Mathematica Scienta</li>
     <li>Advances in Nonlinear Analysis</li>
