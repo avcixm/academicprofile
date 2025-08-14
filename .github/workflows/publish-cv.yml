@@ -1,1 +1,47 @@
+name: Build and publish CV PDF
+
+on:
+  push:
+    branches: [ main ]
+    paths: ["cv.md"]
+  workflow_dispatch:
+
+jobs:
+  build-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout private CV repo
+        uses: actions/checkout@v4
+
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Install wkhtmltopdf (HTML->PDF, no TeX needed)
+        run: sudo apt-get update && sudo apt-get install -y wkhtmltopdf
+
+      - name: Build PDF from Markdown
+        run: |
+          pandoc cv.md \
+            --from gfm+yaml_metadata_block \
+            --pdf-engine=wkhtmltopdf \
+            -o cv.pdf
+
+      # Checkout your PUBLIC site repo into subfolder "public"
+      - name: Checkout public site repo
+        uses: actions/checkout@v4
+        with:
+          repository: avcixm/academicprofile
+          token: ${{ secrets.PUBLIC_REPO_PAT }}
+          path: public
+
+      - name: Copy file and commit to public repo
+        run: |
+          mkdir -p public/assets/exports
+          cp cv.pdf public/assets/exports/cv.pdf
+          cd public
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/exports/cv.pdf
+          git commit -m "chore: update CV PDF" || echo "No changes to commit"
+          git push
 
