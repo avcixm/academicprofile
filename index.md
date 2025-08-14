@@ -20,15 +20,6 @@ title: Welcome to my Academic Portfolio
      aria-label="View CV (PDF) in a new tab">
     View CV (PDF)
   </a>
-
-  <!-- Download file -->
-  <a class="btn"
-     href="{{ cv_url }}?v={{ site.github.build_revision }}"
-     download="Mustafa-Avci-CV.pdf"
-     type="application/pdf"
-     aria-label="Download CV as PDF">
-    Download CV
-  </a>
 </div>
 
 
