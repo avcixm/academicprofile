@@ -10,11 +10,27 @@ title: Welcome to my Academic Portfolio
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+{% assign cv_url = '/assets/exports/cv.pdf' | relative_url %}
 <div class="download-bar">
-  <a class="btn" href="{{ '/assets/exports/cv.pdf' | relative_url }}?v={{ site.github.build_revision }}">
-    Download CV (PDF)
+  <!-- View in new tab -->
+  <a class="btn"
+     href="{{ cv_url }}?v={{ site.github.build_revision }}"
+     target="_blank" rel="noopener"
+     type="application/pdf"
+     aria-label="View CV (PDF) in a new tab">
+    View CV (PDF)
+  </a>
+
+  <!-- Download file -->
+  <a class="btn"
+     href="{{ cv_url }}?v={{ site.github.build_revision }}"
+     download="Mustafa-Avci-CV.pdf"
+     type="application/pdf"
+     aria-label="Download CV as PDF">
+    Download CV
   </a>
 </div>
+
 
 <div class="home-media">
   <img src="{{ '/assets/images/me.png' | relative_url }}" alt="Dr. Mustafa Avci" class="home-photo">
