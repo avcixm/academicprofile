@@ -22,7 +22,7 @@ permalink: /professionalactivities/
 - Editorial Board Member - Universal Journal of Applied Mathematics (2015 - )
 - Guest editor for the Special Issue: Advances in Stochastic Differential Equations: Theory, Computation and Applications in <em>Axioms</em> (2025/7 - 2026/12)
 - Guest editor for the Special Issue: Differential Equations and Stochastic Processes: Trends and Challenges in <em>Mathematics</em> (2023/10 - 2024/11)
-- Guest editor for the Special Issue: Nonlinear and Variational Analysis and their Applications in <em>Journal of Function Spaces</em> (2020/1 - 2020/12)
+- Co-Guest editor for the Special Issue: Nonlinear and Variational Analysis and their Applications in <em>Journal of Function Spaces</em> (2020/1 - 2020/12)
 
 ## Service to Discipline
 - Canadian Mathematical Society, Member (2023/12 - )
