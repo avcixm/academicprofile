@@ -12,7 +12,7 @@ Email: mavci@athabascau.ca · Web: https://avcixm.github.io/academicprofile/
 - Stochastic processes
 
 ## Education
-- Ph.D., Mathematics — University / Year
+- Ph.D., Mathematics — University / 2011
 - M.Sc., Mathematics — University / Year
 - B.Sc., Mathematics — University / Year
 
