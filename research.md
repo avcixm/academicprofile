@@ -50,7 +50,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## Papers <small>(click to see the lists)</small>
 
 <details>
-  <summary><strong>Published / Accepted</strong></summary>
+  <summary><strong>List: Published / Accepted</strong></summary>
 
   <ol>
     <li><strong>Existence and multiplicity of solutions for a discrete fourth-order boundary value problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted (2025).</li>
@@ -123,7 +123,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <summary><strong>Submitted</strong></summary>
+  <summary><strong>List: Submitted</strong></summary>
   <ol>
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> Under review.</li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> Under review.</li>
@@ -141,7 +141,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <summary><strong>In preparation</strong></summary>
+  <summary><strong>List: In preparation</strong></summary>
   <ol>
     <li>—</li>
   </ol>
@@ -174,6 +174,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
+
 
 
 
