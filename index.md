@@ -17,7 +17,7 @@ title: Welcome to my Academic Portfolio
      href="{{ cv_url }}?v={{ site.github.build_revision }}"
      target="_blank" rel="noopener"
      type="application/pdf"
-     aria-label="View CV (PDF) in a new tab">
+     aria-label="View/Download CV (PDF) in a new tab">
     View CV (PDF)
   </a>
 </div>
