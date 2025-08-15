@@ -59,7 +59,7 @@ I am an Assistant Professor in Applied Mathematics at Athabasca University. This
 ## Degrees
  - PhD Mathematics, Dicle University, 2011
  - MSc Mathematics, Dicle University,2007
- - BSc Mathematics, Dicle University
+ - BSc Mathematics, Dicle University,2005
 
 ## Professional Experience
  - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
