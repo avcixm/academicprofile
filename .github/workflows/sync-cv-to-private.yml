@@ -22,6 +22,10 @@ concurrency:
 jobs:
   build-cv:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+
     steps:
       - name: Verify PAT secret
         run: |
@@ -30,7 +34,8 @@ jobs:
             exit 1
           fi
 
-      - uses: actions/checkout@v4
+      - name: Checkout public repo
+        uses: actions/checkout@v4
 
       - name: Build out/cv.md
         run: python3 .github/scripts/build_cv.py
@@ -44,7 +49,13 @@ jobs:
           set -euo pipefail
           GH_PAT="${PAT1:-${PAT2:-}}"
           [ -n "${GH_PAT}" ] || { echo "::error::No usable PAT found"; exit 1; }
+
+          # Accept URL or slug; normalize to owner/repo
           REPO_SLUG="${DEST_REPO:-avcixm/cv-private}"
+          REPO_SLUG="${REPO_SLUG#https://github.com/}"   # strip https URL prefix if present
+          REPO_SLUG="${REPO_SLUG#git@github.com:}"      # strip ssh prefix if present
+          REPO_SLUG="${REPO_SLUG%.git}"                 # drop trailing .git if present
+
           echo "[INFO] Cloning ${REPO_SLUG}"
           git clone "https://x-access-token:${GH_PAT}@github.com/${REPO_SLUG}.git" cvrepo
           cd cvrepo
