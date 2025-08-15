@@ -40,7 +40,8 @@ jobs:
       - name: Build out/cv.md
         run: python3 .github/scripts/build_cv.py
 
-      - name: Clone private repo (cv-private)
+      # ---------- New: Early, explicit access check ----------
+      - name: Check access to private repo via API
         env:
           PAT1: ${{ secrets.PRIVATE_REPO_PAT }}
           PAT2: ${{ secrets.CV_PRIVATE_PAT }}
@@ -50,11 +51,41 @@ jobs:
           GH_PAT="${PAT1:-${PAT2:-}}"
           [ -n "${GH_PAT}" ] || { echo "::error::No usable PAT found"; exit 1; }
 
-          # Accept URL or slug; normalize to owner/repo
+          # Accept URL or slug, normalize to owner/repo
           REPO_SLUG="${DEST_REPO:-avcixm/cv-private}"
-          REPO_SLUG="${REPO_SLUG#https://github.com/}"   # strip https URL prefix if present
-          REPO_SLUG="${REPO_SLUG#git@github.com:}"      # strip ssh prefix if present
-          REPO_SLUG="${REPO_SLUG%.git}"                 # drop trailing .git if present
+          REPO_SLUG="${REPO_SLUG#https://github.com/}"
+          REPO_SLUG="${REPO_SLUG#git@github.com:}"
+          REPO_SLUG="${REPO_SLUG%.git}"
+          REPO_SLUG="$(echo -n "${REPO_SLUG}" | tr -d '[:space:]')"   # strip stray spaces/newlines
+
+          # Call the API with the token; 200 means the token can read the repo
+          code=$(curl -s -o /dev/null -w '%{http_code}' \
+            -H "Authorization: token ${GH_PAT}" \
+            "https://api.github.com/repos/${REPO_SLUG}")
+
+          echo "API status for ${REPO_SLUG}: ${code}"
+          if [ "$code" != "200" ]; then
+            echo "::error::Cannot access ${REPO_SLUG} with the provided token (HTTP ${code})."
+            echo "  - If code=404: repo slug wrong OR token lacks repo permission to a private repo."
+            echo "  - If code=401: token invalid/expired."
+            exit 1
+          fi
+      # -------------------------------------------------------
+
+      - name: Clone private repo (cv-private)
+        env:
+          PAT1: ${{ secrets.PRIVATE_REPO_PAT }}
+          PAT2: ${{ secrets.CV_PRIVATE_PAT }}
+          DEST_REPO: ${{ secrets.CV_PRIVATE_REPO }}
+        run: |
+          set -euo pipefail
+          GH_PAT="${PAT1:-${PAT2:-}}"
+
+          REPO_SLUG="${DEST_REPO:-avcixm/cv-private}"
+          REPO_SLUG="${REPO_SLUG#https://github.com/}"
+          REPO_SLUG="${REPO_SLUG#git@github.com:}"
+          REPO_SLUG="${REPO_SLUG%.git}"
+          REPO_SLUG="$(echo -n "${REPO_SLUG}" | tr -d '[:space:]')"
 
           echo "[INFO] Cloning ${REPO_SLUG}"
           git clone "https://x-access-token:${GH_PAT}@github.com/${REPO_SLUG}.git" cvrepo
