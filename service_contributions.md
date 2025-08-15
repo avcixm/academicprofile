@@ -11,6 +11,7 @@ permalink: /service_contributions/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+<!-- CV:START SERVICE -->
 ## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - )
 - FST Undergraduate Program Council - (2025 - 2028)
@@ -36,3 +37,4 @@ permalink: /service_contributions/
 - Hiring Committee service-Tutor - MATH 480
 - Hiring Committee service-Tutor - MATH 481
 
+<!-- CV:END SERVICE -->
