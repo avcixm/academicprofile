@@ -55,6 +55,7 @@ title: Welcome to my Academic Portfolio
 I am an Assistant Professor in Applied Mathematics at Athabasca University. This academic portfolio provides an up-to-date, structured summary of my professional contributions as a faculty member at Athabasca University, highlighting my work in teaching, research, and service to the academic and broader community. The introductory section includes my full curriculum vitae, contact information, and a detailed account of my academic background prior to joining Athabasca University in July, 2022.
 
 <!-- CV:START HOME -->
+
 ## Degrees
  - PhD Mathematics, Dicle University, 2011
  - MSc Mathematics, Dicle University
@@ -68,4 +69,5 @@ I am an Assistant Professor in Applied Mathematics at Athabasca University. This
  - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10).
  - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
  - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
+
 <!-- CV:END HOME -->
