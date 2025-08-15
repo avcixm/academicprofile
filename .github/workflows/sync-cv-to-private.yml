@@ -1,1 +1,113 @@
+name: Sync public pages to private CV
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'index.md'
+      - 'teaching.md'
+      - 'research.md'
+      - 'supervision.md'
+      - 'service_contributions.md'
+      - 'professional_activities.md'
+      - '.github/cv_template.md'
+  workflow_dispatch:
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read       # read this repo
+    steps:
+      - name: Checkout public site repo
+        uses: actions/checkout@v4
+
+      - name: Create CV from page sections
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          extract () {
+            local file="$1" ; local start="$2" ; local end="$3"
+            if grep -q "$start" "$file" && grep -q "$end" "$file"; then
+              awk "/$start/{flag=1;next}/$end/{flag=0}flag" "$file"
+            else
+              echo ""  # missing markers => no content
+            fi
+          }
+
+          HOME_MD="index.md"
+          TEACH_MD="teaching.md"
+          RES_MD="research.md"
+          SUP_MD="supervision.md"
+          SERV_MD="service_contributions.md"
+          PROF_MD="professional_activities.md"
+
+          HOME_TXT="$(extract "$HOME_MD"  '<!-- CV:START HOME -->'        '<!-- CV:END HOME -->')"
+          TEACH_TXT="$(extract "$TEACH_MD" '<!-- CV:START TEACHING -->'   '<!-- CV:END TEACHING -->')"
+          RES_TXT="$(extract "$RES_MD"     '<!-- CV:START RESEARCH -->'   '<!-- CV:END RESEARCH -->')"
+          SUP_TXT="$(extract "$SUP_MD"     '<!-- CV:START SUPERVISION -->''<!-- CV:END SUPERVISION -->')"
+          SERV_TXT="$(extract "$SERV_MD"   '<!-- CV:START SERVICE -->'    '<!-- CV:END SERVICE -->')"
+          PROF_TXT="$(extract "$PROF_MD"   '<!-- CV:START PROFESSIONAL -->''<!-- CV:END PROFESSIONAL -->')"
+
+          mkdir -p out
+
+          cat > out/cv.md <<'CVEOF'
+---
+title: Curriculum Vitae — Mustafa Avci
+---
+
+# Mustafa Avci
+Department of Mathematics, Athabasca University  
+mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
+
+## Summary
+{{HOME_SECTION}}
+
+## Research
+{{RESEARCH_SECTION}}
+
+## Teaching
+{{TEACHING_SECTION}}
+
+## Supervision
+{{SUPERVISION_SECTION}}
+
+## Service & Contributions
+{{SERVICE_SECTION}}
+
+## Professional Activities
+{{PROFESSIONAL_SECTION}}
+CVEOF
+
+          # inject sections (preserve blank lines)
+          sed -i "s|{{HOME_SECTION}}|${HOME_TXT//$'/'/'\/'}|g"                out/cv.md
+          sed -i "s|{{RESEARCH_SECTION}}|${RES_TXT//$'/'/'\/'}|g"            out/cv.md
+          sed -i "s|{{TEACHING_SECTION}}|${TEACH_TXT//$'/'/'\/'}|g"          out/cv.md
+          sed -i "s|{{SUPERVISION_SECTION}}|${SUP_TXT//$'/'/'\/'}|g"         out/cv.md
+          sed -i "s|{{SERVICE_SECTION}}|${SERV_TXT//$'/'/'\/'}|g"            out/cv.md
+          sed -i "s|{{PROFESSIONAL_SECTION}}|${PROF_TXT//$'/'/'\/'}|g"       out/cv.md
+
+          echo "Built out/cv.md"
+          wc -l out/cv.md || true
+          head -n 30 out/cv.md || true
+
+      - name: Checkout PRIVATE cv repo
+        uses: actions/checkout@v4
+        with:
+          repository: avcixm/cv-private
+          token: ${{ secrets.CV_PRIVATE_PAT }}
+          path: cvrepo
+
+      - name: Update cv.md in private repo
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp out/cv.md cvrepo/cv.md
+          cd cvrepo
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add cv.md
+          git commit -m "Sync from public site ${GITHUB_SHA}" || echo "No changes"
+          git push
 
