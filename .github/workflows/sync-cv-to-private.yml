@@ -15,61 +15,73 @@ on:
 jobs:
   build-cv:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
       - name: Checkout public site repo
         uses: actions/checkout@v4
 
-      - name: Build cv.md from page sections (safe Python)
+      - name: Build out/cv.md from page sections (Python, verbose)
         run: |
           python3 - <<'PY'
-          import re, pathlib
+          import re, pathlib, os, datetime, sys
 
           def grab(path, start, end):
               p = pathlib.Path(path)
               if not p.exists():
+                  print(f"[WARN] Missing file: {path}")
                   return ''
               s = p.read_text(encoding='utf-8')
               m = re.search(re.escape(start)+r'(.*?)'+re.escape(end), s, re.S)
-              return (m.group(1).strip() if m else '')
+              if not m:
+                  print(f"[WARN] Markers not found in {path}: {start} … {end}")
+                  return ''
+              block = m.group(1).strip()
+              print(f"[INFO] Extracted {len(block)} chars from {path} between markers.")
+              return block
 
-          home  = grab('index.md',                    '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
-          teach = grab('teaching.md',                 '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
-          rsrch = grab('research.md',                 '<!-- CV:START RESEARCH -->',    '<!-- CV:END RESEARCH -->')
-          supv  = grab('supervision.md',              '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
-          serv  = grab('service_contributions.md',    '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
-          prof  = grab('professional_activities.md',  '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
+          home  = grab('index.md',                   '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
+          teach = grab('teaching.md',                '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
+          rsrch = grab('research.md',                '<!-- CV:START RESEARCH -->',    '<!-- CV:END RESEARCH -->')
+          supv  = grab('supervision.md',             '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
+          serv  = grab('service_contributions.md',   '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
+          prof  = grab('professional_activities.md', '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
+
+          sha = os.environ.get('GITHUB_SHA','').strip()[:7]
+          when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
 
           tpl = f"""---
 title: Curriculum Vitae — Mustafa Avci
 ---
+
+> _This CV is auto-generated from_ **avcixm/academicprofile**  
+> Build: `{sha}` on {when}
 
 # Mustafa Avci
 Department of Mathematics, Athabasca University  
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Summary
-{home}
+{home or '_(empty — add CV:START/END HOME markers in index.md)_'}
 
 ## Research
-{rsrch}
+{rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
 
 ## Teaching
-{teach}
+{teach or '_(empty — add CV:START/END TEACHING markers in teaching.md)_'}
 
 ## Supervision
-{supv}
+{supv or '_(empty — add CV:START/END SUPERVISION markers in supervision.md)_'}
 
 ## Service & Contributions
-{serv}
+{serv or '_(empty — add CV:START/END SERVICE markers in service_contributions.md)_'}
 
 ## Professional Activities
-{prof}
+{prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
 """
           out = pathlib.Path('out'); out.mkdir(exist_ok=True)
           (out/'cv.md').write_text(tpl, encoding='utf-8')
-          print("Wrote out/cv.md")
+          print("\n===== BEGIN out/cv.md (first 60 lines) =====")
+          print("\n".join((out/'cv.md').read_text(encoding='utf-8').splitlines()[:60]))
+          print("\n===== END preview =====")
           PY
 
       - name: Checkout PRIVATE cv repo
@@ -79,12 +91,18 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
           token: ${{ secrets.CV_PRIVATE_PAT }}
           path: cvrepo
 
-      - name: Update cv.md in private repo
+      - name: Update cv.md in private repo (pull --rebase, then push)
         run: |
           cp out/cv.md cvrepo/cv.md
           cd cvrepo
-          git config user.name "github-actions"
+          git config user.name  "github-actions"
           git config user.email "actions@github.com"
+          git status
+          # Ensure we're on the default branch and up to date
+          git checkout main
+          git pull --rebase origin main || true
           git add cv.md
-          git commit -m "Sync from public site ${GITHUB_SHA}" || echo "No changes"
-          git push
+          git commit -m "Sync from public site ${GITHUB_SHA}" || echo "No changes to commit"
+          echo "---- Diff vs remote (for debugging) ----"
+          git log -1 --stat || true
+          git push origin HEAD:main
