@@ -14,6 +14,7 @@ sidebar:
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+<!-- CV:START RESEARCH -->
 ## Research Interests
 - Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
@@ -175,6 +176,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
   </ol>
 </details>
 
+<!-- CV:END RESEARCH -->
 
 
 
