@@ -11,6 +11,7 @@ permalink: /supervision/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+<!-- CV:START SUPERVISION -->
 ## AU Undergraduate Student Supervision 
 - Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - ) <br>
   Project Title: Advanced Engineering Mathematics.
@@ -36,3 +37,5 @@ permalink: /supervision/
 - İbrahim Eren Atalay - Convex Functions and Inequalities in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
 - Mehmet Nuri Tüzün, Bounded Linear Operators and Riesz Representation Theorem in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
 - Mustafa Yılmaz, Approximation by Continuous Functions in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
+
+<!-- CV:END SUPERVISION -->
