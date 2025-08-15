@@ -11,6 +11,7 @@ permalink: /professionalactivities/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+<!-- CV:START PROFESSIONAL -->
 ## Service to Discipline
 - Canadian Mathematical Society, Member (2023/12 - )
   
@@ -100,3 +101,4 @@ permalink: /professionalactivities/
   </ol>
 </details>
 
+<!-- CV:END PROFESSIONAL -->
