@@ -1,79 +1,189 @@
-# .github/scripts/build_cv.py
-import re, pathlib, os, datetime
+#!/usr/bin/env python3
+# Build cv.md from your public site sections, matching your framework
+# and expanding <details> blocks (e.g., Papers) so everything is visible in the PDF.
 
-def grab(path, start, end):
-    p = pathlib.Path(path)
-    if not p.exists():
+import os, re, datetime, pathlib
+
+ROOT = pathlib.Path(__file__).resolve().parents[2]  # repo root
+
+# ---------- helpers ----------
+def read_text(path: pathlib.Path) -> str:
+    if not path.exists():
         print(f"[WARN] Missing file: {path}")
-        return ''
-    s = p.read_text(encoding='utf-8')
-    m = re.search(re.escape(start)+r'(.*?)'+re.escape(end), s, re.S)
+        return ""
+    return path.read_text(encoding="utf-8")
+
+def grab(path_rel, start_marker, end_marker) -> str:
+    """Return the markdown between two HTML comment markers (non-greedy)."""
+    s = read_text(ROOT / path_rel)
+    if not s:
+        return ""
+    m = re.search(re.escape(start_marker) + r"(.*?)" + re.escape(end_marker), s, re.S)
     if not m:
-        print(f"[WARN] Markers not found in {path}: {start} … {end}")
-        return ''
+        print(f"[WARN] Markers not found in {path_rel}: {start_marker} … {end_marker}")
+        return ""
     block = m.group(1).strip()
-    print(f"[INFO] Extracted {len(block)} chars from {path}.")
+    print(f"[INFO] Extracted {len(block)} chars from {path_rel}.")
     return block
 
-def expand_details(html: str) -> str:
-    """For CV output: force-open <details> and keep the summary as a bold line."""
-    if not html:
-        return html
-    # Make every <details> open by default
-    html = re.sub(r'<details(\b[^>]*)?>', lambda m: f"<details open{m.group(1) or ''}>", html, flags=re.I)
-    # Convert <summary>…</summary> to a bold paragraph (and remove the toggle)
-    html = re.sub(r'<summary\s*>(.*?)</summary\s*>', r'<p><strong>\1</strong></p>', html, flags=re.I | re.S)
-    return html
+def strip_small(md: str) -> str:
+    # Replace <small>…</small> with plain text
+    return re.sub(r"</?small>", "", md, flags=re.I)
 
-home  = grab('index.md',                   '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
-teach = grab('teaching.md',                '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
-rsrch = grab('research.md',                '<!-- CV:START RESEARCH -->',    '<!-- CV:END RESEARCH -->')
-supv  = grab('supervision.md',             '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
-serv  = grab('service_contributions.md',   '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
-prof  = grab('professional_activities.md', '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
+def expand_details(md: str) -> str:
+    """
+    Turn <details><summary>Title</summary> … </details> into a visible sub-section:
+      ### Title
+      (inner content)
+    Works well for your Papers section and any other collapsibles.
+    """
+    def repl(m: re.Match) -> str:
+        summary = m.group(1)
+        inner = m.group(2).strip()
+        # Strip any tags around the summary like <strong>…</strong>
+        summary_txt = re.sub(r"<.*?>", "", summary).strip()
+        return f"\n\n### {summary_txt}\n\n{inner}\n\n"
 
-# 🔓 Expand collapsibles for CV output only
-home  = expand_details(home)
-teach = expand_details(teach)
-rsrch = expand_details(rsrch)
-supv  = expand_details(supv)
-serv  = expand_details(serv)
-prof  = expand_details(prof)
+    # Unwrap nested details first (greedy from inside out)
+    while re.search(r"<details>(.*?)</details>", md, flags=re.S | re.I):
+        md = re.sub(r"<details>\s*<summary>(.*?)</summary>(.*?)</details>",
+                    repl, md, flags=re.S | re.I)
+    return md
 
-sha = os.environ.get('GITHUB_SHA','')[:7]
-when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+def cleanup(md: str) -> str:
+    md = strip_small(md)
+    md = expand_details(md)
+    # Remove left-over empty lines
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    return md.strip()
 
-tpl = f"""---
-title: Curriculum Vitae — Mustafa Avci
----
+# ---------- pull sections from your public pages ----------
+home  = grab("index.md",
+             "<!-- CV:START HOME -->", "<!-- CV:END HOME -->")
 
-> _Auto-generated from_ **avcixm/academicprofile** — build `{sha}` on {when}
+teach = grab("teaching.md",
+             "<!-- CV:START TEACHING -->", "<!-- CV:END TEACHING -->")
 
-# Mustafa Avci
+rsrch = grab("research.md",
+             "<!-- CV:START RESEARCH -->", "<!-- CV:END RESEARCH -->")
+
+supv  = grab("supervision.md",
+             "<!-- CV:START SUPERVISION -->", "<!-- CV:END SUPERVISION -->")
+
+serv  = grab("service_contributions.md",
+             "<!-- CV:START SERVICE -->", "<!-- CV:END SERVICE -->")
+
+prof  = grab("professional_activities.md",
+             "<!-- CV:START PROFESSIONAL -->", "<!-- CV:END PROFESSIONAL -->")
+
+# Make research (and anything else that used <details>) fully visible in PDF
+rsrch = cleanup(rsrch)
+
+# ---------- static sections that you want to keep “as is” ----------
+STATIC_CPD = """\
+## CONTINUED PROFESSIONAL DEVELOPMENT
+
+- Higher Education Teaching Certificate — Online Course by Harvard University, Derek Bok Center for Teaching and Learning, Oct–Dec 2020.
+- Orientation for Distance Education — The Centre for Professional and Part-time Learning, Durham College, 2020.
+- Valuing Diversity and Supporting Inclusivity — Trent University, 2020.
+- How to Deliver Experiential Learning in a Remote Course — CTL, Trent University, 2020.
+- Learning How to Increase Learner Engagement — LinkedIn Learning, 2020.
+- Flipping the Classroom — Lynda.com, 2020.
+- Teaching Online: Synchronous Classes — Lynda.com, 2020.
+- How to Engage your Students in a Virtual Environment — McGraw-Hill, 2020.
+- Developing Your Course Syllabus — The Gwenna Moss Centre for Teaching and Learning, University of Saskatchewan, 2020.
+- Remote Teaching Essentials: Constructive Alignment — GMCTL, University of Saskatchewan, 2020.
+- Teach Adult Learners in Higher Education — Lynda.com, 2020.
+- Educational Technology for Student Success — Lynda.com, 2020.
+- Communication in the 21st Century Classroom — Lynda.com, 2020.
+- Learning Microsoft Teams for Education — Lynda.com, 2020.
+- Foundations of Learning Management Systems (LMS) — Lynda.com, 2020.
+- Pedagogical Courses (credit, taken during PhD), Dicle University, 2011.
+- Certificate of Pedagogy Formation for Teachers, Dicle University, 2001.
+"""
+
+STATIC_SKILLS = """\
+## TECH SKILLS
+
+- Teaching in a variety of formats: face-to-face, online, hybrid/blended.
+- Lectures, seminars and labs delivered synchronously and asynchronously.
+- LMS experience: Möbius, Blackboard, Canvas, Moodle, Google Classroom, Brightspace by D2L.
+- Software: MS Office, MS Teams, MATLAB, SPSS.
+- Programming: Python (competent).
+"""
+
+STATIC_PROFILES = """\
+## RESEARCHER WEB PROFILES
+
+- Website: https://avcixm.github.io/academicprofile/
+- ORCID: **0000-0002-6001-627X**
+- Google Scholar: https://scholar.google.com.tr/citations?user=kzgJh58AAAAJ&hl=tr
+- ResearchGate: https://www.researchgate.net/profile/Mustafa_Avci
+- AU Profile: Dr. Mustafa Avci | Faculty of Science and Technology | Athabasca University
+"""
+
+# ---------- header/footer ----------
+sha  = os.environ.get("GITHUB_SHA", "")[:7]
+when = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+FRONT_MATTER = """---\ntitle: Curriculum Vitae — Mustafa Avci\n---\n"""
+
+HEADER = """# Mustafa Avci
+
 Department of Mathematics, Athabasca University  
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
-
-## Summary
-{home or '_(empty — add CV:START/END HOME markers in index.md)_'}
-
-## Research
-{rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
-
-## Teaching
-{teach or '_(empty — add CV:START/END TEACHING markers in teaching.md)_'}
-
-## Supervision
-{supv or '_(empty — add CV:START/END SUPERVISION markers in supervision.md)_'}
-
-## Service & Contributions
-{serv or '_(empty — add CV:START/END SERVICE markers in service_contributions.md)_'}
-
-## Professional Activities
-{prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
-
 """
-out = pathlib.Path('out'); out.mkdir(exist_ok=True)
-(out / 'cv.md').write_text(tpl, encoding='utf-8')
-print("\n===== Preview of out/cv.md (first 60 lines) =====")
-print("\n".join((out/'cv.md').read_text(encoding='utf-8').splitlines()[:60]))
+
+FOOTER = f"""
+---
+
+_Auto-generated from_ **avcixm/academicprofile** — build `{sha}` on {when}
+"""
+
+# ---------- assemble to match your CV framework ----------
+# Your “HOME” block already contains “Degrees” and “Professional Experience”
+# with H2 headings; Teaching/Research/Supervision/Service/Professional
+# carry their own sub-sections as authored on the site.
+
+parts = [
+    FRONT_MATTER,
+    HEADER,
+
+    # DEGREES + PROFESSIONAL EXPERIENCE
+    home,
+
+    # RESEARCH (includes Research Interests, Keywords, Research in Progress,
+    # Funding, Books/Chapters, Proceedings, Papers, Presentations & Talks)
+    "## RESEARCH\n\n" + rsrch,
+
+    # TEACHING (all institutions/categories authored on the page)
+    "## TEACHING\n\n" + teach,
+
+    # SUPERVISION
+    "## SUPERVISION\n\n" + supv,
+
+    # SERVICE & CONTRIBUTIONS
+    "## SERVICE & CONTRIBUTIONS\n\n" + serv,
+
+    # PROFESSIONAL ACTIVITIES
+    "## PROFESSIONAL ACTIVITIES\n\n" + prof,
+
+    # Static sections kept “as is”
+    STATIC_CPD,
+    STATIC_SKILLS,
+    STATIC_PROFILES,
+
+    # Footer note moved to the end
+    FOOTER,
+]
+
+cv_md = "\n\n".join([p for p in parts if p and p.strip()])
+
+# Write to out/cv.md for the workflow to commit/push
+OUTDIR = ROOT / "out"
+OUTDIR.mkdir(exist_ok=True)
+(OUTDIR / "cv.md").write_text(cv_md, encoding="utf-8")
+
+print("\n===== Preview (first 60 lines) =====")
+print("\n".join(cv_md.splitlines()[:60]))
 print("===== End preview =====")
