@@ -11,6 +11,9 @@ permalink: /professionalactivities/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+## Service to Discipline
+- Canadian Mathematical Society, Member (2023/12 - )
+  
 ## Editorial Activities
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - )
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - )
@@ -23,9 +26,6 @@ permalink: /professionalactivities/
 - Guest editor for the Special Issue: Advances in Stochastic Differential Equations: Theory, Computation and Applications in <em>Axioms</em> (2025/7 - 2026/12)
 - Guest editor for the Special Issue: Differential Equations and Stochastic Processes: Trends and Challenges in <em>Mathematics</em> (2023/10 - 2024/11)
 - Co-Guest editor for the Special Issue: Nonlinear and Variational Analysis and their Applications in <em>Journal of Function Spaces</em> (2020/1 - 2020/12)
-
-## Service to Discipline
-- Canadian Mathematical Society, Member (2023/12 - )
 
 ## Event Administration
 - Co-organizer - Organized Session: Recent Developments in Stochastic Analysis, PDEs and Related Topics. <br>
