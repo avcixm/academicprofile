@@ -3,6 +3,48 @@
 # and expanding <details> blocks (e.g., Papers) so everything is visible in the PDF.
 
 import os, re, datetime, pathlib
+STYLE = """<style>
+:root{
+  --au-navy:   #1C355E;
+  --au-orange: #F05A28;
+  --ink:       #000000;
+}
+
+/* body + lists default to black text */
+body { color: var(--ink); font-family: "Segoe UI", Arial, Helvetica, sans-serif; line-height: 1.35; }
+ul, ol, li { color: var(--ink); }
+
+/* top name remains navy (h1 in your CV) */
+h1 { color: var(--au-navy); margin: 0 0 .2rem 0; font-weight: 700; }
+
+/* MAIN SECTION HEADINGS (RESEARCH, TEACHING, …) */
+h2 {
+  color: var(--au-navy);
+  text-transform: uppercase;
+  letter-spacing: .4px;
+  font-weight: 700;
+  margin: 1.1rem 0 .4rem;
+  padding-bottom: .2rem;
+  border-bottom: 1.5px solid #d9d9d9;
+  page-break-after: avoid;
+}
+
+/* Sub-section headings (Research Interests, Funding, …) */
+h3 {
+  color: var(--au-orange);
+  margin: .7rem 0 .25rem;
+  font-weight: 700;
+  page-break-after: avoid;
+}
+
+/* Links match site palette */
+a { color: var(--au-navy); text-decoration: none; }
+a:hover { color: var(--au-orange); }
+
+/* Light divider if needed */
+hr { border: 0; border-top: 1px solid #e6e6e6; margin: .8rem 0; }
+</style>
+"""
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]  # repo root
 
@@ -56,49 +98,6 @@ def cleanup(md: str) -> str:
     # Remove left-over empty lines
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip()
-
-STYLE = """<style>
-:root{
-  --au-navy:   #1C355E;
-  --au-orange: #F05A28;
-  --ink:       #000000;
-}
-
-/* body + lists default to black text */
-body { color: var(--ink); font-family: "Segoe UI", Arial, Helvetica, sans-serif; line-height: 1.35; }
-ul, ol, li { color: var(--ink); }
-
-/* top name remains navy (h1 in your CV) */
-h1 { color: var(--au-navy); margin: 0 0 .2rem 0; font-weight: 700; }
-
-/* MAIN SECTION HEADINGS (RESEARCH, TEACHING, …) */
-h2 {
-  color: var(--au-navy);
-  text-transform: uppercase;
-  letter-spacing: .4px;
-  font-weight: 700;
-  margin: 1.1rem 0 .4rem;
-  padding-bottom: .2rem;
-  border-bottom: 1.5px solid #d9d9d9;
-  page-break-after: avoid;
-}
-
-/* Sub-section headings (Research Interests, Funding, …) */
-h3 {
-  color: var(--au-orange);
-  margin: .7rem 0 .25rem;
-  font-weight: 700;
-  page-break-after: avoid;
-}
-
-/* Links match site palette */
-a { color: var(--au-navy); text-decoration: none; }
-a:hover { color: var(--au-orange); }
-
-/* Light divider if needed */
-hr { border: 0; border-top: 1px solid #e6e6e6; margin: .8rem 0; }
-</style>
-"""
 
 # ---------- pull sections from your public pages ----------
 home  = grab("index.md",
@@ -191,6 +190,7 @@ _Auto-generated from_ **avcixm/academicprofile** — build `{sha}` on {when}
 parts = [
     FRONT_MATTER,
     HEADER,
+    STYLE,
 
     # DEGREES + PROFESSIONAL EXPERIENCE
     home,
