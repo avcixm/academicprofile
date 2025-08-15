@@ -12,7 +12,6 @@ on:
       - 'professional_activities.md'
   workflow_dispatch:
 
-# Only need read on this repo; push to the private repo is done via PAT over HTTPS.
 permissions:
   contents: read
 
@@ -23,118 +22,39 @@ concurrency:
 jobs:
   build-cv:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check required secrets
-        shell: bash
+      - name: Verify PAT secret
         run: |
-          set -euo pipefail
-          # Accept either PRIVATE_REPO_PAT (recommended) or legacy CV_PRIVATE_PAT
           if [ -z "${{ secrets.PRIVATE_REPO_PAT }}" ] && [ -z "${{ secrets.CV_PRIVATE_PAT }}" ]; then
-            echo "::error::Missing secret. Add either PRIVATE_REPO_PAT (recommended) or CV_PRIVATE_PAT in Settings → Secrets and variables → Actions."
+            echo "::error::Missing secret. Add PRIVATE_REPO_PAT (recommended) or CV_PRIVATE_PAT in Settings → Secrets and variables → Actions."
             exit 1
           fi
 
-      - name: Checkout this (public) repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Build out/cv.md from page sections
-        shell: bash
-        run: |
-          set -euo pipefail
-          python3 - <<'PY'
-          import re, pathlib, os, datetime
+      - name: Build out/cv.md
+        run: python3 .github/scripts/build_cv.py
 
-          def grab(path, start, end):
-              p = pathlib.Path(path)
-              if not p.exists():
-                  print(f"[WARN] Missing file: {path}")
-                  return ''
-              s = p.read_text(encoding='utf-8')
-              m = re.search(re.escape(start)+r'(.*?)'+re.escape(end), s, re.S)
-              if not m:
-                  print(f"[WARN] Markers not found in {path}: {start} … {end}")
-                  return ''
-              block = m.group(1).strip()
-              print(f"[INFO] Extracted {len(block)} chars from {path}.")
-              return block
-
-          home  = grab('index.md',                   '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
-          teach = grab('teaching.md',                '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
-          rsrch = grab('research.md',                '<!-- CV:START RESEARCH -->',    '<!-- CV:END RESEARCH -->')
-          supv  = grab('supervision.md',             '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
-          serv  = grab('service_contributions.md',   '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
-          prof  = grab('professional_activities.md', '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
-
-          sha = os.environ.get('GITHUB_SHA','')[:7]
-          when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
-
-          tpl = f"""---
-title: Curriculum Vitae — Mustafa Avci
----
-
-> _Auto-generated from_ **avcixm/academicprofile** — build `{sha}` on {when}
-
-# Mustafa Avci
-Department of Mathematics, Athabasca University  
-mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
-
-## Summary
-{home or '_(empty — add CV:START/END HOME markers in index.md)_'}
-
-## Research
-{rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
-
-## Teaching
-{teach or '_(empty — add CV:START/END TEACHING markers in teaching.md)_'}
-
-## Supervision
-{supv or '_(empty — add CV:START/END SUPERVISION markers in supervision.md)_'}
-
-## Service & Contributions
-{serv or '_(empty — add CV:START/END SERVICE markers in service_contributions.md)_'}
-
-## Professional Activities
-{prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
-
-"""
-          out = pathlib.Path('out'); out.mkdir(exist_ok=True)
-          (out / 'cv.md').write_text(tpl, encoding='utf-8')
-          print("\n===== Preview of out/cv.md (first 60 lines) =====")
-          print("\n".join((out/'cv.md').read_text(encoding='utf-8').splitlines()[:60]))
-          print("===== End preview =====")
-          PY
-
-      - name: Clone private repo (cv-private) using PAT
+      - name: Clone private repo (cv-private)
         env:
-          # Prefer the recommended name; fall back to your old one if present
           PAT1: ${{ secrets.PRIVATE_REPO_PAT }}
           PAT2: ${{ secrets.CV_PRIVATE_PAT }}
           DEST_REPO: ${{ secrets.CV_PRIVATE_REPO }}
-        shell: bash
         run: |
           set -euo pipefail
           GH_PAT="${PAT1:-${PAT2:-}}"
-          if [ -z "${GH_PAT}" ]; then
-            echo "::error::No usable PAT found (PRIVATE_REPO_PAT or CV_PRIVATE_PAT)."
-            exit 1
-          fi
-
-          # default repo if secret not set
+          [ -n "${GH_PAT}" ] || { echo "::error::No usable PAT found"; exit 1; }
           REPO_SLUG="${DEST_REPO:-avcixm/cv-private}"
-
           echo "[INFO] Cloning ${REPO_SLUG}"
           git clone "https://x-access-token:${GH_PAT}@github.com/${REPO_SLUG}.git" cvrepo
           cd cvrepo
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
-          git status
 
       - name: Update cv.md and push
         env:
           PAT1: ${{ secrets.PRIVATE_REPO_PAT }}
           PAT2: ${{ secrets.CV_PRIVATE_PAT }}
-        shell: bash
         run: |
           set -euo pipefail
           cp out/cv.md cvrepo/cv.md
