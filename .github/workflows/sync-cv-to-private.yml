@@ -12,23 +12,36 @@ on:
       - 'professional_activities.md'
   workflow_dispatch:
 
+# Only need read on this repo; push to the private repo is done via PAT over HTTPS.
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-cv-to-private
+  cancel-in-progress: true
+
 jobs:
   build-cv:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Verify secret exists
+      - name: Check required secrets
+        shell: bash
         run: |
-          if [ -z "${{ secrets.CV_PRIVATE_PAT }}" ]; then
-            echo "ERROR: Secret CV_PRIVATE_PAT is not set in this repository (Settings → Secrets and variables → Actions)."
+          set -euo pipefail
+          # Accept either PRIVATE_REPO_PAT (recommended) or legacy CV_PRIVATE_PAT
+          if [ -z "${{ secrets.PRIVATE_REPO_PAT }}" ] && [ -z "${{ secrets.CV_PRIVATE_PAT }}" ]; then
+            echo "::error::Missing secret. Add either PRIVATE_REPO_PAT (recommended) or CV_PRIVATE_PAT in Settings → Secrets and variables → Actions."
             exit 1
           fi
 
-      - name: Checkout public repo (this repo)
+      - name: Checkout this (public) repo
         uses: actions/checkout@v4
 
       - name: Build out/cv.md from page sections
+        shell: bash
         run: |
+          set -euo pipefail
           python3 - <<'PY'
           import re, pathlib, os, datetime
 
@@ -83,29 +96,51 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Professional Activities
 {prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
+
 """
           out = pathlib.Path('out'); out.mkdir(exist_ok=True)
-          (out/'cv.md').write_text(tpl, encoding='utf-8')
+          (out / 'cv.md').write_text(tpl, encoding='utf-8')
           print("\n===== Preview of out/cv.md (first 60 lines) =====")
           print("\n".join((out/'cv.md').read_text(encoding='utf-8').splitlines()[:60]))
           print("===== End preview =====")
           PY
 
-      # Clone the PRIVATE repo with the PAT explicitly
-      - name: Clone private repo (cv-private)
+      - name: Clone private repo (cv-private) using PAT
+        env:
+          # Prefer the recommended name; fall back to your old one if present
+          PAT1: ${{ secrets.PRIVATE_REPO_PAT }}
+          PAT2: ${{ secrets.CV_PRIVATE_PAT }}
+          DEST_REPO: ${{ secrets.CV_PRIVATE_REPO }}
+        shell: bash
         run: |
-          git clone "https://x-access-token:${{ secrets.CV_PRIVATE_PAT }}@github.com/avcixm/cv-private.git" cvrepo
+          set -euo pipefail
+          GH_PAT="${PAT1:-${PAT2:-}}"
+          if [ -z "${GH_PAT}" ]; then
+            echo "::error::No usable PAT found (PRIVATE_REPO_PAT or CV_PRIVATE_PAT)."
+            exit 1
+          fi
+
+          # default repo if secret not set
+          REPO_SLUG="${DEST_REPO:-avcixm/cv-private}"
+
+          echo "[INFO] Cloning ${REPO_SLUG}"
+          git clone "https://x-access-token:${GH_PAT}@github.com/${REPO_SLUG}.git" cvrepo
           cd cvrepo
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
           git status
 
       - name: Update cv.md and push
+        env:
+          PAT1: ${{ secrets.PRIVATE_REPO_PAT }}
+          PAT2: ${{ secrets.CV_PRIVATE_PAT }}
+        shell: bash
         run: |
+          set -euo pipefail
           cp out/cv.md cvrepo/cv.md
           cd cvrepo
           git checkout main || git checkout -b main
           git pull --rebase origin main || true
           git add cv.md
-          git commit -m "Sync from public site ${GITHUB_SHA}" || echo "No changes to commit"
+          git commit -m "Sync from academicprofile ${GITHUB_SHA}" || echo "No changes to commit"
           git push origin HEAD:main
