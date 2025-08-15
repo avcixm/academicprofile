@@ -10,50 +10,38 @@ on:
       - 'supervision.md'
       - 'service_contributions.md'
       - 'professional_activities.md'
-      - '.github/cv_template.md'
   workflow_dispatch:
 
 jobs:
   build-cv:
     runs-on: ubuntu-latest
     permissions:
-      contents: read       # read this repo
+      contents: read
     steps:
       - name: Checkout public site repo
         uses: actions/checkout@v4
 
-      - name: Create CV from page sections
-        shell: bash
+      - name: Build cv.md from page sections (safe Python)
         run: |
-          set -euo pipefail
+          python3 - <<'PY'
+          import re, pathlib
 
-          extract () {
-            local file="$1" ; local start="$2" ; local end="$3"
-            if grep -q "$start" "$file" && grep -q "$end" "$file"; then
-              awk "/$start/{flag=1;next}/$end/{flag=0}flag" "$file"
-            else
-              echo ""  # missing markers => no content
-            fi
-          }
+          def grab(path, start, end):
+              p = pathlib.Path(path)
+              if not p.exists():
+                  return ''
+              s = p.read_text(encoding='utf-8')
+              m = re.search(re.escape(start)+r'(.*?)'+re.escape(end), s, re.S)
+              return (m.group(1).strip() if m else '')
 
-          HOME_MD="index.md"
-          TEACH_MD="teaching.md"
-          RES_MD="research.md"
-          SUP_MD="supervision.md"
-          SERV_MD="service_contributions.md"
-          PROF_MD="professional_activities.md"
+          home  = grab('index.md',                    '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
+          teach = grab('teaching.md',                 '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
+          rsrch = grab('research.md',                 '<!-- CV:START RESEARCH -->',    '<!-- CV:END RESEARCH -->')
+          supv  = grab('supervision.md',              '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
+          serv  = grab('service_contributions.md',    '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
+          prof  = grab('professional_activities.md',  '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
 
-          HOME_TXT="$(extract "$HOME_MD"  '<!-- CV:START HOME -->'        '<!-- CV:END HOME -->')"
-          TEACH_TXT="$(extract "$TEACH_MD" '<!-- CV:START TEACHING -->'   '<!-- CV:END TEACHING -->')"
-          RES_TXT="$(extract "$RES_MD"     '<!-- CV:START RESEARCH -->'   '<!-- CV:END RESEARCH -->')"
-          SUP_TXT="$(extract "$SUP_MD"     '<!-- CV:START SUPERVISION -->''<!-- CV:END SUPERVISION -->')"
-          SERV_TXT="$(extract "$SERV_MD"   '<!-- CV:START SERVICE -->'    '<!-- CV:END SERVICE -->')"
-          PROF_TXT="$(extract "$PROF_MD"   '<!-- CV:START PROFESSIONAL -->''<!-- CV:END PROFESSIONAL -->')"
-
-          mkdir -p out
-
-          cat > out/cv.md <<'CVEOF'
----
+          tpl = f"""---
 title: Curriculum Vitae — Mustafa Avci
 ---
 
@@ -62,35 +50,27 @@ Department of Mathematics, Athabasca University
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Summary
-{{HOME_SECTION}}
+{home}
 
 ## Research
-{{RESEARCH_SECTION}}
+{rsrch}
 
 ## Teaching
-{{TEACHING_SECTION}}
+{teach}
 
 ## Supervision
-{{SUPERVISION_SECTION}}
+{supv}
 
 ## Service & Contributions
-{{SERVICE_SECTION}}
+{serv}
 
 ## Professional Activities
-{{PROFESSIONAL_SECTION}}
-CVEOF
-
-          # inject sections (preserve blank lines)
-          sed -i "s|{{HOME_SECTION}}|${HOME_TXT//$'/'/'\/'}|g"                out/cv.md
-          sed -i "s|{{RESEARCH_SECTION}}|${RES_TXT//$'/'/'\/'}|g"            out/cv.md
-          sed -i "s|{{TEACHING_SECTION}}|${TEACH_TXT//$'/'/'\/'}|g"          out/cv.md
-          sed -i "s|{{SUPERVISION_SECTION}}|${SUP_TXT//$'/'/'\/'}|g"         out/cv.md
-          sed -i "s|{{SERVICE_SECTION}}|${SERV_TXT//$'/'/'\/'}|g"            out/cv.md
-          sed -i "s|{{PROFESSIONAL_SECTION}}|${PROF_TXT//$'/'/'\/'}|g"       out/cv.md
-
-          echo "Built out/cv.md"
-          wc -l out/cv.md || true
-          head -n 30 out/cv.md || true
+{prof}
+"""
+          out = pathlib.Path('out'); out.mkdir(exist_ok=True)
+          (out/'cv.md').write_text(tpl, encoding='utf-8')
+          print("Wrote out/cv.md")
+          PY
 
       - name: Checkout PRIVATE cv repo
         uses: actions/checkout@v4
@@ -100,9 +80,7 @@ CVEOF
           path: cvrepo
 
       - name: Update cv.md in private repo
-        shell: bash
         run: |
-          set -euo pipefail
           cp out/cv.md cvrepo/cv.md
           cd cvrepo
           git config user.name "github-actions"
@@ -110,4 +88,3 @@ CVEOF
           git add cv.md
           git commit -m "Sync from public site ${GITHUB_SHA}" || echo "No changes"
           git push
-
