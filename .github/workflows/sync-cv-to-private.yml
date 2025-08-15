@@ -15,14 +15,22 @@ on:
 jobs:
   build-cv:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout public site repo
+      - name: Verify secret exists
+        run: |
+          if [ -z "${{ secrets.CV_PRIVATE_PAT }}" ]; then
+            echo "ERROR: Secret CV_PRIVATE_PAT is not set in this repository (Settings → Secrets and variables → Actions)."
+            exit 1
+          fi
+
+      - name: Checkout public repo (this repo)
         uses: actions/checkout@v4
 
-      - name: Build out/cv.md from page sections (Python, verbose)
+      - name: Build out/cv.md from page sections
         run: |
           python3 - <<'PY'
-          import re, pathlib, os, datetime, sys
+          import re, pathlib, os, datetime
 
           def grab(path, start, end):
               p = pathlib.Path(path)
@@ -35,7 +43,7 @@ jobs:
                   print(f"[WARN] Markers not found in {path}: {start} … {end}")
                   return ''
               block = m.group(1).strip()
-              print(f"[INFO] Extracted {len(block)} chars from {path} between markers.")
+              print(f"[INFO] Extracted {len(block)} chars from {path}.")
               return block
 
           home  = grab('index.md',                   '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
@@ -45,15 +53,14 @@ jobs:
           serv  = grab('service_contributions.md',   '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
           prof  = grab('professional_activities.md', '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
 
-          sha = os.environ.get('GITHUB_SHA','').strip()[:7]
+          sha = os.environ.get('GITHUB_SHA','')[:7]
           when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
 
           tpl = f"""---
 title: Curriculum Vitae — Mustafa Avci
 ---
 
-> _This CV is auto-generated from_ **avcixm/academicprofile**  
-> Build: `{sha}` on {when}
+> _Auto-generated from_ **avcixm/academicprofile** — build `{sha}` on {when}
 
 # Mustafa Avci
 Department of Mathematics, Athabasca University  
@@ -79,30 +86,26 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 """
           out = pathlib.Path('out'); out.mkdir(exist_ok=True)
           (out/'cv.md').write_text(tpl, encoding='utf-8')
-          print("\n===== BEGIN out/cv.md (first 60 lines) =====")
+          print("\n===== Preview of out/cv.md (first 60 lines) =====")
           print("\n".join((out/'cv.md').read_text(encoding='utf-8').splitlines()[:60]))
-          print("\n===== END preview =====")
+          print("===== End preview =====")
           PY
 
-      - name: Checkout PRIVATE cv repo
-        uses: actions/checkout@v4
-        with:
-          repository: avcixm/cv-private
-          token: ${{ secrets.CV_PRIVATE_PAT }}
-          path: cvrepo
-
-      - name: Update cv.md in private repo (pull --rebase, then push)
+      # Clone the PRIVATE repo with the PAT explicitly
+      - name: Clone private repo (cv-private)
         run: |
-          cp out/cv.md cvrepo/cv.md
+          git clone "https://x-access-token:${{ secrets.CV_PRIVATE_PAT }}@github.com/avcixm/cv-private.git" cvrepo
           cd cvrepo
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
           git status
-          # Ensure we're on the default branch and up to date
-          git checkout main
+
+      - name: Update cv.md and push
+        run: |
+          cp out/cv.md cvrepo/cv.md
+          cd cvrepo
+          git checkout main || git checkout -b main
           git pull --rebase origin main || true
           git add cv.md
           git commit -m "Sync from public site ${GITHUB_SHA}" || echo "No changes to commit"
-          echo "---- Diff vs remote (for debugging) ----"
-          git log -1 --stat || true
           git push origin HEAD:main
