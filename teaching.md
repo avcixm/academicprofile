@@ -11,6 +11,7 @@ permalink: /courses/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
+<!-- CV:START TEACHING -->
 ## AU Teaching and Course Coordination
 - MATH 260 Calculus for Social Sciences and Economics (2022 — p)
 - MATH 366 Complex Variables I (2022 — p)
@@ -95,3 +96,5 @@ permalink: /courses/
 - Business Mathematics
 - Business Statistics
 - Engineering Mathematics
+
+<!-- CV:END TEACHING -->
