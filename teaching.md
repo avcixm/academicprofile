@@ -12,27 +12,27 @@ permalink: /courses/
 </div>
 
 ## AU Teaching and Course Coordination
-- MATH 260 Calculus for Social Sciences and Economics (2022 — )
-- MATH 366 Complex Variables I (2022 — )
-- MATH 370 Applied Real Analysis (2022 — )
-- MATH 376 Ordinary Differential Equations (2025 — )
-- MATH 492 Special Study I (2022 — )
-- MATH 493 Special Study II (2022 — )
-- MATH 495 Mathematics Projects I (2022 — )
-- MATH 496 Mathematics Projects II (2022 — )
+- MATH 260 Calculus for Social Sciences and Economics (2022 — p)
+- MATH 366 Complex Variables I (2022 — p)
+- MATH 370 Applied Real Analysis (2022 — p)
+- MATH 376 Ordinary Differential Equations (2025 — p)
+- MATH 492 Special Study I (2022 — p)
+- MATH 493 Special Study II (2022 — p)
+- MATH 495 Mathematics Projects I (2022 — p)
+- MATH 496 Mathematics Projects II (2022 — p)
 - MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025).
 
 ## AU Tutoring
-- MATH 376 Ordinary Differential Equations (2025 — )
+- MATH 376 Ordinary Differential Equations (2025 — p)
 - MATH 216 Computer-Oriented Approach to Statistics (2022—2025)
 - MATH 365 Multivariable Calculus (2021—2022)
 - MGSC 301 Statistics for Business and Economics I (2020 — 2022)
 - MGSC 312 Statistics for Business and Economics II (2020 — 202)
 
 ## AU Course Development and Revisions
-- MATH 415 Introduction to Measure and Integration (In Development, 2025 — )
-- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — )
-- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — )
+- MATH 415 Introduction to Measure and Integration (In Development, 2025 — p)
+- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — p)
+- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — p)
 - MATH 325 Linear Programming — Development (In Production) (2024)
 - MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
 - MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
@@ -53,7 +53,7 @@ permalink: /courses/
 - MATH 1185 Mathematics for Technology I (2021 — 2022) 
 - MATH 2150 Mathematics for Technology II (2020 — 2021) 
 
-## Northwestern Polytechnic (Grande Prairie Regional College) Courses
+## Northwestern Polytechnic Courses
 - ST 1510 Introduction to Applied Statistics I (Lecture + Lab) (2019/Fall & Winter)
 - ST 2520 Introduction to Applied Statistics II (Lecture + Lab) (2020/Winter)
 - MA 1130 Elementary Calculus I (Lecture + Seminar) (2019/Fall)
