@@ -1,1 +1,53 @@
+name: Build CV (page + optional PDF)
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'index.md'
+      - 'teaching.md'
+      - 'research.md'
+      - 'supervision.md'
+      - 'service_contributions.md'
+      - 'professional_activities.md'
+      - '.github/scripts/build_cv_from_pages.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build cv.md from pages
+        run: |
+          python3 .github/scripts/build_cv_from_pages.py
+
+      # --- OPTIONAL: also create/update a PDF using Pandoc + wkhtmltopdf ---
+      - name: Install tools (wkhtmltopdf + pandoc)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wkhtmltopdf pandoc
+
+      - name: Export PDF to assets/exports/cv.pdf
+        run: |
+          mkdir -p assets/exports
+          pandoc cv.md \
+            --from gfm+yaml_metadata_block \
+            --pdf-engine=wkhtmltopdf \
+            -t html5 \
+            -o assets/exports/cv.pdf
+
+      - name: Commit changes (cv.md and optional PDF)
+        run: |
+          set -e
+          git config user.name  "github-actions"
+          git config user.email "actions@github.com"
+          git add cv.md assets/exports/cv.pdf || true
+          git commit -m "Auto-build CV from pages" || echo "No changes to commit"
+          git push
 
