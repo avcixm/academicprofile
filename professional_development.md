@@ -12,7 +12,7 @@ permalink: /professional_development/
 </div>
 
 <!-- CV:START DEVELOPMENT -->
-## Continued Professional Development 
+## <small>Continued Professional Development</small> 
 - Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop by Trent University, 2020.
@@ -32,7 +32,7 @@ permalink: /professional_development/
 - The Certificate of Pedagogy Formation for Teachers, Dicle University, Diyarbakir, Turkey, 2001.
 
 
-## Tech (Research & Education) Skills
+## <small>Tech (Research & Education) Skills</small>
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
 - Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
