@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Curriculum Vitae
+title: Mustafa Avci — Curriculum Vitae
 permalink: /cv/
 ---
 
