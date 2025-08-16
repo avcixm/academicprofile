@@ -56,6 +56,15 @@ I am an Assistant Professor in Applied Mathematics at Athabasca University. This
 
 <!-- CV:START HOME -->
 
+# Mustafa Avci, PhD
+Athabasca University  
+Applied Mathematics  
+Faculty of Science & Technology
+
+[mavci@athabascau.ca](mailto:mavci@athabascau.ca)
+[avcixmustafa@gmail.com](mailto:avcixmustafa@gmail.com)  
++1 639-998-9329
+
 ## Degrees
  - PhD Mathematics, Dicle University
  - MSc Mathematics, Dicle University--2007
