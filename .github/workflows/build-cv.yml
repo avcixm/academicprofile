@@ -10,6 +10,7 @@ on:
       - 'supervision.md'
       - 'service_contributions.md'
       - 'professional_activities.md'
+      - 'professional_development.md'
       - '.github/scripts/build_cv_from_pages.py'
   workflow_dispatch:
 
