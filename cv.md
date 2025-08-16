@@ -142,7 +142,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - <strong>A new solution of some weighted problems for Riemann-Liouville and Weyl operators</strong> (with S. Ograş, R. Mashiyev) (2009), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007.
   <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
-## Papers <small>(click to see the lists)</small>
+## <small>Papers</small> <small>(click to see the lists)</small>
 
 <details>
   <summary><strong>Published / Accepted</strong></summary>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>facc504</code> on 2025-08-16 03:24 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>5fd8261</code> on 2025-08-16 03:26 UTC.</small>
