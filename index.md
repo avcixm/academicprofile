@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Welcome to my Academic Portfolio
+title: Mustafa Avci, PhD - Academic Portfolio
 ---
 <!-- Export buttons (no 404; PDF opens print dialog, Word/TXT download locally) -->
 <div class="download-bar">
