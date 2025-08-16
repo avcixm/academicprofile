@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>77a1164</code> on 2025-08-16 02:44 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>74490cd</code> on 2025-08-16 02:54 UTC.</small>
