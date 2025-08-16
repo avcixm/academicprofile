@@ -11,7 +11,7 @@ on:
       - 'service_contributions.md'
       - 'professional_activities.md'
       - 'professional_development.md'        # NEW section you added
-      - '.github/scripts/build_cv.py'         # ensure script edits trigger
+      - '.github/scripts/build_cv_from_pages.py'         # ensure script edits trigger
       - '.github/workflows/build-cv.yml'
       - 'assets/cv/**'                        # template/CSS/header assets
   workflow_dispatch: {}
