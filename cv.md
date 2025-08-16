@@ -1,12 +1,12 @@
 ---
 layout: single
-title: aaa
+title: Mustafa Avci bb - Curriculum Vitae
 permalink: /cv/
 ---
 
 <!-- NOTE: This file is auto-generated. Edit your normal pages instead. -->
 
-# Mustafa Avci — Curriculum Vitae
+# Mustafa Avci cc — Curriculum Vitae
 
 ## Degrees
  - PhD Mathematics, Dicle University--2011
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>dc53941</code> on 2025-08-16 03:01 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>e78477d</code> on 2025-08-16 03:11 UTC.</small>
