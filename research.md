@@ -52,7 +52,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## <small>Papers(click to see the lists)</small>
 
 <details>
-  <summary><small>Published / Accepted</small></summary>
+  <summary><small>Published/Accepted</small></summary>
 
   <ol>
     <li><strong>Existence and multiplicity of solutions for a discrete fourth-order boundary value problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted (2025).</li>
@@ -125,7 +125,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <small><summary>Submitted</summary></small>
+  <summary><small>Submitted</small></summary>
   <ol>
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> Under review.</li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> Under review.</li>
@@ -143,7 +143,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <small><summary><strong>In preparation</strong></summary></small>
+  <summary><small>In preparation</small></summary>
   <ol>
     <li>—</li>
   </ol>
@@ -152,7 +152,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## <small>Presentations & Talks</small>
 
 <details>
-  <small><summary><strong>List</small></strong></summary></small>
+  <summary><small>List</small></summary>
   <ol>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
@@ -178,6 +178,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
