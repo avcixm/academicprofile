@@ -30,7 +30,7 @@ permalink: /courses/
 - MGSC 301 Statistics for Business and Economics I (2020 — 2022)
 - MGSC 312 Statistics for Business and Economics II (2020 — 202)
 
-## <small>AU Course Development and Revisions</small>
+## <small>AU Course Design and Revisions</small>
 - MATH 415 Introduction to Measure and Integration (In Development, 2025 — p)
 - MATH 426 Introduction to Stochastic Processes (In Development, 2025 — p)
 - MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — p)
