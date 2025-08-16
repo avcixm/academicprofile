@@ -158,7 +158,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2473492" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>2024</strong>.
+      On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>(2024)</strong>.
       <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>13da28b</code> on 2025-08-16 17:48 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>a3e595f</code> on 2025-08-16 17:50 UTC.</small>
