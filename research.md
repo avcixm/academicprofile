@@ -38,18 +38,18 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Dicle University Scientific Project Research Management (DUPAB) Grant (2007 - 2009)<br>
   for the Research Project: The Solutions of Parabolic and Elliptic Equations with Standard and Nonstandard Growth Conditions in the Variable Exponent Lebesgue-Sobolev Spaces.
 
-## <small>Book & Book Chapters</small>
+## <small>Refereed Book & Book Chapters</small>
 - <strong>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
   ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2.
   <a href="https://stm1.bookpi.org/index.php/amacs-v2" target="_blank" rel="noopener">Website</a>
 - <strong>A Closer Look at Boundary Value Problems</strong> (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
   <a href="https://novapublishers.com/shop/a-closer-look-at-boundary-value-problems/" target="_blank" rel="noopener">Website</a>
 
-## <small>Conference Proceedings</small>
+## <small>Refereed Conference Proceedings</small>
 - <strong>A new solution of some weighted problems for Riemann-Liouville and Weyl operators</strong> (with S. Ograş, R. Mashiyev) (2009), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007.
   <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
-## <small>Papers(click to see the lists)</small>
+## <small>Refereed Journal Articles(click to see the lists)</small>
 
 <details>
   <summary><small>Published/Accepted</small></summary>
@@ -178,6 +178,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
