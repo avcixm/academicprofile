@@ -145,7 +145,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## <small>Papers</small> <small>(click to see the lists)</small>
 
 <details>
-  <summary><strong>Published / Accepted</strong></summary>
+  <summary><strong><small>Published / Accepted</small></strong></summary>
 
   <ol>
     <li><strong>Existence and multiplicity of solutions for a discrete fourth-order boundary value problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted (2025).</li>
@@ -218,7 +218,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <summary><strong>Submitted</strong></summary>
+  <summary><strong><small>Submitted</small></strong></summary>
   <ol>
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> Under review.</li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> Under review.</li>
@@ -236,7 +236,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <summary><strong>In preparation</strong></summary>
+  <summary><strong><small>In preparation</small></strong></summary>
   <ol>
     <li>—</li>
   </ol>
@@ -245,7 +245,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## <small>Presentations & Talks</small>
 
 <details>
-  <summary><strong>List</strong></summary>
+  <summary><strong><small>List</small>small></strong></summary>
   <ol>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>5fd8261</code> on 2025-08-16 03:26 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>a518bc9</code> on 2025-08-16 03:30 UTC.</small>
