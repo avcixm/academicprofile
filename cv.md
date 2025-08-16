@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae — Mustafa Avci
+title: Curriculum Vitae
 ---
 
 # Mustafa Avci, PhD
@@ -11,20 +11,6 @@ Faculty of Science & Technology
 
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-## Summary
-## Degrees
- - PhD Mathematics, Dicle University / 2011
- - MSc Mathematics, Dicle University / 2007
- - BSc Mathematics, Dicle University / 2005
-
-## Professional Experience
- - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
- - Assistant Professor (Term), Department of Mathematics, Trent University (2020/8 - 2021/7).
- - Instructor (Term), Department of Science and Technology, Northwestern Polytechnic (2019/8 - 2020/4)
- - Instructor (Sessional), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2019/5 - 2019/8).
- - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10).
- - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
- - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
 
 ## Research
 ## Research Interests
@@ -471,4 +457,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at Python programming language.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `0767746` on 2025-08-16 23:33 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `269554e` on 2025-08-16 23:37 UTC_
