@@ -24,6 +24,7 @@ rsrch = grab('research.md',                '<!-- CV:START RESEARCH -->',    '<!-
 supv  = grab('supervision.md',             '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
 serv  = grab('service_contributions.md',   '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
 prof  = grab('professional_activities.md', '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
+profd = grab('professional_development.md', '<!-- CV:START DEVELOPMENT -->','<!-- CV:END DEVELOPMENT -->')
 
 sha  = os.environ.get('GITHUB_SHA','')[:7]
 when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
