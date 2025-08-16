@@ -13,15 +13,15 @@ permalink: /courses/
 
 <!-- CV:START TEACHING -->
 ## <small>AU Teaching and Course Coordination</small>
-- MATH 260 Calculus for Social Sciences and Economics (2022 — p)
-- MATH 366 Complex Variables I (2022 — p)
-- MATH 370 Applied Real Analysis (2022 — p)
-- MATH 376 Ordinary Differential Equations (2025 — p)
+- MATH 260 Calculus for Social Sciences and Economics (2022 — p) (Supervising 1 tutor, 1 marker)
+- MATH 366 Complex Variables I (2022 — p) (Supervising 1 tutor)
+- MATH 370 Applied Real Analysis (2022 — p) (Supervising 1 tutor)
+- MATH 376 Ordinary Differential Equations (2025 — p) (Supervising 2 tutors)
 - MATH 492 Special Study I (2022 — p)
 - MATH 493 Special Study II (2022 — p)
 - MATH 495 Mathematics Projects I (2022 — p)
 - MATH 496 Mathematics Projects II (2022 — p)
-- MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025).
+- MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025) (Supervised 3 tutors)
 
 ## <small>AU Tutoring</small>
 - MATH 376 Ordinary Differential Equations (2025 — p)
