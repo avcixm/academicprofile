@@ -59,7 +59,7 @@ sha  = os.environ.get('GITHUB_SHA','')[:7]
 when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
 
 tpl = f"""---
-title: Curriculum Vitae — Mustafa Avci
+title: Curriculum Vitae
 ---
 
 # Mustafa Avci, PhD
@@ -68,8 +68,6 @@ Applied Mathematics \n
 Faculty of Science & Technology \n
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-## Summary
-{home or '_(empty — add CV:START/END HOME markers in index.md)_'}
 
 ## Research
 {rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
