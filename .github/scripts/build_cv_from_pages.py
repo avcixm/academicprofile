@@ -66,6 +66,12 @@ title: Curriculum Vitae — Mustafa Avci
 Department of Mathematics, Athabasca University  
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
+# Mustafa Avci, PhD
+Athabasca University
+Applied Mathematics
+Faculty of Science & Technology
+mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
+
 ## Summary
 {home or '_(empty — add CV:START/END HOME markers in index.md)_'}
 
