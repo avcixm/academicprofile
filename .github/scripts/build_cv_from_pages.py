@@ -62,14 +62,10 @@ tpl = f"""---
 title: Curriculum Vitae — Mustafa Avci
 ---
 
-# Mustafa Avci
-Department of Mathematics, Athabasca University  
-mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
-
 # Mustafa Avci, PhD
-Athabasca University
-Applied Mathematics
-Faculty of Science & Technology
+Athabasca University \n
+Applied Mathematics \n
+Faculty of Science & Technology \n
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Summary
