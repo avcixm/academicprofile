@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes@4.26.0
 plugins: [jekyll-include-cache, jekyll-feed, jekyll-sitemap]
 
-title: Dr. Mustafa Avci-Academic Portfolio
+title: Mustafa Avci, PhD - Academic Portfolio
 
 # >>> THESE TWO LINES FIX THE 404s ON INTERNAL LINKS <<<
 url: "https://avcixm.github.io"
