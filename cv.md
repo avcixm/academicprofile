@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Curriculum Vitae
+title: Mustafa Avci - Curriculum Vitae
 permalink: /cv/
 ---
 
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>74490cd</code> on 2025-08-16 02:54 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>dc53941</code> on 2025-08-16 03:01 UTC.</small>
