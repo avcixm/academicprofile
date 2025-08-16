@@ -29,7 +29,7 @@ jobs:
 
       - name: Build cv.md from pages (expands <details>)
         run: |
-          python3 .github/scripts/build_cv.py
+          python3 .github/scripts/build_cv_from_pages.py
           # also keep a top-level cv.md copy for convenience
           cp out/cv.md cv.md
 
