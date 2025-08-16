@@ -109,19 +109,19 @@ permalink: /cv/
 - Engineering Mathematics
 
 ## Research
-## Research Interests
+## <small>Research Interests</small>
 - Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
 - Stochastic processes
 
-## Research Specialization Keywords
+## <small>Research Specialization Keywords</small>
 Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
-## Research In Progress
+## <small>Research In Progress</small>
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
-## Research Funding (Awards & Grants)
+## <small>Research Funding (Awards & Grants)</small>
 - External Funding Proposal: Applied for NSERC-Discovery Grants (Individual) Program 2025
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
@@ -131,14 +131,14 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Dicle University Scientific Project Research Management (DUPAB) Grant (2007 - 2009)<br>
   for the Research Project: The Solutions of Parabolic and Elliptic Equations with Standard and Nonstandard Growth Conditions in the Variable Exponent Lebesgue-Sobolev Spaces.
 
-## Book & Book Chapters
+## <small>Book & Book Chapters</small>
 - <strong>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
   ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2.
   <a href="https://stm1.bookpi.org/index.php/amacs-v2" target="_blank" rel="noopener">Website</a>
 - <strong>A Closer Look at Boundary Value Problems</strong> (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
   <a href="https://novapublishers.com/shop/a-closer-look-at-boundary-value-problems/" target="_blank" rel="noopener">Website</a>
 
-## Conference Proceedings
+## <small>Conference Proceedings</small>
 - <strong>A new solution of some weighted problems for Riemann-Liouville and Weyl operators</strong> (with S. Ograş, R. Mashiyev) (2009), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007.
   <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
@@ -242,7 +242,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
   </ol>
 </details>
 
-## Presentations & Talks
+## <small>Presentations & Talks</small>
 
 <details>
   <summary><strong>List</strong></summary>
@@ -414,7 +414,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 ## Professional Development
-## Continued Professional Development 
+## <small>Continued Professional Development</small> 
 - Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop by Trent University, 2020.
@@ -434,7 +434,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - The Certificate of Pedagogy Formation for Teachers, Dicle University, Diyarbakir, Turkey, 2001.
 
 
-## Tech (Research & Education) Skills
+## <small>Tech (Research & Education) Skills</small>
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
 - Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>3c750ca</code> on 2025-08-16 03:21 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>cb80486</code> on 2025-08-16 03:24 UTC.</small>
