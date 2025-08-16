@@ -69,22 +69,22 @@ Faculty of Science & Technology \n
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 
-## A.Research
+## RESEARCH
 {rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
 
-## B.Teaching
+## Teaching
 {teach or '_(empty — add CV:START/END TEACHING markers in teaching.md)_'}
 
-## C.Supervision
+## Supervision
 {supv or '_(empty — add CV:START/END SUPERVISION markers in supervision.md)_'}
 
-## D.Service & Contributions
+## Service & Contributions
 {serv or '_(empty — add CV:START/END SERVICE markers in service_contributions.md)_'}
 
-## E.Professional Activities
+## Professional Activities
 {prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
 
-## F.Professional Development
+## Professional Development
 {profdev or '_(empty — add CV:START/END PD markers in professional_development.md)_'}
 ---
 
