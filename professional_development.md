@@ -11,7 +11,7 @@ permalink: /professional_development/
   <button class="btn" onclick="window.print()">Print</button>
 </div>
 
-<!-- CV:START DEVELOPMENT -->
+<!-- CV:START PD -->
 ## <small>Continued Professional Development</small> 
 - Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
@@ -39,4 +39,4 @@ permalink: /professional_development/
 - Advanced computer, online and web skills: MS Office, MS Teams, MATLAB, SPSS.
 - Competent at Python programming language.
 
-<!-- CV:END DEVELOPMENT -->
+<!-- CV:END PD -->
