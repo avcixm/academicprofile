@@ -13,6 +13,8 @@ main:
     url: /service_contributions/
   - title: Professional Activities
     url: /professionalactivities/
+  -title Professional Development
+    url: /professionaldevelopment/
 
 # Right-hand links for the Research page
 research-links:
