@@ -1,17 +1,16 @@
 ---
-layout: single
-title: Mustafa Avci bb - Curriculum Vitae
-permalink: /cv/
+title: Curriculum Vitae — Mustafa Avci
 ---
 
-<!-- NOTE: This file is auto-generated. Edit your normal pages instead. -->
+# Mustafa Avci
+Department of Mathematics, Athabasca University  
+mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-# Mustafa Avci cc — Curriculum Vitae
-
+## Summary
 ## Degrees
- - PhD Mathematics, Dicle University--2011
- - MSc Mathematics, Dicle University--2007
- - BSc Mathematics, Dicle University--2005
+ - PhD Mathematics, Dicle University / 2011
+ - MSc Mathematics, Dicle University / 2007
+ - BSc Mathematics, Dicle University / 2005
 
 ## Professional Experience
  - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
@@ -22,106 +21,20 @@ permalink: /cv/
  - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
  - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
 
-## Teaching
-## <small>AU Teaching and Course Coordination</small>
-- MATH 260 Calculus for Social Sciences and Economics (2022 — p)
-- MATH 366 Complex Variables I (2022 — p)
-- MATH 370 Applied Real Analysis (2022 — p)
-- MATH 376 Ordinary Differential Equations (2025 — p)
-- MATH 492 Special Study I (2022 — p)
-- MATH 493 Special Study II (2022 — p)
-- MATH 495 Mathematics Projects I (2022 — p)
-- MATH 496 Mathematics Projects II (2022 — p)
-- MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025).
-
-## <small>AU Tutoring</small>
-- MATH 376 Ordinary Differential Equations (2025 — p)
-- MATH 216 Computer-Oriented Approach to Statistics (2022—2025)
-- MATH 365 Multivariable Calculus (2021—2022)
-- MGSC 301 Statistics for Business and Economics I (2020 — 2022)
-- MGSC 312 Statistics for Business and Economics II (2020 — 202)
-
-## <small>AU Course Development and Revisions</small>
-- MATH 415 Introduction to Measure and Integration (In Development, 2025 — p)
-- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — p)
-- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — p)
-- MATH 325 Linear Programming — Development (In Production) (2024)
-- MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
-- MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
-
-## <small>University of Saskatchewan Courses</small>
-- COMM 121 Business Mathematics (2021/6 — 2022/7)
-- COMM 207 Business Statistics II (2019/Summer)
-- COMM 104 Business Statistics I (2019/Sipring)
-
-## <small>Trent University Courses</small>
-- MATH 1005H Applied Calculus (Lecture + Seminar) (2020-21/Fall & Winter & Spring)
-- MATH 1110H Calculus I (Lecture + Seminar) (2020/Fall)
-- MATH 2120H Calculus IV (Lecture + Seminar) (2021/Winter)
-- MATH 4120H Mathematical Modelling I (Lecture + Lab) (2021/Winter)
-- AMOD 5220H Mathematical Aspects of Modeling (Lecture + Lab) (2021/Spring)    
-
-## <small>Durham College Courses</small>
-- MATH 1185 Mathematics for Technology I (2021 — 2022) 
-- MATH 2150 Mathematics for Technology II (2020 — 2021) 
-
-## <small>Northwestern Polytechnic Courses</small>
-- ST 1510 Introduction to Applied Statistics I (Lecture + Lab) (2019/Fall & Winter)
-- ST 2520 Introduction to Applied Statistics II (Lecture + Lab) (2020/Winter)
-- MA 1130 Elementary Calculus I (Lecture + Seminar) (2019/Fall)
-- MA 1600 Higher Arithmetic (Lecture + Seminar) (2020/Winter)
-
-## <small>Morgan State University Courses (USA)</small>
-- MATH 241  Calculus I (2015/Spring)
-
-## <small>Batman University Courses (Turkey) (2013 — 2018)</small>
-- 05010303	Business Mathematics
-- 05050407  Statistics
-- 05010105  Calculus I
-- 05010205  Calculus II
-- 05010601  Research Methods and Techniques
-- 02030306  Differential Equations
-- 02030405  Engineering Mathematics
-- 02010405  Applied Mathematics for Engineers
-- 02040401  Applied Mathematics for Engineers: Numerical Methods
-- 02010407  Numerical Analysis
-- 01030301  Advanced Analysis I
-- 01030401  Advanced Analysis II
-- 01030302  Introduction to Topology
-- 01030606  Vector Analysis
-- 01030701  Functional Analysis I
-- 01030809  Functional Analysis II
-- 60070101  Functional Analysis and Applications I
-- 60070111  Functional Analysis and Applications II
-- 60070102  Advanced Real Analysis I
-- 60070112  Advanced Real Analysis II
-- 60070128  Variational Analysis I
-- 60070135  Variational Analysis II
-- 600701100 Specialization Course
-- 600701101 Seminar
-- 61090119  Numerical Methods  
-- 61090128  Business Statistics
-- 61090201  Research Methods          
-
-## <small>Dicle University (Turkey) (2009 — 2013)</small>
-- Business Mathematics
-- Business Statistics
-- Engineering Mathematics
-
 ## Research
-## <small>Research Interests</small>
+## Research Interests
 - Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
 - Stochastic processes
 
-## <small>Research Specialization Keywords</small>
+## Research Specialization Keywords
 Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
-## <small>Research In Progress</small>
+## Research In Progress
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
 - PDEs in variable Lebesgue and Sobolev spaces
 
-## <small>Research Funding (Awards & Grants)</small>
+## Research Funding (Awards & Grants)
 - External Funding Proposal: Applied for NSERC-Discovery Grants (Individual) Program 2025
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
@@ -131,21 +44,24 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Dicle University Scientific Project Research Management (DUPAB) Grant (2007 - 2009)<br>
   for the Research Project: The Solutions of Parabolic and Elliptic Equations with Standard and Nonstandard Growth Conditions in the Variable Exponent Lebesgue-Sobolev Spaces.
 
-## <small>Refereed Book & Book Chapters</small>
+## Refereed Book & Book Chapters
 - <strong>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator</strong> (as Author), in Advances in Mathematics and Computer Science Vol.2, 2019. ISBN 978-93-89562-00-2 (Print)
   ISBN 978-93-89562-01-9 (eBook). DOI: 10.9734/bpi/amacs/v2.
   <a href="https://stm1.bookpi.org/index.php/amacs-v2" target="_blank" rel="noopener">Website</a>
 - <strong>A Closer Look at Boundary Value Problems</strong> (as Editor), 2020. Nova Science Publishers, Inc. ISBN: 978-1-53617-857-9.
   <a href="https://novapublishers.com/shop/a-closer-look-at-boundary-value-problems/" target="_blank" rel="noopener">Website</a>
 
-## <small>Refereed Conference Proceedings</small>
+## Refereed Conference Proceedings
 - <strong>A new solution of some weighted problems for Riemann-Liouville and Weyl operators</strong> (with S. Ograş, R. Mashiyev) (2009), Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13 – 18 August 2007.
   <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
-## <small>Refereed Journal Articles(click to see the lists)</small>
+## Refereed Journal Articles(click to see the lists)
 
-<details>
-  <summary><small>Published/Accepted</small></summary>
+
+
+**Published/Accepted**
+
+
 
   <ol>
     <li>Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.</li>
@@ -215,10 +131,15 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li>The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.</li>
     <li>Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p, q)-Laplacian (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 <strong>(2008)</strong>.</li>
   </ol>
-</details>
 
-<details>
-  <summary><small>Submitted</small></summary>
+
+
+
+
+
+**Submitted**
+
+
   <ol>
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> Under review.</li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> Under review.</li>
@@ -233,19 +154,29 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li><strong>On a p(x)-Kirchhoff Equation with double singularity exponent</strong> (with B. Cekic, Z. Yucedag). Under review.</li>
     <li><strong>Existence results for a class of double phase singular Kirchhoff-type equations with nonstandard growth</strong> (with A. Razani). Under review.</li>
   </ol>
-</details>
 
-<details>
-  <summary><small>In preparation</small></summary>
+
+
+
+
+
+**In preparation**
+
+
   <ol>
     <li>—</li>
   </ol>
-</details>
 
-## <small>Paper Presentations & Talks</small>
 
-<details>
-  <summary><small>List</small></summary>
+
+
+## Paper Presentations & Talks
+
+
+
+**List**
+
+
   <ol>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
@@ -268,10 +199,98 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li><strong>A new solution of some weighted problems for the Riemann–Liouville and Weyl operators</strong>, Further Progress in Analysis, Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13–18 August 2007, pp. 321–326 (published 2009).</li>
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
-</details>
+
+
+
+
+## Teaching
+## AU Teaching and Course Coordination
+- MATH 260 Calculus for Social Sciences and Economics (2022 — p) (Supervising 1 tutor, 1 marker)
+- MATH 366 Complex Variables I (2022 — p) (Supervising 1 tutor)
+- MATH 370 Applied Real Analysis (2022 — p) (Supervising 1 tutor)
+- MATH 376 Ordinary Differential Equations (2025 — p) (Supervising 2 tutors)
+- MATH 492 Special Study I (2022 — p)
+- MATH 493 Special Study II (2022 — p)
+- MATH 495 Mathematics Projects I (2022 — p)
+- MATH 496 Mathematics Projects II (2022 — p)
+- MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025) (Supervised 3 tutors)
+
+## AU Tutoring
+- MATH 376 Ordinary Differential Equations (2025 — p)
+- MATH 216 Computer-Oriented Approach to Statistics (2022—2025)
+- MATH 365 Multivariable Calculus (2021—2022)
+- MGSC 301 Statistics for Business and Economics I (2020 — 2022)
+- MGSC 312 Statistics for Business and Economics II (2020 — 202)
+
+## AU Course Design and Revisions
+- MATH 415 Introduction to Measure and Integration (In Development, 2025 — p)
+- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — p)
+- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — p)
+- MATH 325 Linear Programming — Development (In Production) (2024)
+- MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
+- MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
+
+## University of Saskatchewan Courses
+- COMM 121 Business Mathematics (2021/6 — 2022/7)
+- COMM 207 Business Statistics II (2019/Summer)
+- COMM 104 Business Statistics I (2019/Sipring)
+
+## Trent University Courses
+- MATH 1005H Applied Calculus (Lecture + Seminar) (2020-21/Fall & Winter & Spring)
+- MATH 1110H Calculus I (Lecture + Seminar) (2020/Fall)
+- MATH 2120H Calculus IV (Lecture + Seminar) (2021/Winter)
+- MATH 4120H Mathematical Modelling I (Lecture + Lab) (2021/Winter)
+- AMOD 5220H Mathematical Aspects of Modeling (Lecture + Lab) (2021/Spring)    
+
+## Durham College Courses
+- MATH 1185 Mathematics for Technology I (2021 — 2022) 
+- MATH 2150 Mathematics for Technology II (2020 — 2021) 
+
+## Northwestern Polytechnic Courses
+- ST 1510 Introduction to Applied Statistics I (Lecture + Lab) (2019/Fall & Winter)
+- ST 2520 Introduction to Applied Statistics II (Lecture + Lab) (2020/Winter)
+- MA 1130 Elementary Calculus I (Lecture + Seminar) (2019/Fall)
+- MA 1600 Higher Arithmetic (Lecture + Seminar) (2020/Winter)
+
+## Morgan State University Courses (USA)
+- MATH 241  Calculus I (2015/Spring)
+
+## Batman University Courses (Turkey) (2013 — 2018)
+- 05010303	Business Mathematics
+- 05050407  Statistics
+- 05010105  Calculus I
+- 05010205  Calculus II
+- 05010601  Research Methods and Techniques
+- 02030306  Differential Equations
+- 02030405  Engineering Mathematics
+- 02010405  Applied Mathematics for Engineers
+- 02040401  Applied Mathematics for Engineers: Numerical Methods
+- 02010407  Numerical Analysis
+- 01030301  Advanced Analysis I
+- 01030401  Advanced Analysis II
+- 01030302  Introduction to Topology
+- 01030606  Vector Analysis
+- 01030701  Functional Analysis I
+- 01030809  Functional Analysis II
+- 60070101  Functional Analysis and Applications I
+- 60070111  Functional Analysis and Applications II
+- 60070102  Advanced Real Analysis I
+- 60070112  Advanced Real Analysis II
+- 60070128  Variational Analysis I
+- 60070135  Variational Analysis II
+- 600701100 Specialization Course
+- 600701101 Seminar
+- 61090119  Numerical Methods  
+- 61090128  Business Statistics
+- 61090201  Research Methods          
+
+## Dicle University (Turkey) (2009 — 2013)
+- Business Mathematics
+- Business Statistics
+- Engineering Mathematics
 
 ## Supervision
-## <small>AU Undergraduate Student Supervision</small> 
+## AU Undergraduate Student Supervision 
 - Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - ) <br>
   Project Title: Advanced Engineering Mathematics.
 - Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - ) <br>
@@ -288,7 +307,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Mahin Khan - MATH 492 Special Study I. (2024/7 - 2024/12) <br>
   Project Title: Measure Theory and Lebesgue Integration.
 
-## <small>Theses Supervised</small>
+## Theses Supervised
 - Berat Süer - On Solutions of the Ginzburg-Landau-type Equation in Orlicz-Sobolev Spaces, M.Sc. Mathematics (Co-supervisor), Batman University, 2020.
 - Kenan Süslü - On Solutions of Nonlocal Equations in Orlicz-Sobolev Spaces, M.Sc. Mathematics, Batman University, 2017.
 - İdris Teymur - Coefficient Bounds for Subclasses of M-Fold Symmetric Bi-Univalent Functions, M.Sc. Mathematics (Co-supervisor), Batman University, 2017.
@@ -298,7 +317,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Mustafa Yılmaz, Approximation by Continuous Functions in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
 
 ## Service & Contributions
-## <small>AU Standing Committee Memberships</small>
+## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - )
 - FST Undergraduate Program Council - (2025 - 2028)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
@@ -307,7 +326,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - GFC Academic Research Committee (ARC)- (2024 - 2027)
 - Academic & Professional Development Fund Committee - Replacement term - (2023 - 2025)
 
-## <small>AU Ad Hoc Committee/Group Memberships</small> 
+## AU Ad Hoc Committee/Group Memberships 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - )
 - FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - )
@@ -324,10 +343,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Hiring Committee service-Tutor - MATH 481
 
 ## Professional Activities
-## <small>Service to Discipline</small>
+## Service to Discipline
 - Canadian Mathematical Society, Member (2023/12 - )
   
-## <small>Editorial Activities</small>
+## Editorial Activities
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - )
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - )
 - Topical Advisory Panel Member - Axioms (2023 - )
@@ -340,22 +359,25 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Guest editor for the Special Issue: Differential Equations and Stochastic Processes: Trends and Challenges in <em>Mathematics</em> (2023/10 - 2024/11)
 - Co-Guest editor for the Special Issue: Nonlinear and Variational Analysis and their Applications in <em>Journal of Function Spaces</em> (2020/1 - 2020/12)
 
-## <small>Event Administration</small>
+## Event Administration
 - Co-organizer - Organized Session: Recent Developments in Stochastic Analysis, PDEs and Related Topics. <br>
   Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. <a href="https://sites.google.com/view/ucalgary-amd2025/schedule" target="_blank" rel="noopener">Website</a>
 - Co-organizer - Organized Session: Innovative Strategies in Online Learning Environments for Mathematics Education. <br>
   Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. 
 
-## <small>Conference Commitee Activities</small>
+## Conference Commitee Activities
 - Scientific Board Member, 4th International Engineering, Science and Education Conference (INESEC), November 6-8, 2019, Dicle University, Turkey.
 - Scientific Board Member, 3rd International Engineering and Natural Sciences conference, Nov 14-17, 2018, Dicle University, Turkey.
 - Scientific Board Member, 2nd  International Natural and Health Science Conference (INHSC), October 19-21, 2017, Antalya, Turkey. 
 - Scientific Board Member, 1st International Engineering, Science and Education Conference (INESEC), December 1-3, 2016, Dicle University, Turkey.
 - Session Chair, 1st International Engineering, Science and Education Conference (INESEC), December 1-3, 2016, Dicle University, Turkey.
 
-## <small>Reviewer for Journals</small>
-<details>
-  <summary><small>List</small></summary>
+## Reviewer for Journals
+
+
+**List**
+
+
   <ol>
     <li>AMS Mathematical/MathSciNet Reviews (Reviewer)</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
@@ -411,10 +433,12 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li>Zeitschrift für angewandte Mathematik und Mechanik</li>
     <li>Zeitschrift für Analysis und ihre Anwendungen</li>
   </ol>
-</details>
+
+
+
 
 ## Professional Development
-## <small>Continued Professional Development</small> 
+## Continued Professional Development 
 - Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop by Trent University, 2020.
@@ -434,13 +458,12 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - The Certificate of Pedagogy Formation for Teachers, Dicle University, Diyarbakir, Turkey, 2001.
 
 
-## <small>Tech (Research & Education) Skills</small>
+## Tech (Research & Education) Skills
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
 - Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
 - Advanced computer, online and web skills: MS Office, MS Teams, MATLAB, SPSS.
 - Competent at Python programming language.
-
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>a3e595f</code> on 2025-08-16 17:50 UTC.</small>
+_Auto-generated from **avcixm/academicprofile** — build `fa81f1c` on 2025-08-16 19:28 UTC_
