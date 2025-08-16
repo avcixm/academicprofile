@@ -9,7 +9,7 @@ permalink: /cv/
 # Mustafa Avci, PhD
 Athabasca University  
 Applied Mathematics  
-Faculty of Science & Technology
+Faculty of Science & Technology </br>
 [mavci@athabascau.ca](mailto:mavci@athabascau.ca)
 [avcixmustafa@gmail.com](mailto:avcixmustafa@gmail.com)  
 +1 639-998-9329
