@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Professional Activities
-permalink: /professionalactivities/
+permalink: /professional_activities/
 ---
 <!-- Export buttons (no 404; PDF opens print dialog, Word/TXT download locally) -->
 <div class="download-bar">
