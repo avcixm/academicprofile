@@ -52,7 +52,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## <small>Papers(click to see the lists)</small>
 
 <details>
-  <small><summary><strong>Published / Accepted</strong></summary></small>
+  <summary><strong><small>Published / Accepted</small>small></strong></summary>
 
   <ol>
     <li><strong>Existence and multiplicity of solutions for a discrete fourth-order boundary value problem</strong> (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted (2025).</li>
@@ -178,6 +178,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
