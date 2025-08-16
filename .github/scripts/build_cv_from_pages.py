@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-import re, pathlib, os, datetime, sys
-
-ROOT = pathlib.Path(__file__).resolve().parents[2]
+import re, pathlib, os, datetime
 
 def grab(path, start, end):
-    p = ROOT / path
+    p = pathlib.Path(path)
     if not p.exists():
         print(f"[WARN] Missing file: {path}")
         return ''
@@ -14,62 +12,84 @@ def grab(path, start, end):
         print(f"[WARN] Markers not found in {path}: {start} … {end}")
         return ''
     block = m.group(1).strip()
-    print(f"[INFO] Extracted {len(block)} chars from {path}")
+    print(f"[INFO] Extracted {len(block)} chars from {path}.")
     return block
 
-# Pull the six sections in the requested order
+def strip_small_tags(s: str) -> str:
+    # remove <small> wrappers but keep text
+    return re.sub(r'</?small[^>]*>', '', s, flags=re.I)
+
+def unwrap_details(s: str) -> str:
+    """Replace <details><summary>Label</summary>Body</details>
+       with: **Label**\n\nBody (recursively, handles nested)."""
+    pat = re.compile(
+        r'<details[^>]*>\s*(?:<summary[^>]*>(.*?)</summary>)?(.*?)</details>',
+        re.I | re.S
+    )
+    def repl(m):
+        label = (m.group(1) or '').strip()
+        body  = (m.group(2) or '')
+        # drop “(click to see the lists)” or similar hints from label
+        label = re.sub(r'\s*\(click.*?\)\s*', '', label, flags=re.I)
+        if label:
+            return f'\n\n**{label}**\n\n{body}\n\n'
+        return f'\n\n{body}\n\n'
+    # Run until no <details> remains (handles nesting)
+    prev = None
+    while prev != s:
+        prev = s
+        s = pat.sub(repl, s)
+    return s
+
+# ---- pull sections from pages ----
 home  = grab('index.md',                   '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
 teach = grab('teaching.md',                '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
 rsrch = grab('research.md',                '<!-- CV:START RESEARCH -->',    '<!-- CV:END RESEARCH -->')
 supv  = grab('supervision.md',             '<!-- CV:START SUPERVISION -->', '<!-- CV:END SUPERVISION -->')
 serv  = grab('service_contributions.md',   '<!-- CV:START SERVICE -->',     '<!-- CV:END SERVICE -->')
 prof  = grab('professional_activities.md', '<!-- CV:START PROFESSIONAL -->','<!-- CV:END PROFESSIONAL -->')
-profd = grab('professional_development.md', '<!-- CV:START DEVELOPMENT -->','<!-- CV:END DEVELOPMENT -->')
+
+# ---- expand collapsibles & strip small tags in every section ----
+sections = [home, teach, rsrch, supv, serv, prof]
+sections = [strip_small_tags(unwrap_details(s or '')) for s in sections]
+home, teach, rsrch, supv, serv, prof = sections
 
 sha  = os.environ.get('GITHUB_SHA','')[:7]
 when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
 
-# Assemble the CV page
 tpl = f"""---
-layout: single
-title: Mustafa Avci bb - Curriculum Vitae
-permalink: /cv/
+title: Curriculum Vitae — Mustafa Avci
 ---
 
-<!-- NOTE: This file is auto-generated. Edit your normal pages instead. -->
+# Mustafa Avci
+Department of Mathematics, Athabasca University  
+mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-# Mustafa Avci cc — Curriculum Vitae
-
-{home}
-
-## Teaching
-{teach}
+## Summary
+{home or '_(empty — add CV:START/END HOME markers in index.md)_'}
 
 ## Research
-{rsrch}
+{rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
+
+## Teaching
+{teach or '_(empty — add CV:START/END TEACHING markers in teaching.md)_'}
 
 ## Supervision
-{supv}
+{supv or '_(empty — add CV:START/END SUPERVISION markers in supervision.md)_'}
 
 ## Service & Contributions
-{serv}
+{serv or '_(empty — add CV:START/END SERVICE markers in service_contributions.md)_'}
 
 ## Professional Activities
-{prof}
-
-## Professional Development
-{profd}
+{prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>{sha}</code> on {when}.</small>
+_Auto-generated from **avcixm/academicprofile** — build `{sha}` on {when}_
 """
 
-cv_path = ROOT / 'cv.md'
-before = cv_path.read_text(encoding='utf-8') if cv_path.exists() else ''
-if before.strip() != tpl.strip():
-    cv_path.write_text(tpl, encoding='utf-8')
-    print(f"[OK] Wrote cv.md ({len(tpl)} bytes)")
-else:
-    print("[OK] cv.md unchanged")
-
+out = pathlib.Path('out'); out.mkdir(exist_ok=True)
+(out/'cv.md').write_text(tpl, encoding='utf-8')
+print("\n===== Preview of out/cv.md (first 60 lines) =====")
+print("\n".join((out/'cv.md').read_text(encoding='utf-8').splitlines()[:60]))
+print("===== End preview =====")
