@@ -218,7 +218,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <details>
-  <small><summary><strong>Submitted</strong></summary></small>
+  <small><summary>Submitted</summary></small>
   <ol>
     <li><strong>Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion.</strong> Under review.</li>
     <li><strong>On the geometric Brownian motion with state-dependent variable exponent diffusion term.</strong> Under review.</li>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>81afae7</code> on 2025-08-16 03:44 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>4349765</code> on 2025-08-16 03:48 UTC.</small>
