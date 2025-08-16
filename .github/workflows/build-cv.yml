@@ -1,4 +1,4 @@
-name: Build CV (page + optional PDF)
+name: Build CV (page + PDF)
 
 on:
   push:
@@ -10,45 +10,52 @@ on:
       - 'supervision.md'
       - 'service_contributions.md'
       - 'professional_activities.md'
-      - 'professional_development.md'
-      - '.github/scripts/build_cv_from_pages.py'
-  workflow_dispatch:
+      - 'professional_development.md'        # NEW section you added
+      - '.github/scripts/build_cv.py'         # ensure script edits trigger
+      - '.github/workflows/build-cv.yml'
+      - 'assets/cv/**'                        # template/CSS/header assets
+  workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: write     # we will commit cv.md + cv.pdf back to this repo
 
 jobs:
-  build-cv:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout site repo
         uses: actions/checkout@v4
 
-      - name: Build cv.md from pages
+      - name: Build cv.md from pages (expands <details>)
         run: |
-          python3 .github/scripts/build_cv_from_pages.py
+          python3 .github/scripts/build_cv.py
+          # also keep a top-level cv.md copy for convenience
+          cp out/cv.md cv.md
 
-      # --- OPTIONAL: also create/update a PDF using Pandoc + wkhtmltopdf ---
-      - name: Install tools (wkhtmltopdf + pandoc)
+      - name: Install Pandoc + wkhtmltopdf
         run: |
           sudo apt-get update
-          sudo apt-get install -y wkhtmltopdf pandoc
+          sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Export PDF to assets/exports/cv.pdf
+      - name: Build PDF
         run: |
           mkdir -p assets/exports
-          pandoc cv.md \
-            --from gfm+yaml_metadata_block \
-            --pdf-engine=wkhtmltopdf \
+          extra=""
+          [ -f assets/cv/header.html ] && extra="$extra -H assets/cv/header.html"
+          [ -f assets/cv/cv.css ] && extra="$extra --css assets/cv/cv.css"
+
+          pandoc out/cv.md \
+            --from=gfm+yaml_metadata_block \
             -t html5 \
+            --pdf-engine=wkhtmltopdf \
+            $extra \
             -o assets/exports/cv.pdf
 
-      - name: Commit changes (cv.md and optional PDF)
+      - name: Commit CV (md + PDF)
         run: |
-          set -e
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
-          git add cv.md assets/exports/cv.pdf || true
-          git commit -m "Auto-build CV from pages" || echo "No changes to commit"
+          git add cv.md assets/exports/cv.pdf
+          git commit -m "Auto-build CV (md+pdf)" || echo "No changes to commit"
           git push
-
