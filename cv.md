@@ -23,7 +23,7 @@ permalink: /cv/
  - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
 
 ## Teaching
- AU Teaching and Course Coordination
+## <small>AU Teaching and Course Coordination</small>
 - MATH 260 Calculus for Social Sciences and Economics (2022 — p)
 - MATH 366 Complex Variables I (2022 — p)
 - MATH 370 Applied Real Analysis (2022 — p)
