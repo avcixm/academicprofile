@@ -2,14 +2,13 @@
 title: Curriculum Vitae — Mustafa Avci
 ---
 
-# Mustafa Avci
-Department of Mathematics, Athabasca University  
-mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
-
 # Mustafa Avci, PhD
-Athabasca University
-Applied Mathematics
-Faculty of Science & Technology
+Athabasca University 
+
+Applied Mathematics 
+
+Faculty of Science & Technology 
+
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Summary
@@ -472,4 +471,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at Python programming language.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `8d85212` on 2025-08-16 23:29 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `0767746` on 2025-08-16 23:33 UTC_
