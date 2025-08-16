@@ -58,7 +58,7 @@ permalink: /cv/
 {prof}
 
 ## Professional Development
-{proof}
+{profd}
 
 ---
 
