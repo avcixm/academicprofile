@@ -355,7 +355,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ## <small>Reviewer for Journals</small>
 <details>
-  <summary><strong>List</strong></summary>
+  <summary><small>List</small></summary>
   <ol>
     <li>AMS Mathematical/MathSciNet Reviews (Reviewer)</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>974b54f</code> on 2025-08-16 03:51 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>7e72cef</code> on 2025-08-16 03:54 UTC.</small>
