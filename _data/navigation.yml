@@ -9,10 +9,10 @@ main:
     url: /research/
   - title: Supervision
     url: /supervision/
-  - title: Service & Contributions
+  - title: "Service & Contributions"
     url: /service_contributions/
   - title: Professional Activities
-    url: /professionalactivities/
+    url: /professional_activities/
   - title: Professional Development
     url: /professional_development/
 
@@ -30,15 +30,15 @@ research-links:
   - title: arXiv
     url: https://arxiv.org/search/?searchtype=author&query=Avci%2C%20Mustafa
     external: true
-  - title: Scopus 
+  - title: Scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=25621332700
     external: true
-  - title: WoS 
-    url: https://www.webofscience.com/wos/author/record/ACT-1567-2022
+  - title: WoS
+    url: https://www.webofscience.com/wos/author/record/ACT-1567-2622
     external: true
-  - title: AMS Math Reviews 
+  - title: "AMS Math Reviews"
     url: https://mathscinet.ams.org/mathscinet/MRAuthorID/849785
     external: true
   - title: SciProfiles
-    url: https://sciprofiles.com/profile/2740208
+    url: https://sciprofiles.com/profile/2740288
     external: true
