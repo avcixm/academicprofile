@@ -1,12 +1,10 @@
 ---
 layout: single
-title: Curriculum Vitae
+title: Mustafa Avci — Curriculum Vitae
 permalink: /cv/
 ---
 
 <!-- NOTE: This file is auto-generated. Edit your normal pages instead. -->
-
-# Mustafa Avci — Curriculum Vitae
 
 # Mustafa Avci, PhD
 Athabasca University  
@@ -18,7 +16,7 @@ Faculty of Science & Technology
 +1 639-998-9329
 
 ## Degrees
- - PhD Mathematics, Dicle University
+ - PhD Mathematics, Dicle University--2011
  - MSc Mathematics, Dicle University--2007
  - BSc Mathematics, Dicle University--2005
 
