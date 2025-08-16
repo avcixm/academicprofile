@@ -452,4 +452,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>59102db</code> on 2025-08-16 02:18 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>7a28e74</code> on 2025-08-16 02:23 UTC.</small>
