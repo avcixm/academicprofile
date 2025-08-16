@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mustafa Avci — Curriculum Vitae
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
@@ -18,7 +18,7 @@ Faculty of Science & Technology
 +1 639-998-9329
 
 ## Degrees
- - PhD Mathematics, Dicle University--2011
+ - PhD Mathematics, Dicle University
  - MSc Mathematics, Dicle University--2007
  - BSc Mathematics, Dicle University--2005
 
@@ -452,4 +452,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>dc133e7</code> on 2025-08-16 02:32 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>bdeb8fa</code> on 2025-08-16 02:38 UTC.</small>
