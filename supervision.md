@@ -12,7 +12,7 @@ permalink: /supervision/
 </div>
 
 <!-- CV:START SUPERVISION -->
-## AU Undergraduate Student Supervision 
+## <small>AU Undergraduate Student Supervision</small> 
 - Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - ) <br>
   Project Title: Advanced Engineering Mathematics.
 - Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - ) <br>
@@ -29,7 +29,7 @@ permalink: /supervision/
 - Mahin Khan - MATH 492 Special Study I. (2024/7 - 2024/12) <br>
   Project Title: Measure Theory and Lebesgue Integration.
 
-## Theses Supervised
+## <small>Theses Supervised</small>
 - Berat Süer - On Solutions of the Ginzburg-Landau-type Equation in Orlicz-Sobolev Spaces, M.Sc. Mathematics (Co-supervisor), Batman University, 2020.
 - Kenan Süslü - On Solutions of Nonlocal Equations in Orlicz-Sobolev Spaces, M.Sc. Mathematics, Batman University, 2017.
 - İdris Teymur - Coefficient Bounds for Subclasses of M-Fold Symmetric Bi-Univalent Functions, M.Sc. Mathematics (Co-supervisor), Batman University, 2017.
