@@ -57,6 +57,9 @@ permalink: /cv/
 ## Professional Activities
 {prof}
 
+## Professional Development
+{proof}
+
 ---
 
 <small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>{sha}</code> on {when}.</small>
