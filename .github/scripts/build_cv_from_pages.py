@@ -72,19 +72,19 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 ## RESEARCH
 {rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
 
-## Teaching
+## TEACHING
 {teach or '_(empty — add CV:START/END TEACHING markers in teaching.md)_'}
 
-## Supervision
+## SUPERVISION
 {supv or '_(empty — add CV:START/END SUPERVISION markers in supervision.md)_'}
 
-## Service & Contributions
+## SERVICE & CONTRIBUTIONS
 {serv or '_(empty — add CV:START/END SERVICE markers in service_contributions.md)_'}
 
-## Professional Activities
+## PROFESSIONAL ACTIVITIES
 {prof or '_(empty — add CV:START/END PROFESSIONAL markers in professional_activities.md)_'}
 
-## Professional Development
+## PROFESSIONAL DEVELOPMENT
 {profdev or '_(empty — add CV:START/END PD markers in professional_development.md)_'}
 ---
 
