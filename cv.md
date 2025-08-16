@@ -12,7 +12,7 @@ Faculty of Science & Technology
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 
-## RESEARCH
+## Research
 ## Research Interests
 - Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
@@ -194,7 +194,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 
 
-## TEACHING
+## Teaching
 ## AU Teaching and Course Coordination
 - MATH 260 Calculus for Social Sciences and Economics (2022 — p) (Supervising 1 tutor, 1 marker)
 - MATH 366 Complex Variables I (2022 — p) (Supervising 1 tutor)
@@ -280,7 +280,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Business Statistics
 - Engineering Mathematics
 
-## SUPERVISION
+## Supervision
 ## AU Undergraduate Student Supervision 
 - Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - ) <br>
   Project Title: Advanced Engineering Mathematics.
@@ -307,7 +307,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Mehmet Nuri Tüzün, Bounded Linear Operators and Riesz Representation Theorem in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
 - Mustafa Yılmaz, Approximation by Continuous Functions in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
 
-## SERVICE & CONTRIBUTIONS
+## Service & Contributions
 ## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - )
 - FST Undergraduate Program Council - (2025 - 2028)
@@ -333,7 +333,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Hiring Committee service-Tutor - MATH 480
 - Hiring Committee service-Tutor - MATH 481
 
-## PROFESSIONAL ACTIVITIES
+## Professional Activities
 ## Service to Discipline
 - Canadian Mathematical Society, Member (2023/12 - )
   
@@ -428,7 +428,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 
 
-## PROFESSIONAL DEVELOPMENT
+## Professional Development
 ## Continued Professional Development 
 - Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
@@ -457,4 +457,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at Python programming language.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `438a741` on 2025-08-16 23:47 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `384d98f` on 2025-08-16 23:52 UTC_
