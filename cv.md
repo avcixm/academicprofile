@@ -324,10 +324,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Hiring Committee service-Tutor - MATH 481
 
 ## Professional Activities
-## Service to Discipline
+## <small>Service to Discipline</small>
 - Canadian Mathematical Society, Member (2023/12 - )
   
-## Editorial Activities
+## <small>Editorial Activities</small>
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - )
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - )
 - Topical Advisory Panel Member - Axioms (2023 - )
@@ -340,20 +340,20 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Guest editor for the Special Issue: Differential Equations and Stochastic Processes: Trends and Challenges in <em>Mathematics</em> (2023/10 - 2024/11)
 - Co-Guest editor for the Special Issue: Nonlinear and Variational Analysis and their Applications in <em>Journal of Function Spaces</em> (2020/1 - 2020/12)
 
-## Event Administration
+## <small>Event Administration</small>
 - Co-organizer - Organized Session: Recent Developments in Stochastic Analysis, PDEs and Related Topics. <br>
   Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. <a href="https://sites.google.com/view/ucalgary-amd2025/schedule" target="_blank" rel="noopener">Website</a>
 - Co-organizer - Organized Session: Innovative Strategies in Online Learning Environments for Mathematics Education. <br>
   Alberta Mathematics Dialogue (AMD), University of Calgary, May 1-2, 2025. 
 
-## Conference Commitee Activities
+## <small>Conference Commitee Activities</small>
 - Scientific Board Member, 4th International Engineering, Science and Education Conference (INESEC), November 6-8, 2019, Dicle University, Turkey.
 - Scientific Board Member, 3rd International Engineering and Natural Sciences conference, Nov 14-17, 2018, Dicle University, Turkey.
 - Scientific Board Member, 2nd  International Natural and Health Science Conference (INHSC), October 19-21, 2017, Antalya, Turkey. 
 - Scientific Board Member, 1st International Engineering, Science and Education Conference (INESEC), December 1-3, 2016, Dicle University, Turkey.
 - Session Chair, 1st International Engineering, Science and Education Conference (INESEC), December 1-3, 2016, Dicle University, Turkey.
 
-## Reviewer for Journals
+## <small>Reviewer for Journals</small>
 <details>
   <summary><strong>List</strong></summary>
   <ol>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>cb80486</code> on 2025-08-16 03:24 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>facc504</code> on 2025-08-16 03:24 UTC.</small>
