@@ -12,7 +12,6 @@ Applied Mathematics
 Faculty of Science & Technology </br>
 [mavci@athabascau.ca](mailto:mavci@athabascau.ca)
 [avcixmustafa@gmail.com](mailto:avcixmustafa@gmail.com)  
-+1 639-998-9329
 
 ## Degrees
  - PhD Mathematics, Dicle University--2011
