@@ -12,7 +12,7 @@ permalink: /service_contributions/
 </div>
 
 <!-- CV:START SERVICE -->
-## AU Standing Committee Memberships
+## <small>AU Standing Committee Memberships</small>
 - FST Faculty Council - (2022 - )
 - FST Undergraduate Program Council - (2025 - 2028)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
@@ -21,7 +21,7 @@ permalink: /service_contributions/
 - GFC Academic Research Committee (ARC)- (2024 - 2027)
 - Academic & Professional Development Fund Committee - Replacement term - (2023 - 2025)
 
-## AU Ad Hoc Committee/Group Memberships 
+## <small>AU Ad Hoc Committee/Group Memberships</small> 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - )
 - FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - )
