@@ -242,7 +242,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
   </ol>
 </details>
 
-## <small>Presentations & Talks</small>
+## <small>Paper Presentations & Talks</small>
 
 <details>
   <summary><small>List</small></summary>
@@ -443,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>320617c</code> on 2025-08-16 17:30 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>a4b0db3</code> on 2025-08-16 17:31 UTC.</small>
