@@ -32,7 +32,7 @@ when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
 # Assemble the CV page
 tpl = f"""---
 layout: single
-title: Curriculum Vitae
+title: Mustafa Avci - Curriculum Vitae
 permalink: /cv/
 ---
 
