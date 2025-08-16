@@ -12,7 +12,7 @@ permalink: /courses/
 </div>
 
 <!-- CV:START TEACHING -->
-## AU Teaching and Course Coordination
+## <small>AU Teaching and Course Coordination</small>
 - MATH 260 Calculus for Social Sciences and Economics (2022 — p)
 - MATH 366 Complex Variables I (2022 — p)
 - MATH 370 Applied Real Analysis (2022 — p)
