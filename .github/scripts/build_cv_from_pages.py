@@ -32,13 +32,13 @@ when = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
 # Assemble the CV page
 tpl = f"""---
 layout: single
-title: Mustafa Avci - Curriculum Vitae
+title: Mustafa Avci bb - Curriculum Vitae
 permalink: /cv/
 ---
 
 <!-- NOTE: This file is auto-generated. Edit your normal pages instead. -->
 
-# Mustafa Avci — Curriculum Vitae
+# Mustafa Avci cc — Curriculum Vitae
 
 {home}
 
