@@ -8,15 +8,6 @@ permalink: /cv/
 
 # Mustafa Avci — Curriculum Vitae
 
-# Mustafa Avci, PhD
-Athabasca University  
-Applied Mathematics  
-Faculty of Science & Technology
-
-[mavci@athabascau.ca](mailto:mavci@athabascau.ca)
-[avcixmustafa@gmail.com](mailto:avcixmustafa@gmail.com)  
-+1 639-998-9329
-
 ## Degrees
  - PhD Mathematics, Dicle University
  - MSc Mathematics, Dicle University--2007
@@ -452,4 +443,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ---
 
-<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>bdeb8fa</code> on 2025-08-16 02:38 UTC.</small>
+<small>Auto-generated from <code>avcixm/academicprofile</code> — build <code>737f609</code> on 2025-08-16 02:41 UTC.</small>
