@@ -68,10 +68,9 @@ Applied Mathematics \n
 Faculty of Science & Technology \n
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-# Degrees
-PhD Mathematics, Dicle University - 2011 \n
-MSc Mathematics, Dicle University - 2007 \n
-BSc Mathematics, Dicle University - 2005 \n
+## Mustafa Avci cc — Curriculum Vitae
+
+{home}
 
 ## Research
 {rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
