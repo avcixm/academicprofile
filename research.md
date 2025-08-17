@@ -69,16 +69,16 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://www.tandfonline.com/doi/full/10.1080/17476933.2024.2378316" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
+      On a p(x)-Kirchhoff problem with variable singular and sublinear exponents, <em>Taiwanese Journal of Mathematics</em> 29(2) <strong>(2025)</strong>, 379–402.
+      <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>
       On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>(2024)</strong>.
       <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities, <em>Communications in Analysis and Mechanics</em> 16(3) <strong>(2024)</strong>, 554–577.
       <a href="https://www.aimspress.com/article/doi/10.3934/cam.2024026" target="_blank" rel="noopener">Website</a>
-    </li>
-    <li>
-      On a p(x)-Kirchhoff problem with variable singular and sublinear exponents, <em>Taiwanese Journal of Mathematics</em> 29(2) <strong>(2025)</strong>, 379–402.
-      <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.</li>
     <li>Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.</li>
@@ -178,6 +178,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
