@@ -35,31 +35,55 @@ jobs:
       - name: Install Pandoc + wkhtmltopdf
         run: |
           sudo apt-get update
-          # fonts help wkhtmltopdf render headers nicely on ubuntu runners
+          # fonts help wkhtmltopdf render consistently on ubuntu runners
           sudo apt-get install -y pandoc wkhtmltopdf xfonts-75dpi xfonts-base
 
       - name: Build PDF (with running header)
         run: |
-          mkdir -p assets/exports
-          extra=""
-          [ -f assets/cv/header.html ] && extra="$extra -H assets/cv/header.html"
-          [ -f assets/cv/cv.css ] && extra="$extra --css assets/cv/cv.css"
+          set -e
+          mkdir -p assets/exports out
 
+          # If you already keep a custom header at assets/cv/header.html we'll use it;
+          # otherwise create a minimal header that shows "Page X of Y | M. Avci • Curriculum Vitae"
+          HEADER_PATH="assets/cv/header.html"
+          if [ ! -f "$HEADER_PATH" ]; then
+            HEADER_PATH="out/header.html"
+            cat > "$HEADER_PATH" <<'HTML'
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { font-family: Helvetica, Arial, sans-serif; font-size: 9px; color: #555; margin: 0 10mm; }
+    .line { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ccc; padding: 2mm 0; }
+  </style>
+</head>
+<body>
+  <div class="line">
+    <div>Page <span class="page"></span> of <span class="topage"></span></div>
+    <div>M. Avci • Curriculum Vitae</div>
+  </div>
+</body>
+</html>
+HTML
+          fi
+
+          EXTRA_OPTS=""
+          # Use site CSS if present
+          [ -f assets/cv/cv.css ] && EXTRA_OPTS="$EXTRA_OPTS --css assets/cv/cv.css"
+
+          # Build: use header-html (works with unpatched Qt) and set all margins in mm
           pandoc out/cv.md \
             --from=gfm+yaml_metadata_block \
             -t html5 \
             --pdf-engine=wkhtmltopdf \
-            --pdf-engine-opt=--margin-top \
-            --pdf-engine-opt=20 \
-            --pdf-engine-opt=--header-spacing \
-            --pdf-engine-opt=8 \
-            --pdf-engine-opt=--header-font-name \
-            --pdf-engine-opt=Helvetica \
-            --pdf-engine-opt=--header-font-size \
-            --pdf-engine-opt=9 \
-            --pdf-engine-opt=--header-center \
-            --pdf-engine-opt="Page [page] of [toPage] | M. Avci • Curriculum Vitae" \
-            $extra \
+            --pdf-engine-opt=--header-html \
+            --pdf-engine-opt="$HEADER_PATH" \
+            --pdf-engine-opt=--margin-top    --pdf-engine-opt=22mm \
+            --pdf-engine-opt=--margin-bottom --pdf-engine-opt=15mm \
+            --pdf-engine-opt=--margin-left   --pdf-engine-opt=15mm \
+            --pdf-engine-opt=--margin-right  --pdf-engine-opt=15mm \
+            $EXTRA_OPTS \
             -o assets/exports/cv.pdf
 
       - name: Commit CV (md + PDF)
@@ -67,5 +91,5 @@ jobs:
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
           git add cv.md assets/exports/cv.pdf
-          git commit -m "Auto-build CV (md+pdf) with running header" || echo "No changes to commit"
+          git commit -m "Auto-build CV (md+pdf) with header-html" || echo "No changes to commit"
           git push
