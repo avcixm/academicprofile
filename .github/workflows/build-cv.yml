@@ -49,6 +49,11 @@ jobs:
             --from=gfm+yaml_metadata_block \
             -t html5 \
             --pdf-engine=wkhtmltopdf \
+            --pdf-engine-opt="--enable-local-file-access" \
+            --pdf-engine-opt="--header-center Page [page] of [toPage] | M. Avci • Curriculum Vitae" \
+            --pdf-engine-opt="--header-font-size 9" \
+            --pdf-engine-opt="--header-spacing 6" \
+            --pdf-engine-opt="--margin-top 20mm" \
             $extra \
             -o assets/exports/cv.pdf
 
