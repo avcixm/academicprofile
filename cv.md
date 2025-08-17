@@ -11,7 +11,7 @@ Faculty of Science & Technology
 
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-## Mustafa Avci cc — Curriculum Vitae
+## 
 ## Degrees
  - PhD Mathematics, Dicle University - 2011
  - MSc Mathematics, Dicle University - 2007
@@ -471,4 +471,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at Python programming language.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `315642d` on 2025-08-17 02:47 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `82ca55f` on 2025-08-17 02:51 UTC_
