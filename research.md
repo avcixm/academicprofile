@@ -65,12 +65,12 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2473492" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>(2024)</strong>.
-      <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
-    </li>
-    <li>
       Existence results for a class of singular p(x)–Kirchhoff equations, <em>Complex Variables and Elliptic Equations</em> 70(7) <strong>(2025)</strong>, 1222–1253.
       <a href="https://www.tandfonline.com/doi/full/10.1080/17476933.2024.2378316" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>
+      On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>(2024)</strong>.
+      <a href="https://link.springer.com/article/10.1007/s12591-024-00702-0" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities, <em>Communications in Analysis and Mechanics</em> 16(3) <strong>(2024)</strong>, 554–577.
@@ -178,6 +178,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
