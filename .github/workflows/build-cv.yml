@@ -16,6 +16,10 @@ on:
       - 'assets/cv/**'               # << watch header/footer/css
   workflow_dispatch: {}
 
+# in .github/workflows/build-cv.yml (top-level, alongside permissions)
+concurrency:
+  group: build-cv
+  cancel-in-progress: true
 permissions:
   contents: write
 
