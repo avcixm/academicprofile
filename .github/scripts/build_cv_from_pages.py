@@ -68,7 +68,7 @@ Applied Mathematics \n
 Faculty of Science & Technology \n
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
-## Mustafa Avci cc — Curriculum Vitae
+## 
 {home or '_(empty — add CV:START/END HOME markers in index.md)_'}
 
 ## Research
