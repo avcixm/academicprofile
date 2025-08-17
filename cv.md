@@ -11,6 +11,13 @@ Faculty of Science & Technology
 
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
+# Degrees
+PhD Mathematics, Dicle University - 2011 
+
+MSc Mathematics, Dicle University - 2007 
+
+BSc Mathematics, Dicle University - 2005 
+
 
 ## Research
 ## Research Interests
@@ -457,4 +464,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at Python programming language.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `8f02163` on 2025-08-17 02:36 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `1b39e44` on 2025-08-17 02:39 UTC_
