@@ -69,8 +69,7 @@ Faculty of Science & Technology \n
 mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Mustafa Avci cc — Curriculum Vitae
-
-{home}
+{home or '_(empty — add CV:START/END HOME markers in index.md)_'}
 
 ## Research
 {rsrch or '_(empty — add CV:START/END RESEARCH markers in research.md)_'}
