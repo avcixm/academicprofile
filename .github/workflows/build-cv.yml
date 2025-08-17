@@ -10,14 +10,14 @@ on:
       - 'supervision.md'
       - 'service_contributions.md'
       - 'professional_activities.md'
-      - 'professional_development.md'        # NEW section you added
-      - '.github/scripts/build_cv_from_pages.py'         # ensure script edits trigger
+      - 'professional_development.md'
+      - '.github/scripts/build_cv_from_pages.py'
       - '.github/workflows/build-cv.yml'
-      - 'assets/cv/**'                        # template/CSS/header assets
+      - 'assets/cv/**'
   workflow_dispatch: {}
 
 permissions:
-  contents: write     # we will commit cv.md + cv.pdf back to this repo
+  contents: write
 
 jobs:
   build:
@@ -30,15 +30,15 @@ jobs:
       - name: Build cv.md from pages (expands <details>)
         run: |
           python3 .github/scripts/build_cv_from_pages.py
-          # also keep a top-level cv.md copy for convenience
           cp out/cv.md cv.md
 
       - name: Install Pandoc + wkhtmltopdf
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          # fonts help wkhtmltopdf render headers nicely on ubuntu runners
+          sudo apt-get install -y pandoc wkhtmltopdf xfonts-75dpi xfonts-base
 
-      - name: Build PDF
+      - name: Build PDF (with running header)
         run: |
           mkdir -p assets/exports
           extra=""
@@ -49,11 +49,16 @@ jobs:
             --from=gfm+yaml_metadata_block \
             -t html5 \
             --pdf-engine=wkhtmltopdf \
-            --pdf-engine-opt="--enable-local-file-access" \
-            --pdf-engine-opt="--header-center Page [page] of [toPage] | M. Avci • Curriculum Vitae" \
-            --pdf-engine-opt="--header-font-size 9" \
-            --pdf-engine-opt="--header-spacing 6" \
-            --pdf-engine-opt="--margin-top 20mm" \
+            --pdf-engine-opt=--margin-top \
+            --pdf-engine-opt=20 \
+            --pdf-engine-opt=--header-spacing \
+            --pdf-engine-opt=8 \
+            --pdf-engine-opt=--header-font-name \
+            --pdf-engine-opt=Helvetica \
+            --pdf-engine-opt=--header-font-size \
+            --pdf-engine-opt=9 \
+            --pdf-engine-opt=--header-center \
+            --pdf-engine-opt="Page [page] of [toPage] | M. Avci • Curriculum Vitae" \
             $extra \
             -o assets/exports/cv.pdf
 
@@ -62,5 +67,5 @@ jobs:
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
           git add cv.md assets/exports/cv.pdf
-          git commit -m "Auto-build CV (md+pdf)" || echo "No changes to commit"
+          git commit -m "Auto-build CV (md+pdf) with running header" || echo "No changes to commit"
           git push
