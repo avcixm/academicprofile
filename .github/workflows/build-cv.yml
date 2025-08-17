@@ -36,59 +36,41 @@ jobs:
           python3 .github/scripts/build_cv_from_pages.py
           cp out/cv.md cv.md
 
-      # Use the static (patched) wkhtmltopdf build so headers/footers work on any Ubuntu runner
-      - name: Install Pandoc + wkhtmltopdf (static patched)
+      - name: Build PDF (Pandoc + Paged.js CSS header/footer)
         run: |
-          set -e
-          sudo apt-get update
-          sudo apt-get install -y pandoc curl xfonts-75dpi xfonts-base
-          curl -L -o wkhtmltox.tar.xz \
-            https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox-0.12.6-1_linux-generic-amd64.tar.xz
-          tar -xf wkhtmltox.tar.xz
-          sudo mv wkhtmltox /opt/wkhtmltox
-          sudo ln -sf /opt/wkhtmltox/bin/wkhtmltopdf /usr/local/bin/wkhtmltopdf
-          sudo ln -sf /opt/wkhtmltox/bin/wkhtmltoimage /usr/local/bin/wkhtmltoimage
-          wkhtmltopdf --version
-
-      - name: Build PDF (wkhtmltopdf with header & footer)
-        run: |
-          set -euo pipefail
           mkdir -p assets/exports
 
-          PDF_OPTS=()
+          # Create CSS for running header + page numbers
+          cat > assets/cv/cv.css <<'CSS'
+          @page {
+            margin: 20mm 15mm;
+            @top-center {
+              content: "M. Avci • Curriculum Vitae";
+              font-size: 10pt;
+              color: #555;
+            }
+            @bottom-center {
+              content: "Page " counter(page) " of " counter(pages);
+              font-size: 9pt;
+              color: #777;
+            }
+          }
+          body {
+            font-family: "Helvetica", Arial, sans-serif;
+            font-size: 11pt;
+          }
+          h1, h2, h3 {
+            border-bottom: 1px solid #888;
+            padding-bottom: 2px;
+          }
+          CSS
 
-          # Keep all margins in the same unit (mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-top --pdf-engine-opt=18mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-bottom --pdf-engine-opt=15mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-left --pdf-engine-opt=15mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-right --pdf-engine-opt=15mm)
-
-          # Header: prefer repo file; otherwise simple text header + line
-          if [ -f assets/cv/header.html ]; then
-            PDF_OPTS+=(--pdf-engine-opt=--header-html --pdf-engine-opt=assets/cv/header.html)
-          else
-            PDF_OPTS+=(--pdf-engine-opt=--header-left --pdf-engine-opt="M. Avci • Curriculum Vitae")
-            PDF_OPTS+=(--pdf-engine-opt=--header-line)
-          fi
-
-          # Footer: prefer repo file; otherwise page numbers
-          if [ -f assets/cv/footer.html ]; then
-            PDF_OPTS+=(--pdf-engine-opt=--footer-html --pdf-engine-opt=assets/cv/footer.html)
-          else
-            PDF_OPTS+=(--pdf-engine-opt=--footer-right --pdf-engine-opt="Page [page] of [toPage]")
-          fi
-
-          CSS_OPT=""
-          if [ -f assets/cv/cv.css ]; then
-            CSS_OPT="--css assets/cv/cv.css"
-          fi
-
+          # Generate PDF with Pandoc (Chrome via Paged.js under the hood)
           pandoc out/cv.md \
             --from=gfm+yaml_metadata_block \
+            --css=assets/cv/cv.css \
             -t html5 \
-            --pdf-engine=wkhtmltopdf \
-            $CSS_OPT \
-            "${PDF_OPTS[@]}" \
+            --pdf-engine=weasyprint \
             -o assets/exports/cv.pdf
 
       - name: Commit CV (md + PDF)
