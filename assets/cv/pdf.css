@@ -1,1 +1,41 @@
+/* Page box */
+@page { size: A4; margin: 22mm 18mm 20mm 18mm; }
+
+/* Body text */
+html, body {
+  font-family: "Calibri", "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.35;
+  color: #111;
+}
+
+/* Name / big title (h1) */
+h1 { font-size: 20pt; margin: 0 0 6pt; color: #0a2a4e; }
+
+/* ===== Main section headings (underline) =====
+   These are your top sections like Research, Teaching,
+   Supervision, Service & Contributions, Professional Activities,
+   Professional Development. If your main sections are h2,
+   this will underline only those, not subheads (h3+). */
+h2 {
+  font-size: 13pt;
+  color: #0a2a4e;            /* navy */
+  font-weight: 700;
+  margin: 18pt 0 6pt;
+  padding-bottom: 2pt;
+  border-bottom: 2px solid #0a2a4e;  /* the underline */
+}
+
+/* Sub-headings (smaller than h2, no underline) */
+h3 {
+  font-size: 11.5pt;
+  color: #e87722;            /* AU orange */
+  font-weight: 700;
+  margin: 12pt 0 4pt;
+}
+
+/* Lists & links */
+ul { margin: 6pt 0 6pt 16pt; }
+li { margin: 2pt 0; }
+a  { color: #0a2a4e; text-decoration: none; }
 
