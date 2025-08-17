@@ -35,17 +35,17 @@ jobs:
       - name: Install Pandoc + wkhtmltopdf
         run: |
           sudo apt-get update
-          # fonts help wkhtmltopdf render consistently on ubuntu runners
           sudo apt-get install -y pandoc wkhtmltopdf xfonts-75dpi xfonts-base
 
-      - name: Build PDF (with running header)
+      - name: Build PDF (header + footer)
         run: |
           set -e
           mkdir -p assets/exports out
 
-          # If you already keep a custom header at assets/cv/header.html we'll use it;
-          # otherwise create a minimal header that shows "Page X of Y | M. Avci • Curriculum Vitae"
+          # Use repo-provided header/footer if available; otherwise create minimal ones.
           HEADER_PATH="assets/cv/header.html"
+          FOOTER_PATH="assets/cv/footer.html"
+
           if [ ! -f "$HEADER_PATH" ]; then
             HEADER_PATH="out/header.html"
             cat > "$HEADER_PATH" <<'HTML'
@@ -54,33 +54,48 @@ jobs:
 <head>
   <meta charset="utf-8">
   <style>
-    body { font-family: Helvetica, Arial, sans-serif; font-size: 9px; color: #555; margin: 0 10mm; }
-    .line { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ccc; padding: 2mm 0; }
+    body { font-family: Helvetica, Arial, sans-serif; font-size: 9px; color:#555; margin:0 10mm; }
+    .line { display:flex; justify-content:flex-end; border-bottom:1px solid #ccc; padding:2mm 0; }
   </style>
 </head>
 <body>
-  <div class="line">
-    <div>Page <span class="page"></span> of <span class="topage"></span></div>
-    <div>M. Avci • Curriculum Vitae</div>
-  </div>
+  <div class="line">M. Avci • Curriculum Vitae</div>
+</body>
+</html>
+HTML
+          fi
+
+          if [ ! -f "$FOOTER_PATH" ]; then
+            FOOTER_PATH="out/footer.html"
+            cat > "$FOOTER_PATH" <<'HTML'
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { font-family: Helvetica, Arial, sans-serif; font-size: 9px; color:#555; margin:0 10mm; }
+    .line { text-align:center; border-top:1px solid #ccc; padding:2mm 0; }
+  </style>
+</head>
+<body>
+  <div class="line"><span class="page"></span></div>
 </body>
 </html>
 HTML
           fi
 
           EXTRA_OPTS=""
-          # Use site CSS if present
           [ -f assets/cv/cv.css ] && EXTRA_OPTS="$EXTRA_OPTS --css assets/cv/cv.css"
 
-          # Build: use header-html (works with unpatched Qt) and set all margins in mm
+          # Important: set all margins with same unit (mm) to avoid wkhtmltopdf errors
           pandoc out/cv.md \
             --from=gfm+yaml_metadata_block \
             -t html5 \
             --pdf-engine=wkhtmltopdf \
-            --pdf-engine-opt=--header-html \
-            --pdf-engine-opt="$HEADER_PATH" \
+            --pdf-engine-opt=--header-html --pdf-engine-opt="$HEADER_PATH" \
+            --pdf-engine-opt=--footer-html --pdf-engine-opt="$FOOTER_PATH" \
             --pdf-engine-opt=--margin-top    --pdf-engine-opt=22mm \
-            --pdf-engine-opt=--margin-bottom --pdf-engine-opt=15mm \
+            --pdf-engine-opt=--margin-bottom --pdf-engine-opt=18mm \
             --pdf-engine-opt=--margin-left   --pdf-engine-opt=15mm \
             --pdf-engine-opt=--margin-right  --pdf-engine-opt=15mm \
             $EXTRA_OPTS \
@@ -91,5 +106,5 @@ HTML
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
           git add cv.md assets/exports/cv.pdf
-          git commit -m "Auto-build CV (md+pdf) with header-html" || echo "No changes to commit"
+          git commit -m "Auto-build CV (md+pdf) with header+footer" || echo "No changes to commit"
           git push
