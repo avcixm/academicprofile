@@ -40,12 +40,7 @@ def unwrap_details(s: str) -> str:
         prev = s
         s = pat.sub(repl, s)
     return s
-    
-def create_fpdf_with_page_numbers():
-    """Create PDF using FPDF with automatic page numbers"""
-    pdf = PDF()
-    pdf.set_auto_page_break(auto=True, margin=15)
-    
+      
 # ---- pull sections from pages ----
 home  = grab('index.md',                   '<!-- CV:START HOME -->',        '<!-- CV:END HOME -->')
 teach = grab('teaching.md',                '<!-- CV:START TEACHING -->',    '<!-- CV:END TEACHING -->')
