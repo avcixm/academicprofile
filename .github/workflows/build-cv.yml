@@ -13,7 +13,7 @@ on:
       - 'professional_development.md'
       - '.github/scripts/build_cv_from_pages.py'
       - '.github/workflows/build-cv.yml'
-      - 'assets/cv/**'               # << watch header/footer/css
+      - 'assets/cv/**'
   workflow_dispatch: {}
 
 concurrency:
@@ -36,15 +36,19 @@ jobs:
           python3 .github/scripts/build_cv_from_pages.py
           cp out/cv.md cv.md
 
-      # Patched wkhtmltopdf so header/footer flags actually work
-      - name: Install Pandoc + wkhtmltopdf (patched)
+      # Use the static (patched) wkhtmltopdf build so headers/footers work on any Ubuntu runner
+      - name: Install Pandoc + wkhtmltopdf (static patched)
         run: |
           set -e
           sudo apt-get update
           sudo apt-get install -y pandoc curl xfonts-75dpi xfonts-base
-          curl -L -o wk.deb \
-            https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
-          sudo apt-get install -y ./wk.deb
+          curl -L -o wkhtmltox.tar.xz \
+            https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox-0.12.6-1_linux-generic-amd64.tar.xz
+          tar -xf wkhtmltox.tar.xz
+          sudo mv wkhtmltox /opt/wkhtmltox
+          sudo ln -sf /opt/wkhtmltox/bin/wkhtmltopdf /usr/local/bin/wkhtmltopdf
+          sudo ln -sf /opt/wkhtmltox/bin/wkhtmltoimage /usr/local/bin/wkhtmltoimage
+          wkhtmltopdf --version
 
       - name: Build PDF (wkhtmltopdf with header & footer)
         run: |
