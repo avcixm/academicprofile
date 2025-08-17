@@ -16,10 +16,10 @@ on:
       - 'assets/cv/**'               # << watch header/footer/css
   workflow_dispatch: {}
 
-# in .github/workflows/build-cv.yml (top-level, alongside permissions)
 concurrency:
   group: build-cv
   cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -36,37 +36,54 @@ jobs:
           python3 .github/scripts/build_cv_from_pages.py
           cp out/cv.md cv.md
 
-      - name: Install Pandoc + wkhtmltopdf
+      # Patched wkhtmltopdf so header/footer flags actually work
+      - name: Install Pandoc + wkhtmltopdf (patched)
         run: |
+          set -e
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          sudo apt-get install -y pandoc curl xfonts-75dpi xfonts-base
+          curl -L -o wk.deb \
+            https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
+          sudo apt-get install -y ./wk.deb
 
       - name: Build PDF (wkhtmltopdf with header & footer)
         run: |
           set -euo pipefail
           mkdir -p assets/exports
 
-          # assemble pdf-engine options safely
           PDF_OPTS=()
 
-          # use repo header/footer if present
-          if [ -f assets/cv/header.html ]; then
-            PDF_OPTS+=(--pdf-engine-opt=--header-html --pdf-engine-opt=assets/cv/header.html)
-          fi
-          if [ -f assets/cv/footer.html ]; then
-            PDF_OPTS+=(--pdf-engine-opt=--footer-html --pdf-engine-opt=assets/cv/footer.html)
-          fi
-
-          # keep all margins in the same unit (mm) to avoid the common wkhtmltopdf error
+          # Keep all margins in the same unit (mm)
           PDF_OPTS+=(--pdf-engine-opt=--margin-top --pdf-engine-opt=18mm)
           PDF_OPTS+=(--pdf-engine-opt=--margin-bottom --pdf-engine-opt=15mm)
           PDF_OPTS+=(--pdf-engine-opt=--margin-left --pdf-engine-opt=15mm)
           PDF_OPTS+=(--pdf-engine-opt=--margin-right --pdf-engine-opt=15mm)
 
+          # Header: prefer repo file; otherwise simple text header + line
+          if [ -f assets/cv/header.html ]; then
+            PDF_OPTS+=(--pdf-engine-opt=--header-html --pdf-engine-opt=assets/cv/header.html)
+          else
+            PDF_OPTS+=(--pdf-engine-opt=--header-left --pdf-engine-opt="M. Avci • Curriculum Vitae")
+            PDF_OPTS+=(--pdf-engine-opt=--header-line)
+          fi
+
+          # Footer: prefer repo file; otherwise page numbers
+          if [ -f assets/cv/footer.html ]; then
+            PDF_OPTS+=(--pdf-engine-opt=--footer-html --pdf-engine-opt=assets/cv/footer.html)
+          else
+            PDF_OPTS+=(--pdf-engine-opt=--footer-right --pdf-engine-opt="Page [page] of [toPage]")
+          fi
+
+          CSS_OPT=""
+          if [ -f assets/cv/cv.css ]; then
+            CSS_OPT="--css assets/cv/cv.css"
+          fi
+
           pandoc out/cv.md \
             --from=gfm+yaml_metadata_block \
             -t html5 \
             --pdf-engine=wkhtmltopdf \
+            $CSS_OPT \
             "${PDF_OPTS[@]}" \
             -o assets/exports/cv.pdf
 
