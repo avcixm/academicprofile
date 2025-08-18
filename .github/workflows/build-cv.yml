@@ -13,13 +13,13 @@ on:
       - 'professional_development.md'
       - '.github/scripts/build_cv_from_pages.py'
       - '.github/workflows/build-cv.yml'
-      - 'assets/cv/**'               # << watch header/footer/css
+      - 'assets/cv/**'
   workflow_dispatch: {}
 
-# in .github/workflows/build-cv.yml (top-level, alongside permissions)
 concurrency:
   group: build-cv
   cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -36,38 +36,23 @@ jobs:
           python3 .github/scripts/build_cv_from_pages.py
           cp out/cv.md cv.md
 
-      - name: Install Pandoc + wkhtmltopdf
+      - name: Install Pandoc + WeasyPrint
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          sudo apt-get install -y pandoc python3-pip
+          pip install weasyprint
 
-      - name: Build PDF (wkhtmltopdf with header & footer)
+      - name: Build PDF (WeasyPrint with CSS header/footer)
         run: |
-          set -euo pipefail
           mkdir -p assets/exports
-
-          # assemble pdf-engine options safely
-          PDF_OPTS=()
-
-          # use repo header/footer if present
-          if [ -f assets/cv/header.html ]; then
-            PDF_OPTS+=(--pdf-engine-opt=--header-html --pdf-engine-opt=assets/cv/header.html)
-          fi
-          if [ -f assets/cv/footer.html ]; then
-            PDF_OPTS+=(--pdf-engine-opt=--footer-html --pdf-engine-opt=assets/cv/footer.html)
-          fi
-
-          # keep all margins in the same unit (mm) to avoid the common wkhtmltopdf error
-          PDF_OPTS+=(--pdf-engine-opt=--margin-top --pdf-engine-opt=18mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-bottom --pdf-engine-opt=15mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-left --pdf-engine-opt=15mm)
-          PDF_OPTS+=(--pdf-engine-opt=--margin-right --pdf-engine-opt=15mm)
+          extra=""
+          [ -f assets/cv/cv.css ] && extra="--css assets/cv/cv.css"
 
           pandoc out/cv.md \
             --from=gfm+yaml_metadata_block \
             -t html5 \
-            --pdf-engine=wkhtmltopdf \
-            "${PDF_OPTS[@]}" \
+            --pdf-engine=weasyprint \
+            $extra \
             -o assets/exports/cv.pdf
 
       - name: Commit CV (md + PDF)
