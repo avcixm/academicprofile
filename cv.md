@@ -26,7 +26,7 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
  - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
  - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
 
-## Research {.cv-section}
+## Research 
 ## Research Interests
 - Analysis of variable exponent PDEs (Deterministic & Stochastic)
 - Variable Lebesgue spaces
