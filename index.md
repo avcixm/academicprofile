@@ -57,8 +57,8 @@ I am an Assistant Professor in Applied Mathematics at Athabasca University. This
 <!-- CV:START HOME -->
 
 ## Degrees
- - PhD Mathematics, Dicle University --- 2011
- - MSc Mathematics, Dicle University -- 2007
+ - PhD Mathematics, Dicle University - 2011
+ - MSc Mathematics, Dicle University - 2007
  - BSc Mathematics, Dicle University - 2005
 
 ## Professional Experience
