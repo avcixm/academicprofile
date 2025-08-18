@@ -471,4 +471,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at Python programming language.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `a015fbc` on 2025-08-18 03:36 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `efb3406` on 2025-08-18 03:37 UTC_
