@@ -36,7 +36,5 @@ permalink: /professional_development/
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
 - Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
-- Advanced computer, online and web skills: MS Office, MS Teams, MATLAB, SPSS.
-- Competent at Python programming language.
-
+- Competent at: Python and MATLAB.
 <!-- CV:END PD -->
