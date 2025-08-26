@@ -172,12 +172,13 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <li><strong>Power-type weighted Hardy and Hankel operators in variable exponent Morrey space</strong>, “Operators in General Morrey-Type Spaces and Applications” (Dedicated to the 70th Birthday of Prof. Victor I. Burenkov), Ahi Evran University, Kırşehir, Turkey, 20–27 May 2011.</li>
     <li><strong>Maximal and Riesz operators in weighted variable exponent Morrey space</strong>, same event, Ahi Evran University, Kırşehir, Turkey, 20–27 May 2011.</li>
     <li><strong>Existence of solutions for nonuniformly elliptic equations of p(x)-Laplacian type</strong>, 3rd International Conference on Differential Equations and Applications, Lviv, Ukraine, 3–6 November 2010.</li>
-    <li><strong>A new solution of some weighted problems for the Riemann–Liouville and Weyl operators</strong>, Further Progress in Analysis, Proceedings of the 6th International ISAAC Congress, Ankara, Turkey, 13–18 August 2007, pp. 321–326 (published 2009).</li>
+    <li><strong>A new solution of some weighted problems for the Riemann–Liouville and Weyl operators</strong>, the 6th International ISAAC Congress, 13–18 August 2007, Middle East Technical University (METU), Ankara, Turkey.</li>
     <li><strong>Existence of solutions for a p(x)-Laplacian in ℝ(N)</strong>, Workshop on Differential Equations and Applications, Pamukkale University, Denizli, Turkey, 18–20 April 2008.</li>
   </ol>
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
