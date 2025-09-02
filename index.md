@@ -68,6 +68,6 @@ I am an Assistant Professor in Applied Mathematics at Athabasca University. This
  - Instructor (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2019/5 - 2019/8).
  - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10).
  - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
- - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
+ - Instructor, Economics and Administrative Sciences Programs, Dicle University (2009/1 - 2013/3).
 
 <!-- CV:END HOME -->
