@@ -165,7 +165,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 
 
-**In preparation**
+**Work in progress**
 
 
   <ol>
@@ -470,4 +470,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python and MATLAB.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `f2c7fca` on 2025-08-26 03:44 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `e7d3fab` on 2025-09-02 01:29 UTC_
