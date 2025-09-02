@@ -24,7 +24,7 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
  - Instructor (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2019/5 - 2019/8).
  - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10).
  - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
- - Instructor, Economics and Administrative Sciences Programmes, Dicle University (2009/1 - 2013/3).
+ - Instructor, Economics and Administrative Sciences Programs, Dicle University (2009/1 - 2013/3).
 
 ## Research
 ## Research Interests
@@ -470,4 +470,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python and MATLAB.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `00f62a1` on 2025-09-02 01:37 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `1912108` on 2025-09-02 01:41 UTC_
