@@ -469,7 +469,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
 - Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
-- Competent at: Python and MATLAB.
+- Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `0c5a335` on 2025-09-04 00:28 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `43c9a28` on 2025-09-08 16:15 UTC_
