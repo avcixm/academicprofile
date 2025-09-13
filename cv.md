@@ -179,7 +179,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator, <em>British Journal of Mathematics &amp; Computer Science</em> 6(2) <strong>(2015)</strong>, 112–118.
       <a href="https://journaljamcs.com/index.php/JAMCS/article/view/881" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence of solutions for fourth-order elliptic equations of Kirchhoff type (with F. Wang, Y. An), <em>Journal of Mathematical Analysis and Applications</em> 409(1) <strong>(2014)</strong>, 140–146.</li>
+    <li>
+      Existence of solutions for fourth-order elliptic equations of Kirchhoff type (with F. Wang, Y. An), <em>Journal of Mathematical Analysis and Applications</em> 409(1) <strong>(2014)</strong>, 140–146.
+      <a href="https://www.sciencedirect.com/science/article/pii/S0022247X1300632X" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence of three solutions for a quasilinear elliptic equation involving the –Laplacian (with R. Mashiyev), <em>Sarajevo Journal of Mathematics</em> 10(23) <strong>(2014)</strong>, 1–13.</li>
     <li>Existence and uniqueness of solutions of a nonlocal problem involving the –Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.</li>
     <li>Existence results for a nonlocal problem involving the p-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.</li>
@@ -533,4 +536,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `02900ec` on 2025-09-13 02:53 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `a12d637` on 2025-09-13 02:54 UTC_
