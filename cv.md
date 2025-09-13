@@ -118,7 +118,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://ckms.kms.or.kr/journal/view.html?volume=35&number=2&spage=517" target="_blank" rel="noopener">Website</a>
     </li>
     <li>A variational approach to the existence of infinitely many solutions for difference equations (with M. K. Moghadam, S. Tersian), <em>Journal of New Research in Mathematics</em> 5(22) <strong>(2020)</strong>, 99–110.</li>
-    <li>A topological result for a class of anisotropic difference equations, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 46(2) <strong>(2019)</strong>, 328–343.</li>
+    <li>
+      A topological result for a class of anisotropic difference equations, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 46(2) <strong>(2019)</strong>, 328–343.
+    <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/1060/697" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>On some classes of nonlocal problems in Musielak–Sobolev spaces, <em>Southeast Asian Bulletin of Mathematics</em> 43 <strong>(2019)</strong>, 791–814.</li>
     <li>Positive ground state solutions to a nonlocal singular elliptic problem, <em>Canadian Journal of Applied Mathematics</em> 1(1) <strong>(2019)</strong>, 1–14.</li>
     <li>On a nonlocal problem involving a nonstandard nonhomogeneous differential operator (with B. Suer), <em>Journal of Elliptic and Parabolic Equations</em> 5(1) <strong>(2019)</strong>, 47–67.</li>
@@ -488,4 +491,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `bad655a` on 2025-09-13 02:17 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `aa18a01` on 2025-09-13 02:19 UTC_
