@@ -305,13 +305,13 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - MGSC 301 Statistics for Business and Economics I (2020 — 2022)
 - MGSC 312 Statistics for Business and Economics II (2020 — 202)
 
-## AU Course Design and Revisions
+## AU Course Development and Revisions
 - MATH 415 Introduction to Measure and Integration (In Development, 2025 — present)
 - MATH 426 Introduction to Stochastic Processes (In Development, 2025 — present)
 - MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — present)
 - MATH 325 Linear Programming — Development (In Production) (2024)
-- MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
-- MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
+- MATH 216 Computer-Oriented Approach to Statistics — Revision (2024)
+- MATH 260 Calculus for Social Sciences and Economics — Revision (2024)
 
 ## University of Saskatchewan Courses
 - COMM 121 Business Mathematics (2021/6 — 2022/7)
@@ -544,8 +544,8 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## Tech (Research & Education) Skills
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
-- Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
+- Working with educational technologies and Learning Management Systems (LMS): Mobius, Blackboard, Canvas, Moodle, Google Classroom, Brightspace.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `e27fd6f` on 2025-09-13 15:13 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `dd36315` on 2025-09-13 15:22 UTC_
