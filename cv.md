@@ -212,27 +212,27 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ## Teaching
 ## AU Teaching and Course Coordination
-- MATH 260 Calculus for Social Sciences and Economics (2022 — p) (Supervising 1 tutor, 1 marker)
-- MATH 366 Complex Variables I (2022 — p) (Supervising 1 tutor)
-- MATH 370 Applied Real Analysis (2022 — p) (Supervising 1 tutor)
+- MATH 260 Calculus for Social Sciences and Economics (2022 — present) (Supervising 1 tutor, 1 marker)
+- MATH 366 Complex Variables I (2022 — present) (Supervising 1 tutor)
+- MATH 370 Applied Real Analysis (2022 — present) (Supervising 1 tutor)
 - MATH 376 Ordinary Differential Equations (2025 — p) (Supervising 2 tutors)
-- MATH 492 Special Study I (2022 — p)
-- MATH 493 Special Study II (2022 — p)
-- MATH 495 Mathematics Projects I (2022 — p)
-- MATH 496 Mathematics Projects II (2022 — p)
+- MATH 492 Special Study I (2022 — present)
+- MATH 493 Special Study II (2022 — present)
+- MATH 495 Mathematics Projects I (2022 — present)
+- MATH 496 Mathematics Projects II (2022 — present)
 - MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025) (Supervised 3 tutors)
 
 ## AU Tutoring
-- MATH 376 Ordinary Differential Equations (2025 — p)
+- MATH 376 Ordinary Differential Equations (2025 — present)
 - MATH 216 Computer-Oriented Approach to Statistics (2022—2025)
 - MATH 365 Multivariable Calculus (2021—2022)
 - MGSC 301 Statistics for Business and Economics I (2020 — 2022)
 - MGSC 312 Statistics for Business and Economics II (2020 — 202)
 
 ## AU Course Design and Revisions
-- MATH 415 Introduction to Measure and Integration (In Development, 2025 — p)
-- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — p)
-- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — p)
+- MATH 415 Introduction to Measure and Integration (In Development, 2025 — present)
+- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — present)
+- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — present)
 - MATH 325 Linear Programming — Development (In Production) (2024)
 - MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
 - MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
@@ -262,7 +262,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## Morgan State University Courses (USA)
 - MATH 241  Calculus I (2015/Spring)
 
-## Batman University Courses (Turkey) (2013 — 2018)
+## Batman University Courses (Turkiye) (2013 — 2018)
 - 05010303	Business Mathematics
 - 05050407  Statistics
 - 05010105  Calculus I
@@ -291,7 +291,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - 61090128  Business Statistics
 - 61090201  Research Methods          
 
-## Dicle University (Turkey) (2009 — 2013)
+## Dicle University (Turkiye) (2009 — 2013)
 - Business Mathematics
 - Business Statistics
 - Engineering Mathematics
@@ -472,4 +472,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `43c9a28` on 2025-09-08 16:15 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `e8cbde1` on 2025-09-13 01:58 UTC_
