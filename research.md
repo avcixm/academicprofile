@@ -83,7 +83,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.
-    <a href=" https://www.emis.de/journals/AMEN/" target="_blank" rel="noopener">Website</a>
+    <a href="https://www.emis.de/journals/AMEN/" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.</li>
     <li>Critical points approaches to a nonlocal elliptic problem driven by p(x)–biharmonic operator (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) <strong>(2021)</strong>, 55–69.</li>
@@ -182,6 +182,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
