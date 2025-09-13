@@ -159,7 +159,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Nontrivial solutions of discrete nonlinear equations with variable exponent (with A. Pankov), <em>Journal of Mathematical Analysis and Applications</em> 431 <strong>(2015)</strong>, 22–33.
       <a href="https://www.sciencedirect.com/science/article/pii/S0022247X15005090" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator, <em>British Journal of Mathematics &amp; Computer Science</em> 6(2) <strong>(2015)</strong>, 112–118.</li>
+    <li>
+      Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator, <em>British Journal of Mathematics &amp; Computer Science</em> 6(2) <strong>(2015)</strong>, 112–118.
+      <a href="https://journaljamcs.com/index.php/JAMCS/article/view/881" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence of solutions for fourth-order elliptic equations of Kirchhoff type (with F. Wang, Y. An), <em>Journal of Mathematical Analysis and Applications</em> 409(1) <strong>(2014)</strong>, 140–146.</li>
     <li>Existence of three solutions for a quasilinear elliptic equation involving the –Laplacian (with R. Mashiyev), <em>Sarajevo Journal of Mathematics</em> 10(23) <strong>(2014)</strong>, 1–13.</li>
     <li>Existence and uniqueness of solutions of a nonlocal problem involving the –Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.</li>
@@ -236,6 +239,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
