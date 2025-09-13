@@ -298,9 +298,9 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ## Supervision
 ## AU Undergraduate Student Supervision 
-- Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - ) <br>
+- Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - present) <br>
   Project Title: Advanced Engineering Mathematics.
-- Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - ) <br>
+- Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - present) <br>
   Project Title: Application of the Fixed-point Theorems to the Solutions of Differential Equations.
 - Amina Anna Mahamane Ousmane - MATH 495 Mathematics Projects I. (2025/5 - 2025/6) <br>
   Project Title: Investigating the Effectiveness of Optimization Methods : Full-Batch Gradient Descent vs. 
@@ -325,7 +325,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ## Service & Contributions
 ## AU Standing Committee Memberships
-- FST Faculty Council - (2022 - )
+- FST Faculty Council - (2022 - present)
 - FST Undergraduate Program Council - (2025 - 2028)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
 - Academic Research Fund Committee (ARF) - (2024 - 2027)
@@ -335,11 +335,11 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 ## AU Ad Hoc Committee/Group Memberships 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
-- Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - )
-- FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - )
+- Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
+- FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - present)
 - ARC CFI-JELF Expression of Interest Review Subcommittee (2025)
-- Applied Math Program Advisory Committee - (2025 - )
-- Mobius Ladership Group - (2024 - )
+- Applied Math Program Advisory Committee - (2025 - present)
+- Mobius Ladership Group - (2024 - present)
 - Hiring Committee service-Assistant Professor - Applied Math.
 - Hiring Committee service-Tutor - MATH 216
 - Hiring Committee service-Tutor - MATH 266
@@ -472,4 +472,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `e8cbde1` on 2025-09-13 01:58 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `ed06326` on 2025-09-13 02:00 UTC_
