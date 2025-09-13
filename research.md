@@ -81,7 +81,8 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities, <em>Communications in Analysis and Mechanics</em> 16(3) <strong>(2024)</strong>, 554–577.
       <a href="https://www.aimspress.com/article/doi/10.3934/cam.2024026" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.
+    <li>
+      Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.
     <a href=" https://www.emis.de/journals/AMEN/" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.</li>
@@ -181,6 +182,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
