@@ -131,7 +131,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       On a nonlocal problem involving a nonstandard nonhomogeneous differential operator (with B. Suer), <em>Journal of Elliptic and Parabolic Equations</em> 5(1) <strong>(2019)</strong>, 47–67.
       <a href="https://link.springer.com/article/10.1007/s41808-018-0032-3" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>On a Robin problem in Orlicz–Sobolev spaces (with K. Suslu), <em>TWMS Journal of Applied and Engineering Mathematics</em> 9(2) <strong>(2019)</strong>, 246–256.</li>
+    <li>
+      On a Robin problem in Orlicz–Sobolev spaces (with K. Suslu), <em>TWMS Journal of Applied and Engineering Mathematics</em> 9(2) <strong>(2019)</strong>, 246–256.
+      <a href="https://jaem.isikun.edu.tr/web/index.php/archive/423-jaem-vol9-no2" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Solutions to p(x)–Laplace type equations via nonvariational techniques, <em>Opuscula Mathematica</em> 38(3) <strong>(2018)</strong>, 291–305.</li>
     <li>Multivalued elliptic operators with nonstandard growth (with A. Pankov), <em>Advances in Nonlinear Analysis</em> 7(1) <strong>(2018)</strong>, 35–48.</li>
     <li>Existence results to a nonlinear –Laplacian difference equation (with M. K. Moghadam), <em>Journal of Difference Equations and Applications</em> 23(10) <strong>(2017)</strong>, 1652–1669.</li>
@@ -497,4 +500,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `baafe57` on 2025-09-13 02:28 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `ab31f57` on 2025-09-13 02:31 UTC_
