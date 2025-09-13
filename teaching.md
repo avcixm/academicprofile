@@ -63,7 +63,7 @@ permalink: /courses/
 ## <small>Morgan State University Courses (USA)</small>
 - MATH 241  Calculus I (2015/Spring)
 
-## <small>Batman University Courses (Turkey) (2013 — 2018)</small>
+## <small>Batman University Courses (Turkiye) (2013 — 2018)</small>
 - 05010303	Business Mathematics
 - 05050407  Statistics
 - 05010105  Calculus I
@@ -92,7 +92,7 @@ permalink: /courses/
 - 61090128  Business Statistics
 - 61090201  Research Methods          
 
-## <small>Dicle University (Turkey) (2009 — 2013)</small>
+## <small>Dicle University (Turkiye) (2009 — 2013)</small>
 - Business Mathematics
 - Business Statistics
 - Engineering Mathematics
