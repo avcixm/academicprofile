@@ -151,7 +151,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.
       <a href="https://ejmaa.journals.ekb.eg/article_310813.html" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Positive periodic solutions of nonlinear differential equations system with nonstandard growth (with R. Ayazoglu), <em>Applied Mathematics Letters</em> 43 <strong>(2015)</strong>, 5–9.</li>
+    <li>
+      Positive periodic solutions of nonlinear differential equations system with nonstandard growth (with R. Ayazoglu), <em>Applied Mathematics Letters</em> 43 <strong>(2015)</strong>, 5–9.
+      <a href="https://www.sciencedirect.com/science/article/pii/S0893965914003590" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Nontrivial solutions of discrete nonlinear equations with variable exponent (with A. Pankov), <em>Journal of Mathematical Analysis and Applications</em> 431 <strong>(2015)</strong>, 22–33.</li>
     <li>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator, <em>British Journal of Mathematics &amp; Computer Science</em> 6(2) <strong>(2015)</strong>, 112–118.</li>
     <li>Existence of solutions for fourth-order elliptic equations of Kirchhoff type (with F. Wang, Y. An), <em>Journal of Mathematical Analysis and Applications</em> 409(1) <strong>(2014)</strong>, 140–146.</li>
@@ -230,6 +233,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
