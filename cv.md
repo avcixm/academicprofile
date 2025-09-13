@@ -143,7 +143,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Multivalued elliptic operators with nonstandard growth (with A. Pankov), <em>Advances in Nonlinear Analysis</em> 7(1) <strong>(2018)</strong>, 35–48.
       <a href="https://www.degruyterbrill.com/document/doi/10.1515/anona-2016-0043/html?lang=en&srsltid=AfmBOoqFpUD5tAIVWUJhwDk6qhuc2pcVB1nGGAqDn68jVf9jlqLm3XyP" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence results to a nonlinear –Laplacian difference equation (with M. K. Moghadam), <em>Journal of Difference Equations and Applications</em> 23(10) <strong>(2017)</strong>, 1652–1669.</li>
+    <li>
+      Existence results to a nonlinear p(k)–Laplacian difference equation (with M. K. Moghadam), <em>Journal of Difference Equations and Applications</em> 23(10) <strong>(2017)</strong>, 1652–1669.
+      <a href="https://www.tandfonline.com/doi/abs/10.1080/10236198.2017.1354991" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>On a nonlocal Neumann problem in Orlicz–Sobolev spaces, <em>Journal of Nonlinear Functional Analysis</em> 2017 <strong>(2017)</strong>, Article ID 42, 1–11.</li>
     <li>Existence results for anisotropic discrete boundary value problems, <em>Electronic Journal of Differential Equations</em> 148 <strong>(2016)</strong>, 1–11.</li>
     <li>On a nonlocal problem involving the generalized anisotropic p(⋅)-Laplace operator, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 43(2) <strong>(2016)</strong>, 259–272.</li>
@@ -506,4 +509,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `86a5ca9` on 2025-09-13 02:34 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `d75050a` on 2025-09-13 02:35 UTC_
