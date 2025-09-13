@@ -291,7 +291,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - MATH 260 Calculus for Social Sciences and Economics (2022 — present) (Supervising 1 tutor, 1 marker)
 - MATH 366 Complex Variables I (2022 — present) (Supervising 1 tutor)
 - MATH 370 Applied Real Analysis (2022 — present) (Supervising 1 tutor)
-- MATH 376 Ordinary Differential Equations (2025 — p) (Supervising 2 tutors)
+- MATH 376 Ordinary Differential Equations (2025 — present) (Supervising 2 tutors)
 - MATH 492 Special Study I (2022 — present)
 - MATH 493 Special Study II (2022 — present)
 - MATH 495 Mathematics Projects I (2022 — present)
@@ -548,4 +548,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `f371978` on 2025-09-13 15:09 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `e27fd6f` on 2025-09-13 15:13 UTC_
