@@ -181,7 +181,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://boundaryvalueproblems.springeropen.com/articles/10.1186/1687-2770-2013-55" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Existence and multiplicity of solutions for Dirichlet problems involving the p(x)–Laplacian, <em>Electronic Journal of Differential Equations</em> 14 <strong>(2013)</strong>, 1–99.
+      Existence and multiplicity of solutions for Dirichlet problems involving the p(x)–Laplacian, <em>Electronic Journal of Differential Equations</em> 14 <strong>(2013)</strong>, 1–9.
       <a href="https://ejde.math.txstate.edu/" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.</li>
@@ -254,6 +254,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
