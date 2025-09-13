@@ -139,7 +139,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence results for anisotropic discrete boundary value problems, <em>Electronic Journal of Differential Equations</em> 148 <strong>(2016)</strong>, 1–11.
       <a href="https://ejde.math.txstate.edu/" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>On a nonlocal problem involving the generalized anisotropic p(⋅)-Laplace operator, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 43(2) <strong>(2016)</strong>, 259–272.</li>
+    <li>
+      On a nonlocal problem involving the generalized anisotropic p(⋅)-Laplace operator, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 43(2) <strong>(2016)</strong>, 259–272.
+      <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/808/562" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Solutions to a system of –Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.</li>
     <li>Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.</li>
     <li>Positive periodic solutions of nonlinear differential equations system with nonstandard growth (with R. Ayazoglu), <em>Applied Mathematics Letters</em> 43 <strong>(2015)</strong>, 5–9.</li>
@@ -221,6 +224,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
