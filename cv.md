@@ -196,7 +196,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Ni–Serrin type equations arising from capillarity phenomena with non-standard growth, <em>Boundary Value Problems</em> <strong>(2013)</strong>, Article 55, 1–18.
       <a href="https://boundaryvalueproblems.springeropen.com/articles/10.1186/1687-2770-2013-55" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence and multiplicity of solutions for Dirichlet problems involving the –Laplacian, <em>Electronic Journal of Differential Equations</em> 14 <strong>(2013)</strong>, 1–99.</li>
+    <li>
+      Existence and multiplicity of solutions for Dirichlet problems involving the p(x)–Laplacian, <em>Electronic Journal of Differential Equations</em> 14 <strong>(2013)</strong>, 1–99.
+      <a href="https://ejde.math.txstate.edu/" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.</li>
     <li>Solutions of a nonlocal elliptic problem involving –Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.</li>
     <li>Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.</li>
@@ -545,4 +548,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `001c269` on 2025-09-13 03:01 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `fda961a` on 2025-09-13 03:02 UTC_
