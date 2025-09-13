@@ -131,7 +131,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence results to a nonlinear p(k)–Laplacian difference equation (with M. K. Moghadam), <em>Journal of Difference Equations and Applications</em> 23(10) <strong>(2017)</strong>, 1652–1669.
       <a href="https://www.tandfonline.com/doi/abs/10.1080/10236198.2017.1354991" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>On a nonlocal Neumann problem in Orlicz–Sobolev spaces, <em>Journal of Nonlinear Functional Analysis</em> 2017 <strong>(2017)</strong>, Article ID 42, 1–11.</li>
+    <li>
+      On a nonlocal Neumann problem in Orlicz–Sobolev spaces, <em>Journal of Nonlinear Functional Analysis</em> 2017 <strong>(2017)</strong>, Article ID 42, 1–11.
+      <a href="https://jnfa.mathres.org/archives/1430" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence results for anisotropic discrete boundary value problems, <em>Electronic Journal of Differential Equations</em> 148 <strong>(2016)</strong>, 1–11.</li>
     <li>On a nonlocal problem involving the generalized anisotropic p(⋅)-Laplace operator, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 43(2) <strong>(2016)</strong>, 259–272.</li>
     <li>Solutions to a system of –Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.</li>
@@ -215,6 +218,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
