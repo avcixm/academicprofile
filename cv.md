@@ -135,8 +135,14 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       On a Robin problem in Orlicz–Sobolev spaces (with K. Suslu), <em>TWMS Journal of Applied and Engineering Mathematics</em> 9(2) <strong>(2019)</strong>, 246–256.
       <a href="https://jaem.isikun.edu.tr/web/index.php/archive/423-jaem-vol9-no2" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Solutions to p(x)–Laplace type equations via nonvariational techniques, <em>Opuscula Mathematica</em> 38(3) <strong>(2018)</strong>, 291–305.</li>
-    <li>Multivalued elliptic operators with nonstandard growth (with A. Pankov), <em>Advances in Nonlinear Analysis</em> 7(1) <strong>(2018)</strong>, 35–48.</li>
+    <li>
+      Solutions to p(x)–Laplace type equations via nonvariational techniques, <em>Opuscula Mathematica</em> 38(3) <strong>(2018)</strong>, 291–305.
+      <a href="https://www.opuscula.agh.edu.pl/om-vol38iss3art1" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>
+      Multivalued elliptic operators with nonstandard growth (with A. Pankov), <em>Advances in Nonlinear Analysis</em> 7(1) <strong>(2018)</strong>, 35–48.
+      <a href="https://www.degruyterbrill.com/document/doi/10.1515/anona-2016-0043/html?lang=en&srsltid=AfmBOoqFpUD5tAIVWUJhwDk6qhuc2pcVB1nGGAqDn68jVf9jlqLm3XyP" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence results to a nonlinear –Laplacian difference equation (with M. K. Moghadam), <em>Journal of Difference Equations and Applications</em> 23(10) <strong>(2017)</strong>, 1652–1669.</li>
     <li>On a nonlocal Neumann problem in Orlicz–Sobolev spaces, <em>Journal of Nonlinear Functional Analysis</em> 2017 <strong>(2017)</strong>, Article ID 42, 1–11.</li>
     <li>Existence results for anisotropic discrete boundary value problems, <em>Electronic Journal of Differential Equations</em> 148 <strong>(2016)</strong>, 1–11.</li>
@@ -500,4 +506,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `ab31f57` on 2025-09-13 02:31 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `86a5ca9` on 2025-09-13 02:34 UTC_
