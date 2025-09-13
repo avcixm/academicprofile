@@ -144,9 +144,12 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/808/562" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Solutions to a system of p(x)–Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.</li>
-    <li>Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.
-      <a href="https://www.nonlinearstudies.com/index.php/nonlinear/article/view/1416" target="_blank" rel="noopener">Website</a>
+      Solutions to a system of p(x)–Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.
+       <a href="https://www.nonlinearstudies.com/index.php/nonlinear/article/view/1416" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>
+      Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.
+      <a href="https://ejmaa.journals.ekb.eg/article_310813.html" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Positive periodic solutions of nonlinear differential equations system with nonstandard growth (with R. Ayazoglu), <em>Applied Mathematics Letters</em> 43 <strong>(2015)</strong>, 5–9.</li>
     <li>Nontrivial solutions of discrete nonlinear equations with variable exponent (with A. Pankov), <em>Journal of Mathematical Analysis and Applications</em> 431 <strong>(2015)</strong>, 22–33.</li>
@@ -227,6 +230,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
