@@ -97,7 +97,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       A Class of nonlocal elliptic equations in Orlicz–Sobolev spaces (with B. Suer, V. Turut), <em>Journal of Abstract and Computational Mathematics</em> 6(2) <strong>(2021)</strong>, 16–29.
     <a href="https://www.ntmsci.com/jacm/ContentDetails?Volume=6&IssueNumber=2" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>On a nonlocal problem with indefinite weights in Orlicz–Sobolev space (with N. T. Chung), <em>Communications of the Korean Mathematical Society</em> 35(2) <strong>(2020)</strong>, 517–532.</li>
+    <li>
+      On a nonlocal problem with indefinite weights in Orlicz–Sobolev space (with N. T. Chung), <em>Communications of the Korean Mathematical Society</em> 35(2) <strong>(2020)</strong>, 517–532.
+      <a href="https://ckms.kms.or.kr/journal/view.html?volume=35&number=2&spage=517" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>A variational approach to the existence of infinitely many solutions for difference equations (with M. K. Moghadam, S. Tersian), <em>Journal of New Research in Mathematics</em> 5(22) <strong>(2020)</strong>, 99–110.</li>
     <li>A topological result for a class of anisotropic difference equations, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 46(2) <strong>(2019)</strong>, 328–343.</li>
     <li>On some classes of nonlocal problems in Musielak–Sobolev spaces, <em>Southeast Asian Bulletin of Mathematics</em> 43 <strong>(2019)</strong>, 791–814.</li>
@@ -191,6 +194,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
