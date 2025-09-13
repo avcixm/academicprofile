@@ -172,7 +172,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://sjm.anubih.ba/index.php/sjm/issue/view/20" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Existence and uniqueness of solutions of a nonlocal problem involving the –Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.</li>
-    <li>Existence results for a nonlocal problem involving the p-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.</li>
+    <li>
+      Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.
+      <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/550" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Ni–Serrin type equations arising from capillarity phenomena with non-standard growth, <em>Boundary Value Problems</em> <strong>(2013)</strong>, Article 55, 1–18.</li>
     <li>Existence and multiplicity of solutions for Dirichlet problems involving the –Laplacian, <em>Electronic Journal of Differential Equations</em> 14 <strong>(2013)</strong>, 1–99.</li>
     <li>Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.</li>
@@ -245,6 +248,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
