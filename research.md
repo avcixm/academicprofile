@@ -70,7 +70,8 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       On a p(x)-Kirchhoff problem with variable singular and sublinear exponents, <em>Taiwanese Journal of Mathematics</em> 29(2) <strong>(2025)</strong>, 379–402.
-      <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank" rel="noopener">Website</a>
+      <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank"  
+        rel="noopener">Website</a>
     </li>
     <li>
       On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>(2024)</strong>.
@@ -80,7 +81,9 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       On an anisotropic p(·)-Laplace equation with variable singular and sublinear nonlinearities, <em>Communications in Analysis and Mechanics</em> 16(3) <strong>(2024)</strong>, 554–577.
       <a href="https://www.aimspress.com/article/doi/10.3934/cam.2024026" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.</li>
+    <li>Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.
+    <a href=" https://www.emis.de/journals/AMEN/" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.</li>
     <li>Critical points approaches to a nonlocal elliptic problem driven by p(x)–biharmonic operator (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) <strong>(2021)</strong>, 55–69.</li>
     <li>A Class of nonlocal elliptic equations in Orlicz–Sobolev spaces (with B. Suer, V. Turut), <em>Journal of Abstract and Computational Mathematics</em> 6(2) <strong>(2021)</strong>, 16–29.</li>
@@ -178,6 +181,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
