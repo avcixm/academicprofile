@@ -35,6 +35,6 @@ permalink: /professional_development/
 ## <small>Tech (Research & Education) Skills</small>
 - Teaching in a variety of formats, including face-to-face, online, and hybrid/blended classrooms.
 - Instructing/Teaching/ Conducting seminars and labs remotely (synchronously and asynchronously).
-- Working with educational technologies, including the Learning Management Systems (LMS), such as Mobius, Blackboard, Canvas, Moodle, Google Classroom and Brightspace by D2L.
+- Working with educational technologies and Learning Management Systems (LMS): Mobius, Blackboard, Canvas, Moodle, Google Classroom, Brightspace.
 - Competent at: Python, MATLAB, SPSS.
 <!-- CV:END PD -->
