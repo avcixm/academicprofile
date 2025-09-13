@@ -13,27 +13,27 @@ permalink: /courses/
 
 <!-- CV:START TEACHING -->
 ## <small>AU Teaching and Course Coordination</small>
-- MATH 260 Calculus for Social Sciences and Economics (2022 — p) (Supervising 1 tutor, 1 marker)
-- MATH 366 Complex Variables I (2022 — p) (Supervising 1 tutor)
-- MATH 370 Applied Real Analysis (2022 — p) (Supervising 1 tutor)
+- MATH 260 Calculus for Social Sciences and Economics (2022 — present) (Supervising 1 tutor, 1 marker)
+- MATH 366 Complex Variables I (2022 — present) (Supervising 1 tutor)
+- MATH 370 Applied Real Analysis (2022 — present) (Supervising 1 tutor)
 - MATH 376 Ordinary Differential Equations (2025 — p) (Supervising 2 tutors)
-- MATH 492 Special Study I (2022 — p)
-- MATH 493 Special Study II (2022 — p)
-- MATH 495 Mathematics Projects I (2022 — p)
-- MATH 496 Mathematics Projects II (2022 — p)
+- MATH 492 Special Study I (2022 — present)
+- MATH 493 Special Study II (2022 — present)
+- MATH 495 Mathematics Projects I (2022 — present)
+- MATH 496 Mathematics Projects II (2022 — present)
 - MATH 216 Computer-Oriented Approach to Statistics (2022 — 2025) (Supervised 3 tutors)
 
 ## <small>AU Tutoring</small>
-- MATH 376 Ordinary Differential Equations (2025 — p)
+- MATH 376 Ordinary Differential Equations (2025 — present)
 - MATH 216 Computer-Oriented Approach to Statistics (2022—2025)
 - MATH 365 Multivariable Calculus (2021—2022)
 - MGSC 301 Statistics for Business and Economics I (2020 — 2022)
 - MGSC 312 Statistics for Business and Economics II (2020 — 202)
 
 ## <small>AU Course Design and Revisions</small>
-- MATH 415 Introduction to Measure and Integration (In Development, 2025 — p)
-- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — p)
-- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — p)
+- MATH 415 Introduction to Measure and Integration (In Development, 2025 — present)
+- MATH 426 Introduction to Stochastic Processes (In Development, 2025 — present)
+- MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — present)
 - MATH 325 Linear Programming — Development (In Production) (2024)
 - MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
 - MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
