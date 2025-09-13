@@ -35,8 +35,8 @@ permalink: /courses/
 - MATH 426 Introduction to Stochastic Processes (In Development, 2025 — present)
 - MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — present)
 - MATH 325 Linear Programming — Development (In Production) (2024)
-- MATH 216 Computer-Oriented Approach to Statistics — Major Revision (2024)
-- MATH 260 Calculus for Social Sciences and Economics — Minor Revision (2024)
+- MATH 216 Computer-Oriented Approach to Statistics — Revision (2024)
+- MATH 260 Calculus for Social Sciences and Economics — Revision (2024)
 
 ## <small>University of Saskatchewan Courses</small>
 - COMM 121 Business Mathematics (2021/6 — 2022/7)
