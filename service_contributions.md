@@ -13,7 +13,7 @@ permalink: /service_contributions/
 
 <!-- CV:START SERVICE -->
 ## <small>AU Standing Committee Memberships</small>
-- FST Faculty Council - (2022 - )
+- FST Faculty Council - (2022 - present)
 - FST Undergraduate Program Council - (2025 - 2028)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
 - Academic Research Fund Committee (ARF) - (2024 - 2027)
@@ -23,11 +23,11 @@ permalink: /service_contributions/
 
 ## <small>AU Ad Hoc Committee/Group Memberships</small> 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
-- Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - )
-- FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - )
+- Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
+- FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - present)
 - ARC CFI-JELF Expression of Interest Review Subcommittee (2025)
-- Applied Math Program Advisory Committee - (2025 - )
-- Mobius Ladership Group - (2024 - )
+- Applied Math Program Advisory Committee - (2025 - present)
+- Mobius Ladership Group - (2024 - present)
 - Hiring Committee service-Assistant Professor - Applied Math.
 - Hiring Committee service-Tutor - MATH 216
 - Hiring Committee service-Tutor - MATH 266
