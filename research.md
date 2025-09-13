@@ -167,7 +167,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence of solutions for fourth-order elliptic equations of Kirchhoff type (with F. Wang, Y. An), <em>Journal of Mathematical Analysis and Applications</em> 409(1) <strong>(2014)</strong>, 140–146.
       <a href="https://www.sciencedirect.com/science/article/pii/S0022247X1300632X" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence of three solutions for a quasilinear elliptic equation involving the –Laplacian (with R. Mashiyev), <em>Sarajevo Journal of Mathematics</em> 10(23) <strong>(2014)</strong>, 1–13.</li>
+    <li>
+      Existence of three solutions for a quasilinear elliptic equation involving the p(x)–Laplacian (with R. Mashiyev), <em>Sarajevo Journal of Mathematics</em> 10(23) <strong>(2014)</strong>, 1–13.
+      <a href="https://sjm.anubih.ba/index.php/sjm/issue/view/20" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence and uniqueness of solutions of a nonlocal problem involving the –Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.</li>
     <li>Existence results for a nonlocal problem involving the p-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.</li>
     <li>Ni–Serrin type equations arising from capillarity phenomena with non-standard growth, <em>Boundary Value Problems</em> <strong>(2013)</strong>, Article 55, 1–18.</li>
@@ -242,6 +245,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
