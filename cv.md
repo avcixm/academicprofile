@@ -123,8 +123,14 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/1060/697" target="_blank" rel="noopener">Website</a>
     </li>
     <li>On some classes of nonlocal problems in Musielak–Sobolev spaces, <em>Southeast Asian Bulletin of Mathematics</em> 43 <strong>(2019)</strong>, 791–814.</li>
-    <li>Positive ground state solutions to a nonlocal singular elliptic problem, <em>Canadian Journal of Applied Mathematics</em> 1(1) <strong>(2019)</strong>, 1–14.</li>
-    <li>On a nonlocal problem involving a nonstandard nonhomogeneous differential operator (with B. Suer), <em>Journal of Elliptic and Parabolic Equations</em> 5(1) <strong>(2019)</strong>, 47–67.</li>
+    <li>
+      Positive ground state solutions to a nonlocal singular elliptic problem, <em>Canadian Journal of Applied Mathematics</em> 1(1) <strong>(2019)</strong>, 1–14.
+      <a href="https://arxiv.org/abs/2402.01128" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>
+      On a nonlocal problem involving a nonstandard nonhomogeneous differential operator (with B. Suer), <em>Journal of Elliptic and Parabolic Equations</em> 5(1) <strong>(2019)</strong>, 47–67.
+      <a href="https://link.springer.com/article/10.1007/s41808-018-0032-3" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>On a Robin problem in Orlicz–Sobolev spaces (with K. Suslu), <em>TWMS Journal of Applied and Engineering Mathematics</em> 9(2) <strong>(2019)</strong>, 246–256.</li>
     <li>Solutions to p(x)–Laplace type equations via nonvariational techniques, <em>Opuscula Mathematica</em> 38(3) <strong>(2018)</strong>, 291–305.</li>
     <li>Multivalued elliptic operators with nonstandard growth (with A. Pankov), <em>Advances in Nonlinear Analysis</em> 7(1) <strong>(2018)</strong>, 35–48.</li>
@@ -491,4 +497,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `aa18a01` on 2025-09-13 02:19 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `baafe57` on 2025-09-13 02:28 UTC_
