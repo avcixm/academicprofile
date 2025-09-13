@@ -159,8 +159,11 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       On a nonlocal problem involving the generalized anisotropic p(⋅)-Laplace operator, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 43(2) <strong>(2016)</strong>, 259–272.
       <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/808/562" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Solutions to a system of –Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.</li>
-    <li>Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.</li>
+    <li>
+      Solutions to a system of p(x)–Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.</li>
+    <li>Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.
+      https://www.nonlinearstudies.com/index.php/nonlinear/article/view/1416
+    </li>
     <li>Positive periodic solutions of nonlinear differential equations system with nonstandard growth (with R. Ayazoglu), <em>Applied Mathematics Letters</em> 43 <strong>(2015)</strong>, 5–9.</li>
     <li>Nontrivial solutions of discrete nonlinear equations with variable exponent (with A. Pankov), <em>Journal of Mathematical Analysis and Applications</em> 431 <strong>(2015)</strong>, 22–33.</li>
     <li>Nontrivial weak solutions of a quasilinear equation involving p-Laplace operator, <em>British Journal of Mathematics &amp; Computer Science</em> 6(2) <strong>(2015)</strong>, 112–118.</li>
@@ -518,4 +521,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `8de187a` on 2025-09-13 02:41 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `d9e8591` on 2025-09-13 02:46 UTC_
