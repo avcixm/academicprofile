@@ -193,7 +193,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Existence and uniqueness of solutions of a nonlocal problem involving the p(x)–Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.
-      <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/550"_blank" rel="noopener">Website</a>
+      <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/550" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.
@@ -209,55 +209,55 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.
-      <a href="https://www.ijpam.eu/contents/2013-86-1/10/index.html" rel="noopener">Website</a>
+      <a href="https://www.ijpam.eu/contents/2013-86-1/10/index.html" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Solutions of a nonlocal elliptic problem involving p(x)–Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.
-      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html" rel="noopener">Website</a>
+      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.
-      <a href="https://www.ijpam.eu/en/index.php/ijdea/article/view/ijdea.v12i2.968" rel="noopener">Website</a>
+      <a href="https://www.ijpam.eu/en/index.php/ijdea/article/view/ijdea.v12i2.968" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Pure and Applied Mathematics Journal</em> 2(1) <strong>(2013)</strong>, 20–27.
-      <a href="https://www.hrpub.org/journals/article_info.php?aid=1432"_blank" rel="noopener">Website</a>
+      <a href="https://www.hrpub.org/journals/article_info.php?aid=1432" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Solutions of nonlocal (p₁(x), p₂(x))-Laplacian equations (with R. Mashiyev), <em>International Journal of Partial Differential Equations</em>, Vol. 2013, Article ID 364251, 7 pages.
-      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html"_blank" rel="noopener">Website</a>
+      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence of weak solutions for a nonlocal problem involving the p(x)–Laplace operator, <em>Universal Journal of Applied Mathematics</em> 1(3) <strong>(2013)</strong>, 192–197.
-      <a href="https://www.hrpub.org/journals/article_info.php?aid=724"_blank" rel="noopener">Website</a>
+      <a href="https://www.hrpub.org/journals/article_info.php?aid=724" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Solutions of an anisotropic nonlocal problem involving variable exponent (with R. Mashiyev, B. Cekic), <em>Advances in Nonlinear Analysis</em> 2(3) <strong>(2013)</strong>, 325–338.
-      <a href="https://www.degruyterbrill.com/document/doi/10.1515/anona-2013-0010/html?lang=en&srsltid=AfmBOopcD7-y_lVIz6M_wOSMdcoDZ3kCZzx78-H71XdcGtwwiuLeby63"_blank" rel="noopener">Website</a>
+      <a href="https://www.degruyterbrill.com/document/doi/10.1515/anona-2013-0010/html?lang=en&srsltid=AfmBOopcD7-y_lVIz6M_wOSMdcoDZ3kCZzx78-H71XdcGtwwiuLeby63" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       On an elliptic system of p(x)–Kirchhoff-type under Neumann boundary condition (with Z. Yucedag, R. Mashiyev), <em>Mathematical Modelling and Analysis</em> 17(2) <strong>(2012)</strong>, 161–170.
-      <a href="https://www.tandfonline.com/doi/abs/10.3846/13926292.2012.655788"_blank" rel="noopener">Website</a>
+      <a href="https://www.tandfonline.com/doi/abs/10.3846/13926292.2012.655788" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       L^p(x)(\Omega)-estimates of vector fields and applications to magnetostatics problems (with B. Cekic, A. V. Kalinin, R. Mashiyev), <em>Journal of Mathematical Analysis and Applications</em> 389(2) <strong>(2012)</strong>, 838–851.
-      <a href="https://www.sciencedirect.com/science/article/pii/S0022247X11011449"_blank" rel="noopener">Website</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0022247X11011449" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence and multiplicity of weak solutions for nonuniformly elliptic equations with nonstandard growth (with R. Mashiyev, B. Cekic, Z. Yucedag), <em>Complex Variables and Elliptic Equations</em> 57(5) <strong>(2012)</strong>, 579–595.
-      <a href="https://www.tandfonline.com/doi/abs/10.1080/17476933.2011.598928"_blank" rel="noopener">Website</a>
+      <a href="https://www.tandfonline.com/doi/abs/10.1080/17476933.2011.598928" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence and multiplicity of solutions of the p(x)-Kirchhoff type equation via genus theory (with B. Cekic, R. Mashiyev), <em>Mathematical Methods in the Applied Sciences</em> 34(14) <strong>(2011)</strong>, 1751–1759.
-      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.1485"_blank" rel="noopener">Website</a>
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.1485" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.
-      <a href="https://jkms.kms.or.kr/journal/view.html?uid=165"_blank" rel="noopener">Website</a>
+      <a href="https://jkms.kms.or.kr/journal/view.html?uid=165" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p(x), q(x))-Laplacian (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 <strong>(2008)</strong>.
-      <a href="https://journalofinequalitiesandapplications.springeropen.com/articles/10.1155/2008/612938" rel="noopener">Website</a>
+      <a href="https://journalofinequalitiesandapplications.springeropen.com/articles/10.1155/2008/612938" target="_blank" rel="noopener">Website</a>
     </li>
   </ol>
 
@@ -594,4 +594,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `4170133` on 2025-09-14 02:11 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `a78e63b` on 2025-09-14 02:18 UTC_
