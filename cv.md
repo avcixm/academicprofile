@@ -252,7 +252,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.
       <a href="https://jkms.kms.or.kr/journal/view.html?uid=165"_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p, q)-Laplacian (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 <strong>(2008)</strong>.</li>
+    <li>
+      Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p(x), q(x))-Laplacian (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 <strong>(2008)</strong>.
+      <a href="https://journalofinequalitiesandapplications.springeropen.com/articles/10.1155/2008/612938" rel="noopener">Website</a>
+    </li>
   </ol>
 
 
@@ -588,4 +591,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `386b425` on 2025-09-14 02:07 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `26d0a22` on 2025-09-14 02:09 UTC_
