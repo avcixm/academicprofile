@@ -189,7 +189,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Existence of three solutions for a quasilinear elliptic equation involving the p(x)–Laplacian (with R. Mashiyev), <em>Sarajevo Journal of Mathematics</em> 10(23) <strong>(2014)</strong>, 1–13.
-      <a href="https://sjm.anubih.ba/index.php/sjm/issue/view/20" target="_blank" rel="noopener">Website</a>
+       <a href="https://sjm.anubih.ba/index.php/sjm/article/view/220" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence and uniqueness of solutions of a nonlocal problem involving the p(x)–Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.
@@ -594,4 +594,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `a78e63b` on 2025-09-14 02:18 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `cea4897` on 2025-09-14 02:31 UTC_
