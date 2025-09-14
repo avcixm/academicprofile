@@ -227,7 +227,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence and multiplicity of weak solutions for nonuniformly elliptic equations with nonstandard growth (with R. Mashiyev, B. Cekic, Z. Yucedag), <em>Complex Variables and Elliptic Equations</em> 57(5) <strong>(2012)</strong>, 579–595.
       <a href="https://www.tandfonline.com/doi/abs/10.1080/17476933.2011.598928"_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence and multiplicity of solutions of the p(x)-Kirchhoff type equation via genus theory (with B. Cekic, R. Mashiyev), <em>Mathematical Methods in the Applied Sciences</em> 34(14) <strong>(2011)</strong>, 1751–1759.</li>
+    <li>
+      Existence and multiplicity of solutions of the p(x)-Kirchhoff type equation via genus theory (with B. Cekic, R. Mashiyev), <em>Mathematical Methods in the Applied Sciences</em> 34(14) <strong>(2011)</strong>, 1751–1759.
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.1485"_blank" rel="noopener">Website</a>
+    </li>
     <li>The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.</li>
     <li>Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p, q)-Laplacian (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 <strong>(2008)</strong>.</li>
   </ol>
@@ -287,6 +290,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
