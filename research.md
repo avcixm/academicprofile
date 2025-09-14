@@ -193,7 +193,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Solutions of a nonlocal elliptic problem involving p(x)–Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.
-      
+      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html" rel="noopener">Website</a>
     </li>
     <li>Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.</li>
     <li>
@@ -272,6 +272,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
