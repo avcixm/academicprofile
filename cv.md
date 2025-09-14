@@ -211,7 +211,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Pure and Applied Mathematics Journal</em> 2(1) <strong>(2013)</strong>, 20–27.
       <a href="https://www.hrpub.org/journals/article_info.php?aid=1432"_blank" rel="noopener">Website</a>
     </li>
-    <li>Solutions of nonlocal (p₁(x), p₂(x))-Laplacian equations (with R. Mashiyev), <em>International Journal of Partial Differential Equations</em>, Vol. 2013, Article ID 364251, 7 pages.</li>
+    <li>
+      Solutions of nonlocal (p₁(x), p₂(x))-Laplacian equations (with R. Mashiyev), <em>International Journal of Partial Differential Equations</em>, Vol. 2013, Article ID 364251, 7 pages.
+      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html"_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence of weak solutions for a nonlocal problem involving the –Laplace operator, <em>Universal Journal of Applied Mathematics</em> 1(3) <strong>(2013)</strong>, 192–197.</li>
     <li>Solutions of an anisotropic nonlocal problem involving variable exponent (with R. Mashiyev, B. Cekic), <em>Advances in Nonlinear Analysis</em> 2(3) <strong>(2013)</strong>, 325–338.</li>
     <li>On an elliptic system of p(x)–Kirchhoff-type under Neumann boundary condition (with Z. Yucedag, R. Mashiyev), <em>Mathematical Modelling and Analysis</em> 17(2) <strong>(2012)</strong>, 161–170.</li>
@@ -555,4 +558,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `0467cdb` on 2025-09-14 01:24 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `0742e07` on 2025-09-14 01:30 UTC_
