@@ -172,7 +172,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://sjm.anubih.ba/index.php/sjm/issue/view/20" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Existence and uniqueness of solutions of a nonlocal problem involving the p–Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.
+      Existence and uniqueness of solutions of a nonlocal problem involving the p(x)–Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.
       <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/550"_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -189,9 +189,12 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.
-      <a href="https://www.ijpam.eu/contents/2013-86-1/10/index.html"_blank" rel="noopener">Website</a>
+      <a href="https://www.ijpam.eu/"_blank" rel="noopener">Website</a>
     </li>
-    <li>Solutions of a nonlocal elliptic problem involving p(x)–Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.</li>
+    <li>
+      Solutions of a nonlocal elliptic problem involving p(x)–Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.
+      
+    </li>
     <li>Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.</li>
     <li>
       Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Pure and Applied Mathematics Journal</em> 2(1) <strong>(2013)</strong>, 20–27.
@@ -269,6 +272,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
