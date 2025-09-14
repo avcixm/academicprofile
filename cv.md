@@ -212,7 +212,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Solutions of a nonlocal elliptic problem involving p(x)–Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.
       <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html" rel="noopener">Website</a>
     </li>
-    <li>Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.</li>
+    <li>
+      Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.
+      <a href="https://www.ijpam.eu/en/index.php/ijdea/article/view/ijdea.v12i2.968" rel="noopener">Website</a>
+    </li>
     <li>
       Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Pure and Applied Mathematics Journal</em> 2(1) <strong>(2013)</strong>, 20–27.
       <a href="https://www.hrpub.org/journals/article_info.php?aid=1432"_blank" rel="noopener">Website</a>
@@ -567,4 +570,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `e9d3dc7` on 2025-09-14 01:53 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `337fc65` on 2025-09-14 01:55 UTC_
