@@ -219,7 +219,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       On an elliptic system of p(x)–Kirchhoff-type under Neumann boundary condition (with Z. Yucedag, R. Mashiyev), <em>Mathematical Modelling and Analysis</em> 17(2) <strong>(2012)</strong>, 161–170.
       <a href="https://www.tandfonline.com/doi/abs/10.3846/13926292.2012.655788"_blank" rel="noopener">Website</a>
     </li>
-    <li>p-estimates of vector fields and applications to magnetostatics problems (with B. Cekic, A. V. Kalinin, R. Mashiyev), <em>Journal of Mathematical Analysis and Applications</em> 389(2) <strong>(2012)</strong>, 838–851.</li>
+    <li>
+      L^p(x)(\Omega)-estimates of vector fields and applications to magnetostatics problems (with B. Cekic, A. V. Kalinin, R. Mashiyev), <em>Journal of Mathematical Analysis and Applications</em> 389(2) <strong>(2012)</strong>, 838–851.
+      <a href="https://www.sciencedirect.com/science/article/pii/S0022247X11011449"_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence and multiplicity of weak solutions for nonuniformly elliptic equations with nonstandard growth (with R. Mashiyev, B. Cekic, Z. Yucedag), <em>Complex Variables and Elliptic Equations</em> 57(5) <strong>(2012)</strong>, 579–595.</li>
     <li>Existence and multiplicity of solutions of the p(x)-Kirchhoff type equation via genus theory (with B. Cekic, R. Mashiyev), <em>Mathematical Methods in the Applied Sciences</em> 34(14) <strong>(2011)</strong>, 1751–1759.</li>
     <li>The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.</li>
@@ -281,6 +284,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
