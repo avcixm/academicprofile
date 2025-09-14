@@ -189,7 +189,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.
-      <a href="https://www.ijpam.eu/"_blank" rel="noopener">Website</a>
+      <a href="https://www.ijpam.eu/contents/2013-86-1/10/index.html" rel="noopener">Website</a>
     </li>
     <li>
       Solutions of a nonlocal elliptic problem involving p(x)–Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.
@@ -272,6 +272,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
