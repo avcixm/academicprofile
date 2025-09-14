@@ -248,7 +248,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence and multiplicity of solutions of the p(x)-Kirchhoff type equation via genus theory (with B. Cekic, R. Mashiyev), <em>Mathematical Methods in the Applied Sciences</em> 34(14) <strong>(2011)</strong>, 1751–1759.
       <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.1485"_blank" rel="noopener">Website</a>
     </li>
-    <li>The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.</li>
+    <li>
+      The Nehari manifold approach for a Dirichlet problem involving the p(x)–Laplacian (with R. Mashiyev, S. Ogras, Z. Yucedag), <em>Journal of the Korean Mathematical Society</em> 47(4) <strong>(2010)</strong>, 845–860.
+      <a href="https://jkms.kms.or.kr/journal/view.html?uid=165"_blank" rel="noopener">Website</a>
+    </li>
     <li>Existence of solutions for a class of elliptic systems in ℝ<sup>N</sup> involving the (p, q)-Laplacian (with S. Ogras, R. Mashiyev, Z. Yucedag), <em>Journal of Inequalities and Applications</em>, Article 612938 <strong>(2008)</strong>.</li>
   </ol>
 
@@ -585,4 +588,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `4541fc9` on 2025-09-14 02:06 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `386b425` on 2025-09-14 02:07 UTC_
