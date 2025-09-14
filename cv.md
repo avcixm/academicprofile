@@ -201,10 +201,16 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence and multiplicity of solutions for Dirichlet problems involving the p(x)–Laplacian, <em>Electronic Journal of Differential Equations</em> 14 <strong>(2013)</strong>, 1–9.
       <a href="https://ejde.math.txstate.edu/" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.</li>
+    <li>
+      Existence of solutions for an elliptic equation with nonstandard growth (with R. Mashiyev, B. Cekic), <em>International Journal of Pure and Applied Mathematics</em> 86(1) <strong>(2013)</strong>, 131–139.
+      <a href="https://www.ijpam.eu/contents/2013-86-1/10/index.html"_blank" rel="noopener">Website</a>
+    </li>
     <li>Solutions of a nonlocal elliptic problem involving –Kirchhoff-type equation, <em>Applied Mathematics</em> 3(2) <strong>(2013)</strong>, 56–60.</li>
     <li>Existence and uniqueness of solutions for a quasilinear elliptic equation involving p-Laplacian (with R. Mashiyev), <em>International Journal of Differential Equations and Applications</em> 12(2) <strong>(2013)</strong>, 95–102.</li>
-    <li>Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Pure and Applied Mathematics Journal</em> 2(1) <strong>(2013)</strong>, 20–27.</li>
+    <li>
+      Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Pure and Applied Mathematics Journal</em> 2(1) <strong>(2013)</strong>, 20–27.
+      
+    </li>
     <li>Solutions of nonlocal (p₁(x), p₂(x))-Laplacian equations (with R. Mashiyev), <em>International Journal of Partial Differential Equations</em>, Vol. 2013, Article ID 364251, 7 pages.</li>
     <li>Existence of weak solutions for a nonlocal problem involving the –Laplace operator, <em>Universal Journal of Applied Mathematics</em> 1(3) <strong>(2013)</strong>, 192–197.</li>
     <li>Solutions of an anisotropic nonlocal problem involving variable exponent (with R. Mashiyev, B. Cekic), <em>Advances in Nonlinear Analysis</em> 2(3) <strong>(2013)</strong>, 325–338.</li>
@@ -549,4 +555,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `4a18cd9` on 2025-09-13 15:26 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `a28535f` on 2025-09-14 01:22 UTC_
