@@ -211,7 +211,10 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       Existence of weak solutions for a nonlocal problem involving the p(x)–Laplace operator, <em>Universal Journal of Applied Mathematics</em> 1(3) <strong>(2013)</strong>, 192–197.
       <a href="https://www.hrpub.org/journals/article_info.php?aid=724"_blank" rel="noopener">Website</a>
     </li>
-    <li>Solutions of an anisotropic nonlocal problem involving variable exponent (with R. Mashiyev, B. Cekic), <em>Advances in Nonlinear Analysis</em> 2(3) <strong>(2013)</strong>, 325–338.</li>
+    <li>
+      Solutions of an anisotropic nonlocal problem involving variable exponent (with R. Mashiyev, B. Cekic), <em>Advances in Nonlinear Analysis</em> 2(3) <strong>(2013)</strong>, 325–338.
+      <a href="https://www.degruyterbrill.com/document/doi/10.1515/anona-2013-0010/html?lang=en&srsltid=AfmBOopcD7-y_lVIz6M_wOSMdcoDZ3kCZzx78-H71XdcGtwwiuLeby63" rel="noopener">Website</a>
+    </li>
     <li>On an elliptic system of p(x)–Kirchhoff-type under Neumann boundary condition (with Z. Yucedag, R. Mashiyev), <em>Mathematical Modelling and Analysis</em> 17(2) <strong>(2012)</strong>, 161–170.</li>
     <li>p-estimates of vector fields and applications to magnetostatics problems (with B. Cekic, A. V. Kalinin, R. Mashiyev), <em>Journal of Mathematical Analysis and Applications</em> 389(2) <strong>(2012)</strong>, 838–851.</li>
     <li>Existence and multiplicity of weak solutions for nonuniformly elliptic equations with nonstandard growth (with R. Mashiyev, B. Cekic, Z. Yucedag), <em>Complex Variables and Elliptic Equations</em> 57(5) <strong>(2012)</strong>, 579–595.</li>
@@ -275,6 +278,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
