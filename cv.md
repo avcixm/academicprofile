@@ -31,9 +31,9 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Research
 ## Research Interests
-- Analysis of variable exponent PDEs (Deterministic & Stochastic)
-- Variable Lebesgue spaces
-- Stochastic processes
+- Analysis of Variable Exponent PDEs (Deterministic & Stochastic)
+- Variable Lebesgue Spaces
+- Stochastic Analysis
 
 ## Research Specialization Keywords
 Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
@@ -594,4 +594,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `cea4897` on 2025-09-14 02:31 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `86de5a1` on 2025-09-19 18:48 UTC_
