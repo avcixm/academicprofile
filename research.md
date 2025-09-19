@@ -17,9 +17,9 @@ sidebar:
 <!-- CV:START RESEARCH -->
 
 ## <small>Research Interests</small>
-- Analysis of variable exponent PDEs (Deterministic & Stochastic)
-- Variable Lebesgue spaces
-- Stochastic processes
+- Analysis of Variable Exponent PDEs (Deterministic & Stochastic)
+- Variable Lebesgue Spaces
+- Stochastic Analysis
 
 ## <small>Research Specialization Keywords</small>
 Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
@@ -299,6 +299,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
