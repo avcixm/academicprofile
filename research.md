@@ -57,7 +57,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
   <ol>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
-      <a href="https://www.jneea.com/accepted" rel="noopener">Website</a>
+      <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Three Solutions for a double-phase variable-exponent Kirchhoff problem, <em>Mathematics</em> 13(15) <strong>(2025)</strong>, 2462.
@@ -299,6 +299,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
