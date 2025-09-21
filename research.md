@@ -179,8 +179,8 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/550" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Existence results for a nonlocal problem involving the p(x)-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.
-      <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/550" target="_blank" rel="noopener">Website</a>
+      Existence results for a nonlocal problem involving the p-Laplacian, <em>Universal Journal of Applied Mathematics</em> 2(3) <strong>(2014)</strong>, 153–159.
+      <a href="https://www.hrpub.org/journals/article_info.php?aid=1432" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Ni–Serrin type equations arising from capillarity phenomena with non-standard growth, <em>Boundary Value Problems</em> <strong>(2013)</strong>, Article 55, 1–18.
@@ -299,6 +299,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
