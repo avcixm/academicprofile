@@ -208,7 +208,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
     </li>
     <li>
       Solutions of nonlocal (p₁(x), p₂(x))-Laplacian equations (with R. Mashiyev), <em>International Journal of Partial Differential Equations</em>, Vol. 2013, Article ID 364251, 7 pages.
-      <a href="http://article.sapub.org/10.5923.j.am.20130302.04.html" target="_blank" rel="noopener">Website</a>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1155/2013/364251" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence of weak solutions for a nonlocal problem involving the p(x)–Laplace operator, <em>Universal Journal of Applied Mathematics</em> 1(3) <strong>(2013)</strong>, 192–197.
@@ -299,6 +299,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
