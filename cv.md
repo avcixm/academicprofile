@@ -451,11 +451,11 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 ## Service & Contributions
 ## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - present)
-- FST Undergraduate Program Council - (2025 - 2028)
-- Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
-- Academic Research Fund Committee (ARF) - (2024 - 2027)
-- GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - 2027)
-- GFC Academic Research Committee (ARC)- (2024 - 2027)
+- FST Undergraduate Program Council - (2025 - present)
+- Academic & Professional Development Fund Committee (APDF) - (2025 - present)
+- Academic Research Fund Committee (ARF) - (2024 - present)
+- GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - present)
+- GFC Academic Research Committee (ARC)- (2024 - present)
 - Academic & Professional Development Fund Committee - Replacement term - (2023 - 2025)
 
 ## AU Ad Hoc Committee/Group Memberships 
@@ -597,4 +597,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `9b5eb3b` on 2025-09-24 00:30 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `4541d55` on 2025-09-24 18:51 UTC_
