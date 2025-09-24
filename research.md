@@ -60,7 +60,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion, <em>AIMS Mathematics</em> 10(9) <strong>(2025)</strong>, 22106-22126.
+      Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion, <em>AIMS Mathematics</em> 10(9) <strong>(2025)</strong>, 22106–22126.
       <a href="https://www.aimspress.com/article/doi/10.3934/math.2025984?viewType=HTML" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -303,6 +303,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
