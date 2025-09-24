@@ -14,11 +14,11 @@ permalink: /service_contributions/
 <!-- CV:START SERVICE -->
 ## <small>AU Standing Committee Memberships</small>
 - FST Faculty Council - (2022 - present)
-- FST Undergraduate Program Council - (2025 - 2028)
-- Academic & Professional Development Fund Committee (APDF) - (2025 - 2028)
-- Academic Research Fund Committee (ARF) - (2024 - 2027)
-- GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - 2027)
-- GFC Academic Research Committee (ARC)- (2024 - 2027)
+- FST Undergraduate Program Council - (2025 - present)
+- Academic & Professional Development Fund Committee (APDF) - (2025 - present)
+- Academic Research Fund Committee (ARF) - (2024 - present)
+- GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - present)
+- GFC Academic Research Committee (ARC)- (2024 - present)
 - Academic & Professional Development Fund Committee - Replacement term - (2023 - 2025)
 
 ## <small>AU Ad Hoc Committee/Group Memberships</small> 
