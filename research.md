@@ -278,6 +278,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 <details>
   <summary><small>List</small></summary>
   <ol>
+    <li>Workshop: Recent Trends in Stochastic Partial Differential Equations, Simons Laufer Mathematical Sciences Institute (SLMath), University of California campus, Berkeley, California, November 17th, 2025 - November 21st, 2025.</li>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
@@ -302,6 +303,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
