@@ -36,7 +36,7 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 - Stochastic Analysis
 
 ## Research Specialization Keywords
-Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
+Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
 ## Research In Progress
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
@@ -598,4 +598,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `b8432a9` on 2025-09-29 01:35 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `4738a5e` on 2025-09-29 15:11 UTC_
