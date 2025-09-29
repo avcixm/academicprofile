@@ -22,7 +22,7 @@ sidebar:
 - Stochastic Analysis
 
 ## <small>Research Specialization Keywords</small>
-Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
+Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear Analysis, Measure Theory, Operator Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
 ## <small>Research In Progress</small>
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
@@ -303,6 +303,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
