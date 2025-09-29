@@ -512,7 +512,7 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 
 
   <ol>
-    <li>AMS Mathematical/MathSciNet Reviews (Reviewer)</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
+    <li>American Mathematical Society/MathSciNet Reviews (Reviewer)</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
     <li>Acta Mathematica Scienta</li>
     <li>Advances in Nonlinear Analysis</li>
@@ -598,4 +598,4 @@ Variable Exponent Lebesgue Spaces, Variational Methods, Nonlinear Analysis, Meas
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `ad2a2a1` on 2025-09-27 03:48 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `1cb6dc0` on 2025-09-29 01:33 UTC_
