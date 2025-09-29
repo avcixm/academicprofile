@@ -40,7 +40,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
 ## Research In Progress
 - Generalized volatility models with state-dependent variable exponent drift and diffusion
-- PDEs in variable Lebesgue and Sobolev spaces
+- PDEs in variable Lebesgue spaces
 
 ## Research Funding (Awards & Grants)
 - External Funding Proposal: Applied for NSERC-Discovery Grants (Individual) Program 2025
@@ -598,4 +598,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `4738a5e` on 2025-09-29 15:11 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `1e9c5e1` on 2025-09-29 15:13 UTC_
