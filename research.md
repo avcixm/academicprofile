@@ -278,7 +278,8 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 <details>
   <summary><small>List</small></summary>
   <ol>
-    <li><strong>Workshop: Recent Trends in Stochastic Partial Differential Equations</strong>, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, California, November 17-25, 2025.</li>
+    <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-25, 2025.</li>
+    <li><strong>SDEs with state-dependent variable exponent diffusion term</strong>, Analysis Seminar, Invited talk, Department of Mathematics, the University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
@@ -303,6 +304,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
