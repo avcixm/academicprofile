@@ -24,6 +24,7 @@ permalink: /service_contributions/
 ## <small>AU Ad Hoc Committee/Group Memberships</small> 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
+- Faculty of Graduate Studies (FGS) Awards Review Committee - (2025 - present)
 - FGS Faculty Council Working Group: Research Software for Graduate Students and Faculty - (2025 - present)
 - ARC CFI-JELF Expression of Interest Review Subcommittee (2025)
 - Applied Math Program Advisory Committee - (2025 - present)
