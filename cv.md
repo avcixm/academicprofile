@@ -458,7 +458,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Academic Research Fund Committee (ARF) - (2024 - present)
 - GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - present)
 - GFC Academic Research Committee (ARC)- (2024 - present)
-- Academic & Professional Development Fund Committee - Replacement term - (2023 - 2025)
+- APDF - Replacement term - (2023 - 2025)
 
 ## AU Ad Hoc Committee/Group Memberships 
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
@@ -600,4 +600,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `2bd39a4` on 2025-10-02 17:06 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `c0bd84d` on 2025-10-02 17:12 UTC_
