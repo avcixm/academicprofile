@@ -107,7 +107,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
     </li>
     <li>
       Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.
-     <a href="https://www.emis.de/journals/AMEN/" target="_blank" rel="noopener">Website</a>
+     <a href="https://www.math.nthu.edu.tw/~amen/" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.
@@ -601,4 +601,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `8debf6f` on 2025-10-09 00:28 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `3ae8b4e` on 2025-10-09 00:43 UTC_
