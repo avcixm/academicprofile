@@ -17,7 +17,7 @@ sidebar:
 <!-- CV:START RESEARCH -->
 
 ## <small>Research Interests</small>
-- Analysis of Variable Exponent PDEs (Deterministic & Stochastic)
+- Analysis of PDEs (Deterministic & Stochastic)
 - Variable Lebesgue Spaces
 - Stochastic Analysis
 
@@ -305,6 +305,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
