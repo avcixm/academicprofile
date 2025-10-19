@@ -55,6 +55,9 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
   <summary><small>Published/Accepted</small></summary>
 
   <ol>
+    <li>Anisotropic Singular Equation with (p(⋅), q(⋅))-Laplacian Operator and Hardy-type Potential.Under review. <em>Acta Universitatis Sapientiae Mathematica</em>. Accepted <strong>(2025)</strong>.
+      <a href="https://link.springer.com/journal/44426" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
@@ -255,7 +258,6 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems.Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
-    <li>Anisotropic Singular Equation with (p(⋅), q(⋅))-Laplacian Operator and Hardy-type Potential.Under review.</li>
     <li>A topological result for a singular double phase variable exponent problem. Under review.</li>
     <li>Variational and nonvariational solutions for double phase variable exponent problems. Under review.</li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem. Under review.</li>
@@ -305,6 +307,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
