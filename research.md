@@ -55,7 +55,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
   <summary><small>Published/Accepted</small></summary>
 
   <ol>
-    <li>Anisotropic Singular Equation with (p(⋅), q(⋅))-Laplacian Operator and Hardy-type Potential.Under review. <em>Acta Universitatis Sapientiae Mathematica</em>. Accepted <strong>(2025)</strong>.
+    <li>Anisotropic Singular Equation with (p(⋅), q(⋅))-Laplacian Operator and Hardy-type Potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Accepted <strong>(2025)</strong>.
       <a href="https://link.springer.com/journal/44426" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -307,6 +307,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
