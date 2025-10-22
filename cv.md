@@ -298,7 +298,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
 
   <ol>
-    <li>Stochastic representation of the solution for a Cauchy problem involving coefficients with variable exponent</li>
+    <li>Stochastic representation of the solution for a Cauchy problem with drift and diffusion of state-dependent variable exponent</li>
   </ol>
 
 
@@ -603,4 +603,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `de2b443` on 2025-10-19 04:00 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b4f38a4` on 2025-10-22 23:14 UTC_
