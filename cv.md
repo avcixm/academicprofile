@@ -313,7 +313,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
   <ol>
     <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, 2025 Canadian Mathematical Society MathEd Meeting (Online), November 28-29.</li>
-    <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-25, 2025.</li>
+    <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
     <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Invited talk, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
@@ -603,4 +603,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `b4f38a4` on 2025-10-22 23:14 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `15e2238` on 2025-10-26 04:01 UTC_
