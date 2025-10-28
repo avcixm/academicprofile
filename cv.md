@@ -486,6 +486,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
   
 ## Editorial Activities
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - present)
+- Editorial Board Member - Mathematics, Informatics, Physics: Science and Education (2025 - present)
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - present)
 - Topical Advisory Panel Member - Axioms (2023 - present)
 - Editorial Board Member - International Journal of Scientific and Innovative Mathematical Research (2018 - present)
@@ -603,4 +604,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `15e2238` on 2025-10-26 04:01 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `e7d8ba2` on 2025-10-28 03:54 UTC_
