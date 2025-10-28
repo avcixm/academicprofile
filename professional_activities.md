@@ -17,6 +17,7 @@ permalink: /professional_activities/
   
 ## <small>Editorial Activities</small>
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - present)
+- Editorial Board Member - Mathematics, Informatics, Physics: Science and Education (2025 - present)
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - present)
 - Topical Advisory Panel Member - Axioms (2023 - present)
 - Editorial Board Member - International Journal of Scientific and Innovative Mathematical Research (2018 - present)
