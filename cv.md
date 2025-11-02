@@ -298,7 +298,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
 
   <ol>
-    <li>Stochastic representation of solutions for the parabolic Cauchy problem with state-dependent variable exponents coefficients</li>
+    <li>Stochastic representation of solutions for the parabolic Cauchy problem with state-dependent variable exponent coefficients</li>
   </ol>
 
 
@@ -604,4 +604,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `f705d66` on 2025-11-02 00:01 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b77f2de` on 2025-11-02 00:19 UTC_
