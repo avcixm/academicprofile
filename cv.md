@@ -277,6 +277,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
 
   <ol>
+    <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems.Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
@@ -298,7 +299,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
 
   <ol>
-    <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients</li>
+    <li></li>
   </ol>
 
 
@@ -604,4 +605,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `fddd4b7` on 2025-11-02 02:46 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b0f038b` on 2025-11-03 01:25 UTC_
