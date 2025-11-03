@@ -580,15 +580,15 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 ## Professional Development
 ## Continued Professional Development 
 - Higher Education Teaching Certificate–Harvard University, Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
-- Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
-- Valuing Diversity and Supporting Inclusivity-Virtual Workshop by Trent University, 2020.
-- How to Deliver Experiential Learning in a Remote Course, Centre for Teaching & Learning, Trent University, 2020. 
-- Learning How to Increase Learner Engagement- Online Course by LinkedIn Learning, 2020.
+- Orientation for Distance Education–The Centre for Professional and Part-time Learning, Durham College, 2020.
+- Valuing Diversity and Supporting Inclusivity-Virtual Workshop, Trent University, 2020.
+- How to Deliver Experiential Learning in a Remote Course, Centre for Teaching & Learning, Trent University, 2020.
+- Developing Your Course Syllabus-The Gwenna Moss Centre for Teaching and Learning, University of Saskatchewan, 2020.
+- Remote Teaching Essentials: Constructive Alignment in a Remote Context-The Gwenna Moss Centre for Teaching and Learning, University of Saskatchewan, 2020.
+- Learning How to Increase Learner Engagement-Online Course by LinkedIn Learning, 2020.
 - Flipping the Classroom-Online Course by Lynda.com, 2020.
 - Teaching Online: Synchronous Classes-Online Course by Lynda.com, 2020.
 - How to Engage your Students in a Virtual Environment-webinar by McGraw-Hill, 2020.
-- Developing Your Course Syllabus-Online Course by The Gwenna Moss Centre for Teaching and Learning, University of Saskatchewan, 2020.
-- Remote Teaching Essentials: Constructive Alignment in a Remote Context-Online Course by the Gwenna Moss Centre for Teaching and Learning, University of Saskatchewan, 2020.
 - Teach Adult Learners in Higher Education-Online Course by Lynda.com, 2020.
 - Educational Technology for Student Success-Online Course by Lynda.com, 2020.
 - Communication in the 21st Century Classroom-Online Course by Lynda.com, 2020.
@@ -605,4 +605,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `9cdef83` on 2025-11-03 01:33 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b8e8864` on 2025-11-03 01:38 UTC_
