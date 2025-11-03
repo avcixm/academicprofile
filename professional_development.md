@@ -13,7 +13,7 @@ permalink: /professional_development/
 
 <!-- CV:START PD -->
 ## <small>Continued Professional Development</small> 
-- Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
+- Higher Education Teaching Certificate–Harvard University, Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop by Trent University, 2020.
 - How to Deliver Experiential Learning in a Remote Course, Centre for Teaching & Learning, Trent University, 2020. 
