@@ -579,7 +579,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 
 ## Professional Development
 ## Continued Professional Development 
-- Higher Education Teaching Certificate–Online Course by Harvard University Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
+- Higher Education Teaching Certificate–Harvard University, Derek Bok Center for Teaching and Learning, Oct-Dec 2020.
 - Orientation for Distance Education–the Centre for Professional and Part-time Learning Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop by Trent University, 2020.
 - How to Deliver Experiential Learning in a Remote Course, Centre for Teaching & Learning, Trent University, 2020. 
@@ -605,4 +605,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `1f35fd6` on 2025-11-03 01:26 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `9cdef83` on 2025-11-03 01:33 UTC_
