@@ -44,7 +44,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Analysis & Applications of PDEs in variable exponent Lebesgue spaces
 
 ## Research Funding (Awards & Grants)
-- External Funding Proposal: Applied for NSERC-Discovery Grants (Individual) Program 2025
+- External Funding Application: Applied for NSERC-Discovery Grants (Individual) Program 2025
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
 - Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2026)
@@ -606,4 +606,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `f88860b` on 2025-11-05 19:36 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `22bc49f` on 2025-11-05 19:55 UTC_
