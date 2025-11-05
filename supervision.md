@@ -13,9 +13,7 @@ permalink: /supervision/
 
 <!-- CV:START SUPERVISION -->
 ## <small>AU Undergraduate Student Supervision</small> 
-- Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - present) <br>
-  Project Title: Advanced Engineering Mathematics.
-- Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - present) <br>
+- Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - 2025/9) <br>
   Project Title: Application of the Fixed-point Theorems to the Solutions of Differential Equations.
 - Amina Anna Mahamane Ousmane - MATH 495 Mathematics Projects I. (2025/5 - 2025/6) <br>
   Project Title: Investigating the Effectiveness of Optimization Methods : Full-Batch Gradient Descent vs. 
