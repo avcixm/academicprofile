@@ -34,7 +34,7 @@ permalink: /courses/
 - MATH 415 Introduction to Measure and Integration (In Development, 2025 — present)
 - MATH 426 Introduction to Stochastic Processes (In Development, 2025 — present)
 - MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — present)
-- MATH 325 Linear Programming — Development (In Production) (2024)
+- MATH 325 Linear Programming — Developed (In Production) (2024)
 - MATH 216 Computer-Oriented Approach to Statistics — Revision (2024)
 - MATH 260 Calculus for Social Sciences and Economics — Revision (2024)
 
