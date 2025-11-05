@@ -31,16 +31,17 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Research
 ## Research Interests
-- Analysis of PDEs (Deterministic & Stochastic)
-- Variable Lebesgue Spaces
-- Stochastic Analysis
+- Analysis of Partial Differential Equations (PDEs) 
+- Analysis of Stochastic Differential Equations (SDEs) 
+- Variable Exponent Lebesgue Spaces
+- Stochastic Analysis & Applications
 
 ## Research Specialization Keywords
 Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear Analysis, Measure Theory, PDEs, Stochastic PDEs, Stochastic Processes and Applications.
 
 ## Research In Progress
-- Generalized volatility models with state-dependent variable exponent drift and diffusion
-- PDEs in variable Lebesgue spaces
+- Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
+- Analysis & Applications of PDEs in variable exponent Lebesgue spaces
 
 ## Research Funding (Awards & Grants)
 - External Funding Proposal: Applied for NSERC-Discovery Grants (Individual) Program 2025
@@ -605,4 +606,4 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `8d23e01` on 2025-11-05 16:18 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b2f4540` on 2025-11-05 19:32 UTC_
