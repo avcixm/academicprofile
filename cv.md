@@ -394,7 +394,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 ## Morgan State University Courses (USA)
 - MATH 241  Calculus I (2015/Spring)
 
-## Batman University Courses (Turkiye) (2013 — 2018)
+## Batman University Courses (Turkey) (2013 — 2018)
 - 05010303	Business Mathematics
 - 05050407  Statistics
 - 05010105  Calculus I
@@ -423,7 +423,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - 61090128  Business Statistics
 - 61090201  Research Methods          
 
-## Dicle University (Turkiye) (2009 — 2013)
+## Dicle University (Turkey) (2009 — 2013)
 - Business Mathematics
 - Business Statistics
 - Engineering Mathematics
@@ -604,4 +604,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `29f401b` on 2025-11-05 23:35 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `98c034a` on 2025-11-05 23:42 UTC_
