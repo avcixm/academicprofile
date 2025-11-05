@@ -430,9 +430,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 ## Supervision
 ## AU Undergraduate Student Supervision 
-- Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - present) <br>
-  Project Title: Advanced Engineering Mathematics.
-- Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - present) <br>
+- Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - 2025/9) <br>
   Project Title: Application of the Fixed-point Theorems to the Solutions of Differential Equations.
 - Amina Anna Mahamane Ousmane - MATH 495 Mathematics Projects I. (2025/5 - 2025/6) <br>
   Project Title: Investigating the Effectiveness of Optimization Methods : Full-Batch Gradient Descent vs. 
@@ -606,4 +604,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `2f684de` on 2025-11-05 19:57 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `c4532d0` on 2025-11-05 20:30 UTC_
