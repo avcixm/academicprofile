@@ -365,7 +365,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - MATH 415 Introduction to Measure and Integration (In Development, 2025 — present)
 - MATH 426 Introduction to Stochastic Processes (In Development, 2025 — present)
 - MATH 437 Introduction to Stochastic Calculus (In Development, 2025 — present)
-- MATH 325 Linear Programming — Development (In Production) (2024)
+- MATH 325 Linear Programming — Developed (In Production) (2024)
 - MATH 216 Computer-Oriented Approach to Statistics — Revision (2024)
 - MATH 260 Calculus for Social Sciences and Economics — Revision (2024)
 
@@ -604,4 +604,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `c4532d0` on 2025-11-05 20:30 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `29f401b` on 2025-11-05 23:35 UTC_
