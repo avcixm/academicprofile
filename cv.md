@@ -48,7 +48,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
 - Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2026)
-- International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (Grant No: 1059B191400450, 12 months, 2014-2015).
+- International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (Grant No: 1059B191400450, 2014-2015).
   <a href="https://tubitak.gov.tr/en/scholarships/postdoctoral/research-scholarship-programs/2219-international-postdoctoral-research-fellowship-program-turkish-citizens" target="_blank" rel="noopener">Website</a>
 - Dicle University Scientific Project Research Management (DUPAB) Grant (2007 - 2009)<br>
   for the Research Project: The Solutions of Parabolic and Elliptic Equations with Standard and Nonstandard Growth Conditions in the Variable Exponent Lebesgue-Sobolev Spaces.
@@ -606,4 +606,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `22bc49f` on 2025-11-05 19:55 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `2f684de` on 2025-11-05 19:57 UTC_
