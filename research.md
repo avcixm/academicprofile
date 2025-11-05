@@ -259,7 +259,6 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
-    <li>A topological result for a singular double phase variable exponent problem. Under review.</li>
     <li>Variational and nonvariational solutions for double phase variable exponent problems. Under review.</li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem. Under review.</li>
     <li>Anisotropic Variable exponent Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). Under review.</li>
@@ -272,7 +271,8 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 <details>
   <summary><small>Work in progress</small></summary>
   <ol>
-    <li></li>
+    <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent</li>
+    <li>On a singular double phase variable exponent problem: A topological result</li>
   </ol>
 </details>
 
@@ -308,6 +308,7 @@ Variable Lebesgue Spaces, Variational Methods, Topological Methods, Nonlinear An
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
