@@ -20,7 +20,7 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 ## Professional Experience
  - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
  - Tutor, Faculty of Science and Technology, Athabasca University (2021-2022/7)
- - Academic Expert, Faculty of Business, Athabasca University (2020-2022/7)
+ - Tutor, Faculty of Business, Athabasca University (2020-2022/7)
  - Mathematics Facilitator (Online), Durham College (2020-2022)
  - Assistant Professor (Limited Term), Department of Mathematics, Trent University (2020/8 - 2021/7).
  - Instructor (Limited Term), Department of Science and Technology, Northwestern Polytechnic (Grande Prairie Reg Coll.) (2019/8 - 2020/4)
@@ -604,4 +604,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `472a853` on 2025-11-06 15:17 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `7d31fb1` on 2025-11-06 18:33 UTC_
