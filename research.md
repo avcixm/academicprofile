@@ -56,12 +56,12 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
   <summary><small>Published/Accepted</small></summary>
 
   <ol>
-    <li>Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Accepted <strong>(2025)</strong>.
-      <a href="https://link.springer.com/article/10.1007/s44426-025-00019-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20251110&utm_content=10.1007/s44426-025-00019-7" target="_blank" rel="noopener">Website</a>
-    </li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
+      <a href="https://link.springer.com/article/10.1007/s44426-025-00019-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20251110&utm_content=10.1007/s44426-025-00019-7" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence results for the Cox–Ingersoll–Ross model with variable exponent diffusion, <em>AIMS Mathematics</em> 10(9) <strong>(2025)</strong>, 22106–22126.
@@ -309,6 +309,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
