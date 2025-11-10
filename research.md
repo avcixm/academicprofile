@@ -282,6 +282,8 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 <details>
   <summary><small>List</small></summary>
   <ol>
+ <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE involving coefficients with variable exponent</strong>, Canadian Mathematical Society 80th Anniversary Winter  
+     Meeting, December 5-8, 2025, Toronto, Ontario.</li>
     <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, 2025 Canadian Mathematical Society MathEd Meeting (Online), November 28-29.</li>
     <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
     <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Invited talk, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
@@ -309,6 +311,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
