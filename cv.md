@@ -318,7 +318,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
      Meeting, December 5-8, 2025, Toronto, Ontario.</li>
     <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, 2025 Canadian Mathematical Society MathEd Meeting (Online), November 28-29.</li>
     <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
-    <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Invited talk, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
+    <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
@@ -606,4 +606,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `5e016d8` on 2025-11-10 22:06 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `42cfeeb` on 2025-11-10 22:13 UTC_
