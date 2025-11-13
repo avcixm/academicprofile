@@ -282,11 +282,11 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 <details>
   <summary><small>List</small></summary>
   <ol>
-    <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, Canadian Mathematical Society 80th Anniversary  
+    <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary  
           Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
-    <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE involving coefficients with variable exponent</strong>, Canadian Mathematical Society 80th Anniversary Winter  
+    <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE involving coefficients with variable exponent</strong>, the Canadian Mathematical Society 80th Anniversary Winter  
      Meeting, December 5-8, 2025, Toronto, Ontario.</li>
-    <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, Canadian Mathematical Society MathEd Meeting, November 28-29, 2025.</li>
+    <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, the Canadian Mathematical Society MathEd Meeting, November 28-29, 2025.</li>
     <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
     <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
@@ -313,6 +313,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
