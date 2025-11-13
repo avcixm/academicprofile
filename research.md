@@ -282,7 +282,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 <details>
   <summary><small>List</small></summary>
   <ol>
-    <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(\cdot),q(\cdot))- Hardy-type potential</strong>, Canadian Mathematical Society 80th Anniversary  
+    <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, Canadian Mathematical Society 80th Anniversary  
           Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
     <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE involving coefficients with variable exponent</strong>, Canadian Mathematical Society 80th Anniversary Winter  
      Meeting, December 5-8, 2025, Toronto, Ontario.</li>
@@ -313,6 +313,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
