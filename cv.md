@@ -608,4 +608,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `1a00ef0` on 2025-11-14 19:17 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `5131c5b` on 2025-11-14 19:19 UTC_
