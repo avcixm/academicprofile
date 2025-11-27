@@ -273,8 +273,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 <details>
   <summary><small>Work in progress</small></summary>
   <ol>
-    <li>On a singular double phase variable exponent problem: A topological result</li>
-  </ol>
+   <li>On a singular double phase variable exponent problem: A topological result</li>
+   <li>Existence results for a double phase variable exponent problem with a singular potential</li>
+  <ol>
 </details>
 
 ## <small>Presentations (Invited Talks & Contributed Talks)</small>
@@ -313,6 +314,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
