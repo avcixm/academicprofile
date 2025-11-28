@@ -281,7 +281,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
   </ol>
 </details>
 
-## <small>Presentations (Invited Talks & Contributed Talks)</small>
+## <small>Presentations (Invited Talks & Contributed Talks & Workshops)</small>
 
 <details>
   <summary><small>List</small></summary>
@@ -315,6 +315,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
