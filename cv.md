@@ -67,7 +67,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 ## Refereed Journal Articles
 
 
-
 **Published/Accepted**
 
 
@@ -272,7 +271,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
 
-  <summary>Submitted</summary>
+ ## <summary>Submitted</summary>
   
 
 <ol>
@@ -601,4 +600,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `505d2e6` on 2025-11-28 04:26 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `934bb0d` on 2025-11-28 04:27 UTC_
