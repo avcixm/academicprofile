@@ -51,7 +51,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
   <a href="https://www.worldscientific.com/worldscibooks/10.1142/7124#t=toc" target="_blank" rel="noopener">Website</a>
 
 ## <small>Refereed Journal Articles</small>
-
 <details>
   <summary><small>Published/Accepted</small></summary>
 
@@ -253,7 +252,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
   </ol>
 </details>
 
-  <summary><small>Submitted</small></summary>
+ ## <summary><small>Submitted</small></summary>
   <details>
   <ol>
     <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent. Under review.</li>
@@ -313,6 +312,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
