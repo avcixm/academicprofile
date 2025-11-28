@@ -281,8 +281,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
   <ol>
-    <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent. Under review.</li>
-    <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
+    <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients.</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
@@ -303,6 +302,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
   <ol>
+    <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent. Under review.</li>
     <li>On a singular double phase variable exponent problem: A topological result</li>
     <li>Existence results for a double phase variable exponent problem with a singular potential</li>
   </ol>
@@ -610,4 +610,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `7940c1a` on 2025-11-28 04:45 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `3baee35` on 2025-11-28 20:21 UTC_
