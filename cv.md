@@ -67,15 +67,17 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 ## Refereed Journal Articles
 
 
+
 **Published/Accepted**
 
 
   <ol>
-   <li>
-    Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
+    <li>
+      Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
+    <li>
+      Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
       <a href="https://link.springer.com/article/10.1007/s44426-025-00019-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20251110&utm_content=10.1007/s44426-025-00019-7" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -96,8 +98,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
     </li>
     <li>
       On a p(x)-Kirchhoff problem with variable singular and sublinear exponents, <em>Taiwanese Journal of Mathematics</em> 29(2) <strong>(2025)</strong>, 379–402.
-      <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank"  
-        rel="noopener">Website</a>
+      <a href="https://projecteuclid.org/journals/taiwanese-journal-of-mathematics/volume-29/issue-2/On-a-px-Kirchhoff-Problem-with-Variable-Singular-and-Sublinear/10.11650/tjm/240904.full" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       On a p(x)–Kirchhoff-type equation with singular and superlinear nonlinearities, <em>Differential Equations and Dynamical Systems</em>, <strong>(2024)</strong>.
@@ -109,30 +110,34 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
     </li>
     <li>
       Multiple solutions for a class of p(x)–Kirchhoff-type equations (with S. Heidarkhani, A. Ghobadi), <em>Applied Mathematics E-Notes</em> 22 <strong>(2022)</strong>, 160–168.
-     <a href="https://www.math.nthu.edu.tw/~amen/" target="_blank" rel="noopener">Website</a>
+      <a href="https://www.math.nthu.edu.tw/~amen/" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.
-     <a href="https://thaijmath2.in.cmu.ac.th/index.php/thaijmath/article/view/1331" target="_blank" rel="noopener">Website</a>
+      <a href="https://thaijmath2.in.cmu.ac.th/index.php/thaijmath/article/view/1331" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Critical points approaches to a nonlocal elliptic problem driven by p(x)–biharmonic operator (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) <strong>(2021)</strong>, 55–69.
-     <a href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2021-2115/html?srsltid=AfmBOorpq1yViRyg2Px-k9BlWYm1hiCpmHbiGZJHuVLKUoAmCYmPP7EN" target="_blank" rel="noopener">Website</a>
+      <a href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2021-2115/html?srsltid=AfmBOorpq1yViRyg2Px-k9BlWYm1hiCpmHbiGZJHuVLKUoAmCYmPP7EN" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       A Class of nonlocal elliptic equations in Orlicz–Sobolev spaces (with B. Suer, V. Turut), <em>Journal of Abstract and Computational Mathematics</em> 6(2) <strong>(2021)</strong>, 16–29.
-    <a href="https://www.ntmsci.com/jacm/ContentDetails?Volume=6&IssueNumber=2" target="_blank" rel="noopener">Website</a>
+      <a href="https://www.ntmsci.com/jacm/ContentDetails?Volume=6&IssueNumber=2" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       On a nonlocal problem with indefinite weights in Orlicz–Sobolev space (with N. T. Chung), <em>Communications of the Korean Mathematical Society</em> 35(2) <strong>(2020)</strong>, 517–532.
       <a href="https://ckms.kms.or.kr/journal/view.html?volume=35&number=2&spage=517" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>A variational approach to the existence of infinitely many solutions for difference equations (with M. K. Moghadam, S. Tersian), <em>Journal of New Research in Mathematics</em> 5(22) <strong>(2020)</strong>, 99–110.</li>
+    <li>
+      A variational approach to the existence of infinitely many solutions for difference equations (with M. K. Moghadam, S. Tersian), <em>Journal of New Research in Mathematics</em> 5(22) <strong>(2020)</strong>, 99–110.
+    </li>
     <li>
       A topological result for a class of anisotropic difference equations, <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 46(2) <strong>(2019)</strong>, 328–343.
-    <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/1060/697" target="_blank" rel="noopener">Website</a>
+      <a href="http://inf.ucv.ro/~ami/index.php/ami/article/view/1060/697" target="_blank" rel="noopener">Website</a>
     </li>
-    <li>On some classes of nonlocal problems in Musielak–Sobolev spaces, <em>Southeast Asian Bulletin of Mathematics</em> 43 <strong>(2019)</strong>, 791–814.</li>
+    <li>
+      On some classes of nonlocal problems in Musielak–Sobolev spaces, <em>Southeast Asian Bulletin of Mathematics</em> 43 <strong>(2019)</strong>, 791–814.
+    </li>
     <li>
       Positive ground state solutions to a nonlocal singular elliptic problem, <em>Canadian Journal of Applied Mathematics</em> 1(1) <strong>(2019)</strong>, 1–14.
       <a href="https://arxiv.org/abs/2402.01128" target="_blank" rel="noopener">Website</a>
@@ -171,7 +176,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
     </li>
     <li>
       Solutions to a system of p(x)–Kirchhoff discrete boundary value problems, <em>Nonlinear Studies</em> 23(4) <strong>(2016)</strong>, 665–674.
-       <a href="https://www.nonlinearstudies.com/index.php/nonlinear/article/view/1416" target="_blank" rel="noopener">Website</a>
+      <a href="https://www.nonlinearstudies.com/index.php/nonlinear/article/view/1416" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence of solutions for nonlocal problems in Sobolev–Orlicz spaces via Monotone method (with R. Mashiyev, N. T. Chung), <em>Electronic Journal of Mathematical Analysis and Applications</em> 4(1) <strong>(2016)</strong>, 63–73.
@@ -195,7 +200,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
     </li>
     <li>
       Existence of three solutions for a quasilinear elliptic equation involving the p(x)–Laplacian (with R. Mashiyev), <em>Sarajevo Journal of Mathematics</em> 10(23) <strong>(2014)</strong>, 1–13.
-       <a href="https://sjm.anubih.ba/index.php/sjm/article/view/220" target="_blank" rel="noopener">Website</a>
+      <a href="https://sjm.anubih.ba/index.php/sjm/article/view/220" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence and uniqueness of solutions of a nonlocal problem involving the p(x)–Laplacian (with R. Mashiyev), <em>Annals of the University of Craiova – Mathematics and Computer Science Series</em> 41(1) <strong>(2014)</strong>, 30–37.
@@ -270,9 +275,11 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
 
-  
 
-## <summary>Submitted</summary>
+
+**Submitted**
+
+
   <ol>
     <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
@@ -282,37 +289,42 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
     <li>Variational and nonvariational solutions for double phase variable exponent problems. Under review.</li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem. Under review.</li>
     <li>Anisotropic Variable exponent Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). Under review.</li>
-    <li>Singular Kirchhoff–Ginzburg–Landau-type equation with variable Exponent(with B. Cekic, Z. Yucedag). Under review.</li>
+    <li>Singular Kirchhoff–Ginzburg–Landau-type equation with variable Exponent (with B. Cekic, Z. Yucedag). Under review.</li>
     <li>On a p(x)-Kirchhoff Equation with double singularity exponent (with B. Cekic, Z. Yucedag). Under review.</li>
     <li>Existence results for a class of double phase singular Kirchhoff-type equations with nonstandard growth (with A. Razani). Under review.</li>
   </ol>
 
 
 
- </details>
- ## <summary>Work in progress</summary>
+
+
+
+**Work in progress**
+
+
   <ol>
-   <li>On a singular double phase variable exponent problem: A topological result</li>
-   <li>Existence results for a double phase variable exponent problem with a singular potential</li>
-  <ol>
-</details>
-  
+    <li>On a singular double phase variable exponent problem: A topological result</li>
+    <li>Existence results for a double phase variable exponent problem with a singular potential</li>
+  </ol>
+
+
+
+
 ## Presentations (Invited Talks & Contributed Talks)
- 
+
+
 
 **List**
 
 
   <ol>
-    <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary  
-          Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
-    <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE involving coefficients with variable exponent</strong>, the Canadian Mathematical Society 80th Anniversary Winter  
-     Meeting, December 5-8, 2025, Toronto, Ontario.</li>
+    <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
+    <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE involving coefficients with variable exponent</strong>, the Canadian Mathematical Society 80th Anniversary Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
     <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, the Canadian Mathematical Society MathEd Meeting, November 28-29, 2025.</li>
     <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
     <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
-    <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
-    <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada. </li>
+    <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada.</li>
+    <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary, Canada.</li>
     <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
     <li><strong>Variational approach for analysis of PDEs</strong>, Mathematics Colloquium, Grande Prairie Regional College, Science Department, February 2020, Grande Prairie, Canada.</li>
     <li><strong>Existence and uniqueness results for a Dirichlet problem in Orlicz–Sobolev spaces</strong>, International Conference on Mathematics and Mathematics Education (ICMME-2017), 11–13 May 2017, Şanlıurfa, Turkey.</li>
@@ -598,4 +610,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `5e22eaf` on 2025-11-28 04:40 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `7940c1a` on 2025-11-28 04:45 UTC_
