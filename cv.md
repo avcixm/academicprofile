@@ -289,7 +289,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
 
-
  </details>
  ## <summary>Work in progress</summary>
   <ol>
@@ -297,11 +296,13 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
    <li>Existence results for a double phase variable exponent problem with a singular potential</li>
   <ol>
 </details>
-
+  
+## Presentations (Invited Talks & Contributed Talks)
  
 
-## Presentations (Invited Talks & Contributed Talks)
-  <summary>List</summary>
+**List**
+
+
   <ol>
     <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary  
           Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
@@ -597,4 +598,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `95bba2e` on 2025-11-28 04:39 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `5e22eaf` on 2025-11-28 04:40 UTC_
