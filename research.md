@@ -28,6 +28,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 ## <small>Research In Progress</small>
 - Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
 - Analysis & Applications of PDEs in variable exponent Lebesgue spaces
+- The interplay of probability theory and partial differential equations
 
 ## <small>Research Funding (Awards & Grants)</small>
 - External Funding Application: Applied for NSERC-Discovery Grants (Individual) Program Nov 2025, in process.
@@ -315,6 +316,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
