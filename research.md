@@ -53,10 +53,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 ## <small>Refereed Journal Articles</small>
 <details>
   <summary><small>Published/Accepted</small></summary>
-
   <ol>
-    <li>
-      Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
+   <li>
+    Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
@@ -312,6 +311,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
