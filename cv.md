@@ -270,10 +270,10 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
 
- <summary>Submitted</summary>
   
 
-<ol>
+## <summary>Submitted</summary>
+  <ol>
     <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
@@ -290,20 +290,18 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 
 
 
- ## <summary>Work in progress</summary>
  </details>
+ ## <summary>Work in progress</summary>
   <ol>
    <li>On a singular double phase variable exponent problem: A topological result</li>
    <li>Existence results for a double phase variable exponent problem with a singular potential</li>
   <ol>
 </details>
-    
+
+ 
+
 ## Presentations (Invited Talks & Contributed Talks)
-
-
-**List**
-
-
+  <summary>List</summary>
   <ol>
     <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary  
           Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
@@ -599,4 +597,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `d61894e` on 2025-11-28 04:37 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `95bba2e` on 2025-11-28 04:39 UTC_
