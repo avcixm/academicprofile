@@ -267,7 +267,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
     <li>Existence results for a class of double phase singular Kirchhoff-type equations with nonstandard growth (with A. Razani). Under review.</li>
   </ol>
 </details>
-
  </details>
  ## <summary><small>Work in progress</small></summary>
   <ol>
@@ -275,9 +274,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
    <li>Existence results for a double phase variable exponent problem with a singular potential</li>
   <ol>
 </details>
-
- <details>   
+  
 ## <small>Presentations (Invited Talks & Contributed Talks)</small>
+ <details> 
   <summary><small>List</small></summary>
   <ol>
     <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary  
@@ -311,6 +310,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
