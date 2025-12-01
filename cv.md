@@ -322,7 +322,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li><strong>Existence of solutions for a singular double phase variable exponent problem with (p(.),q(.))- Hardy-type potential</strong>, the Canadian Mathematical Society 80th Anniversary Winter Meeting, December 5-8, 2025, Toronto, Ontario.</li>
     <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE with variable exponent coefficient</strong>, the Canadian Mathematical Society 80th Anniversary Winter Meeting,  
       December 5-8, 2025, Toronto, Ontario.</li>
-    <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, the Canadian Mathematical Society MathEd Meeting, November 28-29, 2025.</li>
+    <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, the Canadian Mathematical Society MathEd Meeting (Online), November 28-29, 2025.</li>
     <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
     <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
     <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary.</li>
@@ -612,4 +612,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `30524bb` on 2025-12-01 02:59 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `c068498` on 2025-12-01 03:00 UTC_
