@@ -23,7 +23,7 @@ sidebar:
 - Stochastic Analysis & Applications
 
 ## <small>Research Specialization Keywords</small>
-Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic Analysis and Applications; Topological Methods; Nonlinear Analysis; Measure-Theoretic Probability.
+Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Methods; Nonlinear Analysis; SDEs; Stochastic Analysis and Applications; Measure-Theoretic Probability.
 
 ## <small>Research In Progress</small>
 - Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
@@ -317,6 +317,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; SDEs; Stochastic A
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
