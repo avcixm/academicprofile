@@ -323,11 +323,11 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li><strong>A viscosity solution approach to the Feynman-Kac formula for a one-dimensional parabolic PDE with variable exponent coefficient</strong>, the Canadian Mathematical Society 80th Anniversary Winter Meeting,  
       December 5-8, 2025, Toronto, Ontario.</li>
     <li><strong>Online Mathematics Assessment: The Innovative Methods and Challenges of Integrity</strong>, the Canadian Mathematical Society MathEd Meeting (Online), November 28-29, 2025.</li>
-    <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley, November 17-21, 2025.</li>
-    <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Department of Mathematics, University of Alabama, Tuscaloosa, Oct 29, 2025.</li>
-    <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary.</li>
-    <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue, University of Calgary, May 1-2, 2025, Calgary.</li>
-    <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, University of Craiova, Craiova, Romania, 29–31 October 2020.</li>
+    <li><strong>Recent Trends in Stochastic Partial Differential Equations</strong>, Workshop, November 17-21, 2025, Simons Laufer Mathematical Sciences Institute (SLMath), University of California, Berkeley.</li>
+    <li><strong>SDEs with state-dependent variable exponent drift and diffusion terms</strong>, Analysis Seminar, Oct 29, 2025, Department of Mathematics, University of Alabama, Tuscaloosa.</li>
+    <li><strong>A generalized stochastic volatility model</strong>, Alberta Mathematics Dialogue, May 1-2, 2025, University of Calgary, Calgary.</li>
+    <li><strong>Enhancing mathematical learning with interactive content and adaptive online assessments </strong> (with A. Beltaos, J. Greenwood-Lee), Alberta Mathematics Dialogue,  May 1-2, 2025, University of Calgary, Calgary.</li>
+    <li><strong>The regularization method for multivalued elliptic PDEs with variable exponent</strong>, International Conference on Applied Mathematics, 29–31 October 2020, University of Craiova, Craiova, Romania.</li>
     <li><strong>Variational approach for analysis of PDEs</strong>, Mathematics Colloquium, Grande Prairie Regional College, Science Department, February 2020, Grande Prairie.</li>
     <li><strong>Existence and uniqueness results for a Dirichlet problem in Orlicz–Sobolev spaces</strong>, International Conference on Mathematics and Mathematics Education (ICMME-2017), 11–13 May 2017, Şanlıurfa, Turkey.</li>
     <li><strong>Nontrivial solutions for a Dirichlet problem in Orlicz–Sobolev spaces</strong>, ICMME-2017, 11–13 May 2017, Şanlıurfa, Turkey.</li>
@@ -612,4 +612,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `c068498` on 2025-12-01 03:00 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `44fd3ce` on 2025-12-01 03:03 UTC_
