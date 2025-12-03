@@ -48,7 +48,7 @@ title: Mustafa Avci, PhD - Academic Portfolio
 </div>
 
 
-I am an Assistant Professor in Applied Mathematics Department at Athabasca University, where I have been a faculty member since July 2022. This academic portfolio offers a comprehensive and structured overview of my professional contributions at Athabasca University and previous institutions. It highlights my work in teaching, research, and service to both the academic community and the broader society.
+I am an Assistant Professor in Applied Mathematics Department at Athabasca University, where I have been a faculty member since July 2022. This academic portfolio provides a comprehensive and structured overview of my professional contributions at Athabasca University and previous institutions. It highlights my work in teaching, research, and service to both the academic community and the broader society.
 <!-- CV:START HOME -->
 
 ## Degrees
