@@ -612,4 +612,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `0ead65e` on 2025-12-03 14:53 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `7c8711f` on 2025-12-03 14:54 UTC_
