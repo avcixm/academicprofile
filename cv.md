@@ -75,7 +75,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
   <ol>
      <li>
        Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2025)</strong>.
-      <a href="https://www.tandfonline.com/journals/tqma20/about-this-journal#aims-and-scope" target="_blank" rel="noopener">Website</a>.</li>
+      <a href="https://www.tandfonline.com/journals/tqma20" target="_blank" rel="noopener">Website</a>.</li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
@@ -614,4 +614,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `e38de43` on 2025-12-07 00:18 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `4a1bf9f` on 2025-12-07 00:21 UTC_
