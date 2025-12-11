@@ -282,6 +282,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 
   <ol>
+    <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. Under review.</li>
@@ -305,7 +306,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
   <ol>
     <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent.</li>
     <li>On a singular double phase variable exponent problem: A topological result</li>
-    <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity</li>
   </ol>
 
 
@@ -614,4 +614,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `b403207` on 2025-12-11 01:42 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `9b3caed` on 2025-12-11 02:30 UTC_
