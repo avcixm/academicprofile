@@ -278,7 +278,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
   <ol>
     <li>Existence and uniqueness of solutions to SDEs with state-dependent variable exponent.</li>
     <li>On a singular double phase variable exponent problem: A topological result</li>
-    <li>Positive weak solutions of a double-phase variable exponent problem with fractional-Hardy-type singular perturbations and superlinear nonlinearities</li>
+    <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity</li>
   </ol>
 </details>
 
@@ -317,6 +317,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
