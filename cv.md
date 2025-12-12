@@ -304,7 +304,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 
   <ol>
-    <li>On existence and stability of solutions of SDEs with state-dependent variable exponent.</li>
+    <li>On existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent.</li>
     <li>On a singular double phase variable exponent problem: A topological result</li>
   </ol>
 
@@ -614,4 +614,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `7037043` on 2025-12-11 20:04 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `27fa948` on 2025-12-12 01:02 UTC_
