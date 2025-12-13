@@ -278,7 +278,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
   <summary><small>Work in progress</small></summary>
   <ol>
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent.</li>
-    <li>On a singular double phase variable exponent problem: A topological result</li>
+    <li>On a singular double phase variable exponent problem: A topological approach</li>
   </ol>
 </details>
 
@@ -317,6 +317,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
