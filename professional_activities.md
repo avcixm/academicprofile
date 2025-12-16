@@ -16,9 +16,9 @@ permalink: /professional_activities/
 - Canadian Mathematical Society, Member (2023/12 - present)
   
 ## <small>Editorial Activities</small>
-- Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - present)
 - Editorial Board Member - Mathematics, Informatics, Physics: Science and Education (2025 - present)
 - Editorial Board Member - Mathematics and Statistics (2025 - present)
+- Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - present)
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - present)
 - Topical Advisory Panel Member - Axioms (2023 - present)
 - Editorial Board Member - International Journal of Scientific and Innovative Mathematical Research (2018 - present)
@@ -26,6 +26,7 @@ permalink: /professional_activities/
 - Editorial Board Member - Journal of Mathematical Sciences and Applications (2015 - present)
 - Editorial Board Member - International Journal of Partial Differential Equations and Applications (2015 - present)
 - Editorial Board Member - Universal Journal of Applied Mathematics (2015 - present)
+- Guest editor for the Special Issue: Advances in Existence Theory and Stability of Variable Fractional Systems in <em>Fractal and Fractional</em> (2025/12 - 2026/12)
 - Guest editor for the Special Issue: Advances in Stochastic Differential Equations: Theory, Computation and Applications in <em>Axioms</em> (2025/7 - 2026/12)
 - Guest editor for the Special Issue: Differential Equations and Stochastic Processes: Trends and Challenges in <em>Mathematics</em> (2023/10 - 2024/11)
 - Co-Guest editor for the Special Issue: Nonlinear and Variational Analysis and their Applications in <em>Journal of Function Spaces</em> (2020/1 - 2020/12)
