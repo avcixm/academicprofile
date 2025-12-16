@@ -570,6 +570,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li>Journal of Elliptic and Parabolic Equations</li>
     <li>Journal of Pseudo-Differential Operators and Applications</li>
     <li>Kragujevac Journal of Mathematics</li>
+    <li>International Journal of Differential Equations</li>
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
@@ -615,4 +616,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `d92f3c5` on 2025-12-16 03:08 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `2bbbd9f` on 2025-12-16 03:12 UTC_
