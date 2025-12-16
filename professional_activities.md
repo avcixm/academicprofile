@@ -88,6 +88,7 @@ permalink: /professional_activities/
     <li>Journal of Elliptic and Parabolic Equations</li>
     <li>Journal of Pseudo-Differential Operators and Applications</li>
     <li>Kragujevac Journal of Mathematics</li>
+    <li>International Journal of Differential Equations</li>
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
