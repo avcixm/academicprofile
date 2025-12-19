@@ -73,12 +73,15 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 
   <ol>
+    <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2025)</strong>.
+    <a href="https://www.tandfonline.com/journals/tqma20" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential. <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
+      Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential, <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
       <a href="https://link.springer.com/article/10.1007/s44426-025-00019-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20251110&utm_content=10.1007/s44426-025-00019-7" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -288,7 +291,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
     <li>Variational and nonvariational solutions for double phase variable exponent problems. Under review.</li>
-    <li>Nehari manifold approach for a singular multi-phase variable exponent problem. Under review.</li>
     <li>Anisotropic Variable exponent Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). Under review.</li>
     <li>Singular Kirchhoff–Ginzburg–Landau-type equation with variable Exponent (with B. Cekic, Z. Yucedag). Under review.</li>
     <li>On a p(x)-Kirchhoff Equation with double singularity exponent (with B. Cekic, Z. Yucedag). Under review.</li>
@@ -304,7 +306,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 
   <ol>
-    <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent.</li>
+    <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent</li>
     <li>On a singular double phase variable exponent problem: A topological approach</li>
   </ol>
 
@@ -617,4 +619,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `b5cf4f8` on 2025-12-16 05:07 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `9f2cadb` on 2025-12-19 04:05 UTC_
