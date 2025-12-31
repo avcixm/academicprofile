@@ -59,6 +59,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2025)</strong>.
     <a href="https://www.tandfonline.com/journals/tqma20" target="_blank" rel="noopener">Website</a>
     </li>
+    <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. Accepted <strong>(2025)</strong>.
+    <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/268" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
       <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
@@ -272,7 +275,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li>Anisotropic Variable exponent Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). Under review.</li>
     <li>Singular Kirchhoff–Ginzburg–Landau-type equation with variable Exponent (with B. Cekic, Z. Yucedag). Under review.</li>
     <li>On a p(x)-Kirchhoff Equation with double singularity exponent (with B. Cekic, Z. Yucedag). Under review.</li>
-    <li>Existence results for a class of double phase singular Kirchhoff-type equations with nonstandard growth (with A. Razani). Under review.</li>
   </ol>
 </details>
 
@@ -319,6 +321,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
