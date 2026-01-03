@@ -56,7 +56,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 <details>
   <summary><small>Published/Accepted</small></summary>
   <ol>
-    <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2025)</strong>.
+    <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2026)</strong>.
     <a href="https://www.tandfonline.com/journals/tqma20" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. Accepted <strong>(2025)</strong>.
@@ -321,6 +321,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
