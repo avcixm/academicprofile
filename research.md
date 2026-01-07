@@ -57,7 +57,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
   <summary><small>Published/Accepted</small></summary>
   <ol>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. <em>Acta Applicandae Mathematicae</em>. Accepted <strong>(2026)</strong>.
-    <a href="https://link.springer.com/journal/10440" target="_blank" rel="noopener">Website</a>
+    <a href="https://link.springer.com/journal/10440/articles" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. Accepted <strong>(2026)</strong>.
     <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
@@ -323,6 +323,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
