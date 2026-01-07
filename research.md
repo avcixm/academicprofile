@@ -56,6 +56,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 <details>
   <summary><small>Published/Accepted</small></summary>
   <ol>
+    <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. <em>Acta Applicandae Mathematicae</em>. Accepted <strong>(2026)</strong>.
+    <a href="https://link.springer.com/journal/10440" target="_blank" rel="noopener">Website</a>
+    </li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. Accepted <strong>(2026)</strong>.
     <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
     </li>
@@ -270,7 +273,6 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
-    <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
     <li>Variational and nonvariational solutions for double phase variable exponent problems. Under review.</li>
     <li>Anisotropic Variable exponent Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). Under review.</li>
@@ -321,6 +323,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
