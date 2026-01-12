@@ -43,6 +43,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
 - Analysis & Applications of PDEs in variable exponent Lebesgue spaces
 - The interplay of probability theory and PDEs
+- Probabilistic models of finance and mathematical physics
 
 ## Research Funding (Awards & Grants)
 - External Funding Application: Applied for NSERC-Discovery Grants (Individual) Program Nov 2025, in process.
@@ -623,4 +624,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `2614387` on 2026-01-08 04:43 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `d07a4b7` on 2026-01-12 03:05 UTC_
