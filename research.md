@@ -57,14 +57,14 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 <details>
   <summary><small>Published/Accepted</small></summary>
   <ol>
-    <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. <em>Acta Applicandae Mathematicae</em>. Accepted <strong>(2026)</strong>.
-    <a href="https://link.springer.com/journal/10440/articles" target="_blank" rel="noopener">Website</a>
-    </li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. Accepted <strong>(2026)</strong>.
     <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2026)</strong>.
     <a href="https://www.tandfonline.com/action/showAxaArticles?journalCode=tqma20" target="_blank" rel="noopener">Website</a>
+    </li>
+    <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. <em>Acta Applicandae Mathematicae</em>. Vol. 201, article number 7 <strong>(2026)</strong>.
+    <a href="https://link.springer.com/article/10.1007/s10440-026-00768-8" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
@@ -324,6 +324,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
