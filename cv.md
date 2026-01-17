@@ -445,6 +445,8 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 ## Supervision
 ## AU Undergraduate Student Supervision
+- Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
+  Project Title: Introduction to Probability Theory.
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
   Project Title: Advanced Engineering Mathematics focusing on Differential Equations.
 - Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - 2025/9) <br>
@@ -624,4 +626,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `cb66266` on 2026-01-15 19:38 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `c31440d` on 2026-01-17 02:08 UTC_
