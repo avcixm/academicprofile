@@ -61,7 +61,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
     <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>. Accepted <strong>(2026)</strong>.
-    <a href="https://www.tandfonline.com/action/showAxaArticles?journalCode=tqma20" target="_blank" rel="noopener">Website</a>
+    <a href="https://www.tandfonline.com/doi/abs/10.2989/16073606.2025.2604548" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Monotone operator methods for a class of nonlocal multi-phase variable exponent problems. <em>Acta Applicandae Mathematicae</em>. Vol. 201, article number 7 <strong>(2026)</strong>.
     <a href="https://link.springer.com/article/10.1007/s10440-026-00768-8" target="_blank" rel="noopener">Website</a>
@@ -324,6 +324,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
