@@ -46,7 +46,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Probabilistic models of finance and mathematical physics
 
 ## Research Funding (Awards & Grants)
-- External Funding Application: Applied for NSERC-Discovery Grants (Individual) Program Nov 2025, in process.
+- External Funding Application: Applied for NSERC-Discovery Grants Program Nov 2025, in process.
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
 - Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2026)
@@ -626,4 +626,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `38bbed0` on 2026-01-29 19:23 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `f3cc0dd` on 2026-01-30 14:53 UTC_
