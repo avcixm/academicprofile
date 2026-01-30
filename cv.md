@@ -49,7 +49,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - External Funding Application: Applied for NSERC-Discovery Grants Program Nov 2025, in process.
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
-- Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2026)
+- Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2027)
 - International Postdoctoral Research Fellowship Program. Scientific and Technological Research Council of Turkey (TUBITAK) (Grant No: 1059B191400450, 2014-2015).
   <a href="https://tubitak.gov.tr/en/scholarships/postdoctoral/research-scholarship-programs/2219-international-postdoctoral-research-fellowship-program-turkish-citizens" target="_blank" rel="noopener">Website</a>
 - Dicle University Scientific Project Research Management (DUPAB) Grant (2007 - 2009)<br>
@@ -626,4 +626,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `f3cc0dd` on 2026-01-30 14:53 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `0b7cf3b` on 2026-01-30 14:53 UTC_
