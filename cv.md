@@ -504,6 +504,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Canadian Mathematical Society, Member (2023/12 - present)
   
 ## Editorial Activities
+- Editorial Board Member - Discrete Dynamics in Nature and Society (2026 - present)
+- Editorial Board Member - International Journal of Mathematics and Mathematical Sciences (2026 - present)
+- Editorial Board Member - Journal of Mathematics (2026 - present)
 - Editorial Board Member - Mathematics, Informatics, Physics: Science and Education (2025 - present)
 - Editorial Board Member - Mathematics and Statistics (2025 - present)
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - present)
@@ -626,4 +629,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `0b7cf3b` on 2026-01-30 14:53 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `13e0704` on 2026-01-31 04:55 UTC_
