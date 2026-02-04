@@ -18,7 +18,7 @@ permalink: /supervision/
 - Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
   Project Title: Introduction to Probability Theory.
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
-  Project Title: Advanced Engineering Mathematics focusing on Differential Equations.
+  Project Title: Advanced Engineering Mathematics Focusing on Differential Equations.
 - Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - 2025/9) <br>
   Project Title: Application of the Fixed-point Theorems to the Solutions of Differential Equations.
 - Amina Anna Mahamane Ousmane - MATH 495 Mathematics Projects I. (2025/5 - 2025/6) <br>
