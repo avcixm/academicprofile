@@ -13,6 +13,8 @@ permalink: /supervision/
 
 <!-- CV:START SUPERVISION -->
 ## <small>AU Undergraduate Student Supervision</small>
+- Mahin Khan - MATH 493 Special Study II. (2026/2 - ) <br>
+  Project Title: Stochastic Calculus.
 - Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
   Project Title: Introduction to Probability Theory.
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
