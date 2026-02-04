@@ -445,6 +445,8 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 ## Supervision
 ## AU Undergraduate Student Supervision
+- Mahin Khan - MATH 493 Special Study II. (2026/2 - ) <br>
+  Project Title: Stochastic Calculus.
 - Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
   Project Title: Introduction to Probability Theory.
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
@@ -629,4 +631,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `13e0704` on 2026-01-31 04:55 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `4d10d8a` on 2026-02-04 03:31 UTC_
