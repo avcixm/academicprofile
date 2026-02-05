@@ -12,6 +12,9 @@ permalink: /service_contributions/
 </div>
 
 <!-- CV:START SERVICE -->
+## <small>AU Administrative Contributions</small>
+- Facutly of Science and Technology (FST) - Undergraduate Program Council Director - (2026 - present)
+
 ## <small>AU Standing Committee Memberships</small>
 - FST Faculty Council - (2022 - present)
 - FST Undergraduate Program Council - (2025 - present)
