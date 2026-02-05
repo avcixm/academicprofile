@@ -475,6 +475,9 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Mustafa Yılmaz, Approximation by Continuous Functions in L^p Lebesgue Spaces, M.Sc. Mathematics (project-based, non-thesis), Batman University, 2016.
 
 ## Service & Contributions
+## AU Administrative Contributions
+- Facutly of Science and Technology (FST) - Undergraduate Program Council Director - (2026 - present)
+
 ## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - present)
 - FST Undergraduate Program Council - (2025 - present)
@@ -631,4 +634,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `bb96fe0` on 2026-02-04 03:32 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `c3a2bc5` on 2026-02-05 20:18 UTC_
