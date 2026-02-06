@@ -488,6 +488,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - APDF - Replacement term - (2023 - 2025)
 
 ## AU Ad Hoc Committee/Group Memberships 
+- Program Development Working Group - (2026 - present)
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
 - Faculty of Graduate Studies (FGS) Awards Review Committee - (2025 - present)
@@ -634,4 +635,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `c3a2bc5` on 2026-02-05 20:18 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `ef4a73e` on 2026-02-06 20:51 UTC_
