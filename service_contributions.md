@@ -25,6 +25,7 @@ permalink: /service_contributions/
 - APDF - Replacement term - (2023 - 2025)
 
 ## <small>AU Ad Hoc Committee/Group Memberships</small> 
+- Program Development Working Group - (2026 - present)
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
 - Faculty of Graduate Studies (FGS) Awards Review Committee - (2025 - present)
