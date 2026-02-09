@@ -15,7 +15,7 @@ permalink: /professional_development/
 ## <small>Continued Professional Development</small> 
 - GenAI in Academic Research: Tools, Ethics, and Good Practice. Athabasca University, 2026.
 - Higher Education Teaching Certificate. Harvard University, Derek Bok Center for Teaching and Learning, Oct-Dec 2020 (Online).
-- Orientation for Distance Education–The Centre for Professional and Part-time Learning. Durham College, 2020.
+- Orientation for Distance Education. The Centre for Professional and Part-time Learning. Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop. Trent University, 2020.
 - How to Deliver Experiential Learning in a Remote Course. Centre for Teaching & Learning, Trent University, 2020.
 - Developing Your Course Syllabus. The Gwenna Moss Centre for Teaching and Learning, University of Saskatchewan, 2020.
