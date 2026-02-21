@@ -476,7 +476,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 
 ## Service & Contributions
 ## AU Administrative Contributions
-- Facutly of Science and Technology (FST) - Undergraduate Program Council Director - (2026 - present)
+- Facutly of Science and Technology (FST) - Undergraduate Program Director - (2026 - present)
 
 ## AU Standing Committee Memberships
 - FST Faculty Council - (2022 - present)
@@ -497,6 +497,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Applied Math Program Advisory Committee - (2025 - present)
 - Mobius Ladership Group - (2024 - present)
 - Hiring Committee service-Assistant Professor - Applied Math.
+- Hiring Committee service-Tutor - MATH 265
 - Hiring Committee service-Tutor - MATH 216
 - Hiring Committee service-Tutor - MATH 266
 - Hiring Committee service-Tutor - MATH 309
@@ -636,4 +637,4 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `a2a4fcf` on 2026-02-09 18:04 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `bbb11e8` on 2026-02-21 05:04 UTC_
