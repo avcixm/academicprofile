@@ -13,7 +13,7 @@ permalink: /service_contributions/
 
 <!-- CV:START SERVICE -->
 ## <small>AU Administrative Contributions</small>
-- Facutly of Science and Technology (FST) - Undergraduate Program Council Director - (2026 - present)
+- Facutly of Science and Technology (FST) - Undergraduate Program Director - (2026 - present)
 
 ## <small>AU Standing Committee Memberships</small>
 - FST Faculty Council - (2022 - present)
@@ -34,6 +34,7 @@ permalink: /service_contributions/
 - Applied Math Program Advisory Committee - (2025 - present)
 - Mobius Ladership Group - (2024 - present)
 - Hiring Committee service-Assistant Professor - Applied Math.
+- Hiring Committee service-Tutor - MATH 265
 - Hiring Committee service-Tutor - MATH 216
 - Hiring Committee service-Tutor - MATH 266
 - Hiring Committee service-Tutor - MATH 309
