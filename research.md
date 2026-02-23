@@ -17,13 +17,13 @@ sidebar:
 <!-- CV:START RESEARCH -->
 
 ## <small>Research Interests</small>
+- Variable Exponent Lebesgue Spaces
 - Analysis of Partial Differential Equations (PDEs) 
 - Analysis of Stochastic Differential Equations (SDEs) 
-- Variable Exponent Lebesgue Spaces
 - Stochastic Analysis & Applications
 
 ## <small>Research Specialization Keywords</small>
-Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Methods; Nonlinear Analysis; SDEs; Stochastic Analysis and Applications; Measure-Theoretic Probability.
+Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; PDEs; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; SDEs; Stochastic Analysis and Applications; Measure-Theoretic Probability.
 
 ## <small>Research In Progress</small>
 - Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
@@ -324,6 +324,7 @@ Variable Exponent Lebesgue Spaces; Variational Methods; PDEs; Topological Method
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
