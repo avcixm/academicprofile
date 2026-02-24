@@ -479,12 +479,12 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Facutly of Science and Technology (FST) - Undergraduate Program Director - (2026 - present)
 
 ## AU Standing Committee Memberships
-- FST Faculty Council - (2022 - present)
 - FST Undergraduate Program Council - (2025 - present)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - present)
 - Academic Research Fund Committee (ARF) - (2024 - present)
 - GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - present)
 - GFC Academic Research Committee (ARC)- (2024 - present)
+- FST Faculty Council - (2022 - present)
 - APDF - Replacement term - (2023 - 2025)
 
 ## AU Ad Hoc Committee/Group Memberships 
@@ -637,4 +637,4 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `53624e7` on 2026-02-23 03:18 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `d362239` on 2026-02-24 22:51 UTC_
