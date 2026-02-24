@@ -16,12 +16,12 @@ permalink: /service_contributions/
 - Facutly of Science and Technology (FST) - Undergraduate Program Director - (2026 - present)
 
 ## <small>AU Standing Committee Memberships</small>
-- FST Faculty Council - (2022 - present)
 - FST Undergraduate Program Council - (2025 - present)
 - Academic & Professional Development Fund Committee (APDF) - (2025 - present)
 - Academic Research Fund Committee (ARF) - (2024 - present)
 - GFC Academic Planning, Policy, and Standards Committee (APPSC) - (2024 - present)
 - GFC Academic Research Committee (ARC)- (2024 - present)
+- FST Faculty Council - (2022 - present)
 - APDF - Replacement term - (2023 - 2025)
 
 ## <small>AU Ad Hoc Committee/Group Memberships</small> 
