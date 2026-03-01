@@ -497,8 +497,8 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Applied Math Program Advisory Committee - (2025 - present)
 - Mobius Ladership Group - (2024 - present)
 - Hiring Committee service-Assistant Professor - Applied Math.
-- Hiring Committee service-Tutor - MATH 265
 - Hiring Committee service-Tutor - MATH 216
+- Hiring Committee service-Tutor - MATH 265
 - Hiring Committee service-Tutor - MATH 266
 - Hiring Committee service-Tutor - MATH 309
 - Hiring Committee service-Tutor - MATH 376
@@ -637,4 +637,4 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `d362239` on 2026-02-24 22:51 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `0aca27e` on 2026-03-01 20:42 UTC_
