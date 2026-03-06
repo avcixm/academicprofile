@@ -552,6 +552,7 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
     <li>Reviewer for American Mathematical Society/MathSciNet Reviews</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
     <li>Acta Mathematica Scienta</li>
+    <li>Acta Universitatis Sapientiae, Mathematica</li>
     <li>Advances in Nonlinear Analysis</li>
     <li>Afrika Matematika</li>
     <li>AIMS Mathematics</li>
@@ -638,4 +639,4 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `5d5194c` on 2026-03-06 03:07 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `cc58a7c` on 2026-03-06 03:09 UTC_
