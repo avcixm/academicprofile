@@ -594,6 +594,7 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
+    <li>Nonlinear Analysis Real World Applications</li>
     <li>Numerical Algorithms</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
     <li>Rocky Mountain Journal of Mathematics</li>
@@ -637,4 +638,4 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `0aca27e` on 2026-03-01 20:42 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `534e2f6` on 2026-03-06 03:05 UTC_
