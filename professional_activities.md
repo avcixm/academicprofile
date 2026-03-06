@@ -96,6 +96,7 @@ permalink: /professional_activities/
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
+    <li>Nonlinear Analysis Real World Applications</li>
     <li>Numerical Algorithms</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
     <li>Rocky Mountain Journal of Mathematics</li>
