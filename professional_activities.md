@@ -54,6 +54,7 @@ permalink: /professional_activities/
     <li>Reviewer for American Mathematical Society/MathSciNet Reviews</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
     <li>Acta Mathematica Scienta</li>
+    <li>Acta Universitatis Sapientiae, Mathematica</li>
     <li>Advances in Nonlinear Analysis</li>
     <li>Afrika Matematika</li>
     <li>AIMS Mathematics</li>
