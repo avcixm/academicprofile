@@ -58,7 +58,7 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
   <summary><small>Published/Accepted</small></summary>
   <ol>
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
-Stochastic Analysis</em>. Accepted <strong>(2026)</strong>.
+Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
       <a href="https://repository.lsu.edu/josa/" target="_blank" rel="noopener">Website</a>.</li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. To appear <strong>(2026)</strong>.
     <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
@@ -326,6 +326,7 @@ Stochastic Analysis</em>. Accepted <strong>(2026)</strong>.
 </details>
 
 <!-- CV:END RESEARCH -->
+
 
 
 
