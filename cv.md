@@ -74,6 +74,9 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 
 
   <ol>
+    <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
+Stochastic Analysis</em>. Accepted <strong>(2026)</strong>.
+      <a href="https://repository.lsu.edu/josa/" target="_blank" rel="noopener">Website</a>.</li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. To appear <strong>(2026)</strong>.
     <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
     </li>
@@ -292,7 +295,6 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 
 
   <ol>
-    <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. Under review.</li>
     <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
@@ -639,4 +641,4 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `657e4b2` on 2026-03-10 17:57 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `028b8ec` on 2026-03-13 02:15 UTC_
