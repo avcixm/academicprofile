@@ -448,24 +448,24 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 ## Supervision
 ## AU Undergraduate Student Supervision
 - Mahin Khan - MATH 493 Special Study II. (2026/2 - ) <br>
-  Project Title: Stochastic Calculus.
+  Project Title: Stochastic Calculus
 - Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
-  Project Title: Introduction to Probability Theory.
+  Project Title: Probability and Introduction to Stochastic Processes
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
-  Project Title: Advanced Engineering Mathematics Focusing on Differential Equations.
+  Project Title: Advanced Engineering Mathematics Focusing on Differential Equations
 - Pascale Boudreau - MATH 495 Mathematics Projects I. (2025/1 - 2025/9) <br>
-  Project Title: Application of the Fixed-point Theorems to the Solutions of Differential Equations.
+  Project Title: Application of the Fixed-point Theorems to the Solutions of Differential Equations
 - Amina Anna Mahamane Ousmane - MATH 495 Mathematics Projects I. (2025/5 - 2025/6) <br>
   Project Title: Investigating the Effectiveness of Optimization Methods : Full-Batch Gradient Descent vs. 
-  Stochastic Gradient Descent for Training Regression Models on Housing Market Data.
+  Stochastic Gradient Descent for Training Regression Models on Housing Market Data
 - John Didiodato - MATH 493 Special Study II. (2024/1 - 2024/5) <br>
-  Project Title: Mathematical Finance.
+  Project Title: Mathematical Finance
 - Andre Leke Umambo - MATH 495 Mathematics Projects I. (2023/7 - 2023/11) <br>
-  Project Title: The Queuing System.
+  Project Title: The Queuing System
 - Alexander van Dijk - MATH 493 Special Study II. (2022/9 - 2022/12) <br>
-  Project Title: Introduction to Mathematical Finance.
+  Project Title: Introduction to Mathematical Finance
 - Mahin Khan - MATH 492 Special Study I. (2024/7 - 2024/12) <br>
-  Project Title: Measure Theory and Lebesgue Integration.
+  Project Title: Measure Theory and Lebesgue Integration
 
 ## Theses Supervised
 - Berat Süer - On Solutions of the Ginzburg-Landau-type Equation in Orlicz-Sobolev Spaces, M.Sc. Mathematics (Co-supervisor), Batman University, 2020.
@@ -641,4 +641,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `a0dc903` on 2026-03-13 02:20 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `3daa147` on 2026-04-09 00:48 UTC_
