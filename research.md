@@ -60,8 +60,8 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
 Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
       <a href="https://repository.lsu.edu/josa/" target="_blank" rel="noopener">Website</a>.</li>
-    <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. To appear <strong>(2026)</strong>.
-    <a href="https://journal.pmf.ni.ac.rs/filomat/index.php/filomat/issue/view/269" target="_blank" rel="noopener">Website</a>
+    <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. 40 (9) <strong>(2026)</strong>, 3239–3254.
+    <a href="https://journal3.pmf.ni.ac.rs/filomat/filomat/article/view/561" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>, 1–21. <strong>(2026)</strong>.
     <a href="https://www.tandfonline.com/doi/abs/10.2989/16073606.2025.2604548" target="_blank" rel="noopener">Website</a>
