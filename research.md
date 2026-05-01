@@ -82,7 +82,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
       <a href="https://www.aimspress.com/article/doi/10.3934/math.2025984?viewType=HTML" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Three Solutions for a double-phase variable-exponent Kirchhoff problem, <em>Mathematics</em> 13(15) <strong>(2025)</strong>, 2462.
+      Three Solutions for a double-phase variable-exponent Kirchhoff problem, <em>Mathematics</em> 13(15) <strong>(2025)</strong>, 2462 (<strong>selected as an Editor’s Choice Article</strong>).
       <a href="https://www.mdpi.com/2227-7390/13/15/2462" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
