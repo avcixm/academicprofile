@@ -42,5 +42,6 @@ permalink: /service_contributions/
 - Hiring Committee service-Tutor - MATH 476
 - Hiring Committee service-Tutor - MATH 480
 - Hiring Committee service-Tutor - MATH 481
-
+## <small>Service to Society</small> 
+- Leading a session for SHAD Canada - (July 2026)
 <!-- CV:END SERVICE -->
