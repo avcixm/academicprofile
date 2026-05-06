@@ -15,6 +15,8 @@ sidebar:
 </div>
 
 <!-- CV:START RESEARCH -->
+## <small>Erdos Number</small>
+-  Erdos Number: 4. <a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=849785&target=189017" target="_blank" rel="noopener">Website</a>
 
 ## <small>Research Interests</small>
 - Variable Exponent Lebesgue Spaces
