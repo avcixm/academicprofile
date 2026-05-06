@@ -30,6 +30,9 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
  - Instructor, Economics and Administrative Sciences Programs, Dicle University (2009/1 - 2013/3).
 
 ## Research
+## Erdos Number
+-  Erdos Number: 4. <a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=849785&target=189017" target="_blank" rel="noopener">Website</a>
+
 ## Research Interests
 - Variable Exponent Lebesgue Spaces
 - Analysis of Partial Differential Equations (PDEs) 
@@ -644,4 +647,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `709859f` on 2026-05-06 02:46 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `763918f` on 2026-05-06 02:57 UTC_
