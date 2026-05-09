@@ -368,7 +368,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - MATH 260 Calculus for Social Sciences and Economics (2022 — present) (Supervising 1 tutor, 1 marker)
 - MATH 366 Complex Variables I (2022 — present) (Supervising 1 tutor)
 - MATH 370 Applied Real Analysis (2022 — present) (Supervising 1 tutor)
-- MATH 376 Ordinary Differential Equations (2025 — present) (Supervising 2 tutors)
+- MATH 376 Ordinary Differential Equations (2025 — present) (Supervising 1 tutor)
 - MATH 492 Special Study I (2022 — present)
 - MATH 493 Special Study II (2022 — present)
 - MATH 495 Mathematics Projects I (2022 — present)
@@ -650,4 +650,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `cea5377` on 2026-05-09 03:54 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `4c1600e` on 2026-05-09 03:57 UTC_
