@@ -621,7 +621,9 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 
 ## Professional Development
 ## Continued Professional Development 
-- GenAI in Academic Research: Tools, Ethics, and Good Practice. Athabasca University, 2026.
+- Using AI in Scientific Writing. By SPRINGERNATURE. Certificate of Completion. April, 2026.
+- GenAI in Academic Research: Tools, Ethics, and Good Practice. Athabasca University. Certificate of Completion. February, 2026.
+- Generative AI in the Publishing Community. By Researcher Academy-ELSEVIER. Certificate of Completion. August, 2025. 
 - Higher Education Teaching Certificate. Harvard University, Derek Bok Center for Teaching and Learning, Oct-Dec 2020 (Online).
 - Orientation for Distance Education. The Centre for Professional and Part-time Learning. Durham College, 2020.
 - Valuing Diversity and Supporting Inclusivity-Virtual Workshop. Trent University, 2020.
@@ -648,4 +650,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `333ec5e` on 2026-05-09 03:40 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `cea5377` on 2026-05-09 03:54 UTC_
