@@ -25,6 +25,7 @@ permalink: /service_contributions/
 - APDF - Replacement term - (2023 - 2025)
 
 ## <small>AU Ad Hoc Committee/Group Memberships</small> 
+- BSc ENVS Program Development Committee - (2026 - present)
 - Program Development Working Group - (2026 - present)
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
