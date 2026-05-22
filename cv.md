@@ -494,6 +494,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - APDF - Replacement term - (2023 - 2025)
 
 ## AU Ad Hoc Committee/Group Memberships 
+- BSc ENVS Program Development Committee - (2026 - present)
 - Program Development Working Group - (2026 - present)
 - Research Information Management System (RIMS) Advisory Group - (2023 - 2024)
 - Tri-Agency Undergraduate Student Research Award Selection Committee (USRA) - (2025 - present)
@@ -650,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `4c1600e` on 2026-05-09 03:57 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `cc25083` on 2026-05-22 17:51 UTC_
