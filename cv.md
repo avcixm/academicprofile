@@ -77,11 +77,11 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 
 
   <ol>
-    <li>Existence Results for a p(x)-Kirchhoff-type Equation with Double Singularity (with B. Cekic, Z. Yucedag). <em>The Journal of Analysis</em>. To appear <strong>(2026)</strong>.
-      <a href="https://link.springer.com/journal/41478" target="_blank" rel="noopener">Website</a>.</li>
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
 Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
       <a href="https://repository.lsu.edu/josa/" target="_blank" rel="noopener">Website</a>.</li>
+    <li>Existence Results for a p(x)-Kirchhoff-type Equation with Double Singularity (with B. Cekic, Z. Yucedag). <em>The Journal of Analysis</em>. <strong>(2026)</strong>.
+      <a href="https://link.springer.com/journal/41478" target="_blank" rel="noopener">Website</a>.</li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. 40 (9) <strong>(2026)</strong>, 3239–3254.
     <a href="https://journal3.pmf.ni.ac.rs/filomat/filomat/article/view/561" target="_blank" rel="noopener">Website</a>
     </li>
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `cc25083` on 2026-05-22 17:51 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b7d7181` on 2026-06-12 14:33 UTC_
