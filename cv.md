@@ -92,7 +92,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
     <a href="https://link.springer.com/article/10.1007/s10440-026-00768-8" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
+      Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. <strong>(2025)</strong>.
       <a href="https://www.jneea.com/2025-8" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `3f34f24` on 2026-06-25 16:04 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `06df250` on 2026-06-25 16:04 UTC_
