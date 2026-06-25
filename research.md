@@ -74,7 +74,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
     <a href="https://link.springer.com/article/10.1007/s10440-026-00768-8" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
-      Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. <strong>(2025)</strong>.
+      Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Vol. 2025, number 8, 143–157 <strong>(2025)</strong>.
       <a href="https://www.jneea.com/2025-8" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
