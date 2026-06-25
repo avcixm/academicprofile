@@ -93,7 +93,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
     </li>
     <li>
       Existence and multiplicity of solutions for a discrete fourth-order boundary value problem (with M. Boroun, S. Heidarkhani), <em>Journal of Nonlinear Evolution Equations and Applications</em>. Accepted <strong>(2025)</strong>.
-      <a href="https://www.jneea.com/accepted_id=2502251" target="_blank" rel="noopener">Website</a>
+      <a href="https://www.jneea.com/2025-8" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Anisotropic singular equation with (p(⋅), q(⋅))-Laplacian operator and Hardy-type potential, <em>Acta Universitatis Sapientiae Mathematica</em>. Vol. 17, article number 18 <strong>(2025)</strong>.
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `c0664e5` on 2026-06-12 17:47 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `3f34f24` on 2026-06-25 16:04 UTC_
