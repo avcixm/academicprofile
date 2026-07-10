@@ -482,7 +482,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 
 ## Service & Contributions
 ## AU Administrative Contributions
-- Facutly of Science and Technology (FST) - Undergraduate Program Director - (2026 - present)
+- Facutly of Science and Technology (FST) - Undergraduate Program Director (interim) - (01/2026 - 06/2026)
 
 ## AU Standing Committee Memberships
 - FST Undergraduate Program Council - (2025 - present)
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `3d563f3` on 2026-06-25 16:06 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `78ac5cc` on 2026-07-10 03:07 UTC_
