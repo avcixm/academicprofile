@@ -49,7 +49,7 @@ Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; 
 - Probabilistic models of finance and mathematical physics
 
 ## Research Funding (Awards & Grants)
-- External Funding Application: Applied for NSERC-Discovery Grants Program Nov 2025, in process.
+- External Funding Application: Applied for NSERC-Discovery Grants Program (Nov 2025).
   <a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">Website</a>
 - Athabasca University Academic Research Fund-Publication Award (2025)
 - Athabasca University Research Incentive Account (Grant No: 140111RIA, 2023-2027)
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `78ac5cc` on 2026-07-10 03:07 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `b53f109` on 2026-07-10 03:08 UTC_
