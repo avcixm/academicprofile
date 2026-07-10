@@ -13,7 +13,7 @@ permalink: /service_contributions/
 
 <!-- CV:START SERVICE -->
 ## <small>AU Administrative Contributions</small>
-- Facutly of Science and Technology (FST) - Undergraduate Program Director - (2026 - present)
+- Facutly of Science and Technology (FST) - Undergraduate Program Director (interim) - (01/2026 - 06/2026)
 
 ## <small>AU Standing Committee Memberships</small>
 - FST Undergraduate Program Council - (2025 - present)
