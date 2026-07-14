@@ -20,8 +20,8 @@ sidebar:
 
 ## <small>Research Interests</small>
 - Variable Exponent Lebesgue Spaces
-- Analysis of Partial Differential Equations (PDEs) 
-- Analysis of Stochastic Differential Equations (SDEs) 
+- Analysis of PDEs
+- Analysis of SDEs
 - Stochastic Analysis & Applications
 
 ## <small>Research Specialization Keywords</small>
