@@ -35,8 +35,8 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## Research Interests
 - Variable Exponent Lebesgue Spaces
-- Analysis of Partial Differential Equations (PDEs) 
-- Analysis of Stochastic Differential Equations (SDEs) 
+- Analysis of PDEs
+- Analysis of SDEs
 - Stochastic Analysis & Applications
 
 ## Research Specialization Keywords
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `8276b9f` on 2026-07-14 15:49 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `fa5c6c3` on 2026-07-14 15:54 UTC_
