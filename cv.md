@@ -40,7 +40,7 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 - Analysis of SDEs
 
 ## Research Specialization Keywords
-Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; PDEs; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; SDEs; Stochastic Analysis and Applications; Measure-Theoretic Probability; Malliavin calculus.
+Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; PDEs; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; SDEs; Stochastic Process; Measure-Theoretic Probability; Malliavin calculus.
 
 ## Research In Progress
 - Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
@@ -651,4 +651,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `29bc2fc` on 2026-07-14 15:55 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `3a39068` on 2026-07-14 15:56 UTC_
