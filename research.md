@@ -25,7 +25,7 @@ sidebar:
 - Analysis of SDEs
 
 ## <small>Research Specialization Keywords</small>
-Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; PDEs; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; SDEs; Stochastic Process; Measure-Theoretic Probability; Malliavin calculus.
+Variable Exponent Lebesgue-Sobolev Spaces; p(x)-Laplacian; Variational Methods; PDEs; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; SDEs; Stochastic Process; Measure-Theoretic Probability; Malliavin Calculus.
 
 ## <small>Research In Progress</small>
 - Analysis & Applications of SDEs with state-dependent variable exponent drift and diffusion
