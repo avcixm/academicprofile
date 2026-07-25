@@ -513,7 +513,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Hiring Committee service-Tutor - MATH 481
 
 ## Service to Society 
-- Leading a session for SHAD Canada - (July 2026)
+- Guest speaker for SHAD Canada - (July 2026)
 
 ## Professional Activities
 ## Service to Discipline
@@ -650,4 +650,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `63fa767` on 2026-07-18 03:55 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `4572a3a` on 2026-07-25 20:03 UTC_
