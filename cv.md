@@ -132,7 +132,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
     </li>
     <li>
       Solutions of Ginzburg–Landau-type equations involving variable exponent, <em>Thai Journal of Mathematics</em> 20(1) <strong>(2022)</strong>, 369–384.
-      <a href="https://thaijmath2.in.cmu.ac.th/index.php/thaijmath/article/view/1331" target="_blank" rel="noopener">Website</a>
+      <a href="https://thaijmath.com/index.php/thaijmath/article/view/1331" target="_blank" rel="noopener">Website</a>
     </li>
     <li>
       Critical points approaches to a nonlocal elliptic problem driven by p(x)–biharmonic operator (with S. Heidarkhani, S. Moradi), <em>Georgian Mathematical Journal</em> 29(1) <strong>(2021)</strong>, 55–69.
@@ -650,4 +650,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `dac3e7f` on 2026-07-28 16:16 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `46b3c12` on 2026-08-12 02:13 UTC_
