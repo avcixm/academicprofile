@@ -38,8 +38,8 @@ My research lies at the intersection of analysis, probability, and mathematical 
 
 Current research interests include:
 - Variable Exponent Lebesgue Spaces and Related Function Spaces
-- Stochastic Analysis and Applications
 - Analysis of Partial Differential Equations (PDEs)
+- Stochastic Analysis and Applications 
 - Theory and Applications of Stochastic Differential Equations (SDEs)
 
 ## Research Specialization Keywords
@@ -653,4 +653,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `e2ca0c4` on 2026-08-13 16:42 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `168fd8a` on 2026-08-13 16:47 UTC_
