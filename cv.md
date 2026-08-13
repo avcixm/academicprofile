@@ -34,11 +34,14 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 -  Erdos Number: 4. <a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=849785&target=189017" target="_blank" rel="noopener">Website</a>
 
 ## Research Interests
-My research explores the interface between analysis, probability, and mathematical modeling.
-- Variable Exponent Lebesgue Spaces
-- Stochastic Analysis & Applications
-- Analysis of PDEs
-- Analysis of SDEs
+My research lies at the intersection of analysis, probability, and mathematical modeling, with a particular focus on the theoretical foundations and applications of modern analytical and stochastic methods.
+
+Current research interests include:
+
+-Variable Exponent Lebesgue Spaces and Related Function Spaces
+-Stochastic Analysis and Applications
+-Analysis of Partial Differential Equations (PDEs)
+-Theory and Applications of Stochastic Differential Equations (SDEs)
 
 ## Research Specialization Keywords
 Variable Exponent Lebesgue-Sobolev Spaces; PDEs; Calculus of Variations; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; Stochastic Process; SDEs; Measure-Theoretic Probability; Malliavin Calculus.
@@ -651,4 +654,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `3bdcbf0` on 2026-08-13 16:33 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `da40b70` on 2026-08-13 16:41 UTC_
