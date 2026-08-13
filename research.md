@@ -23,8 +23,8 @@ My research lies at the intersection of analysis, probability, and mathematical 
 
 Current research interests include:
 - Variable Exponent Lebesgue Spaces and Related Function Spaces
-- Stochastic Analysis and Applications
 - Analysis of Partial Differential Equations (PDEs)
+- Stochastic Analysis and Applications 
 - Theory and Applications of Stochastic Differential Equations (SDEs)
 
 ## <small>Research Specialization Keywords</small>
