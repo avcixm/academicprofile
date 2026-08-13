@@ -22,11 +22,10 @@ sidebar:
 My research lies at the intersection of analysis, probability, and mathematical modeling, with a particular focus on the theoretical foundations and applications of modern analytical and stochastic methods.
 
 Current research interests include:
-
--Variable Exponent Lebesgue Spaces and Related Function Spaces
--Stochastic Analysis and Applications
--Analysis of Partial Differential Equations (PDEs)
--Theory and Applications of Stochastic Differential Equations (SDEs)
+- Variable Exponent Lebesgue Spaces and Related Function Spaces
+- Stochastic Analysis and Applications
+- Analysis of Partial Differential Equations (PDEs)
+- Theory and Applications of Stochastic Differential Equations (SDEs)
 
 ## <small>Research Specialization Keywords</small>
 Variable Exponent Lebesgue-Sobolev Spaces; PDEs; Calculus of Variations; Topological Methods; Monotone Operator Methods; Nonlinear Analysis; Stochastic Process; SDEs; Measure-Theoretic Probability; Malliavin Calculus.
