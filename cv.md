@@ -321,6 +321,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 
   <ol>
     <li>On a singular double phase variable exponent problem: A topological approach</li>
+    <li>A generalized stochastic framework for the $p(x)$-Laplacian</li>
   </ol>
 
 
@@ -653,4 +654,4 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `168fd8a` on 2026-08-13 16:47 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `660a118` on 2026-08-17 21:24 UTC_
