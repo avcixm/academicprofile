@@ -293,7 +293,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
   <summary><small>Work in progress</small></summary>
   <ol>
     <li>On a singular double phase variable exponent problem: A topological approach</li>
-    <li>A Generalized Stochastic Framework for the $p(x)$-Laplacian</li>
+    <li>A generalized stochastic framework for the $p(x)$-Laplacian</li>
   </ol>
 </details>
 
