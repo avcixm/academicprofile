@@ -294,7 +294,7 @@ Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
   <ol>
     <li>On a singular double phase variable exponent problem: A topological approach</li>
     <li>Linearized spectral structure for the p(x)-Laplacian</li>
-    <li>A generalized stochastic framework for the p(x)-Laplacian</li>
+    <li>Regularized Itô Diffusions for the p(x)-Laplacian</li>
   </ol>
 </details>
 
