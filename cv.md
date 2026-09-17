@@ -528,7 +528,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Editorial Board Member - Discrete Dynamics in Nature and Society (2026 - present)
 - Editorial Board Member - International Journal of Mathematics and Mathematical Sciences (2026 - present)
 - Editorial Board Member - Journal of Mathematics (2026 - present)
-- Editorial Board Member - Mathematics, Informatics, Physics: Science and Education (2025 - present)
+- Editorial Board Member - Mathematics, Informatics, Physics: Science and Education (2026 - present)
 - Editorial Board Member - Mathematics and Statistics (2025 - present)
 - Editorial Board Member - Advances in Differential Equations and Control Processes (2025 - present)
 - Editorial Board Member - Pure and Applied Mathematics Journal (2025 - present)
@@ -655,4 +655,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `22bbeff` on 2026-09-03 17:17 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `d45f407` on 2026-09-17 14:14 UTC_
