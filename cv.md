@@ -303,6 +303,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 
   <ol>
     <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity. Under review.</li>
+    <li>A Topological approach to singular double-phase equations with variable exponents. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
     <li>On the geometric Brownian motion with state-dependent variable exponent diffusion term. Under review.</li>
     <li>Existence and uniqueness results for a singular elliptic problem governed by an anisotropic (p(⋅), q(⋅))-Kirchhoff-type operator. Under review.</li>
@@ -320,7 +321,6 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 
 
   <ol>
-    <li>On a singular double phase variable exponent problem: A topological approach</li>
     <li>Linearized spectral structure for the p(x)-Laplacian</li>
     <li>A regularized Ito diffusion framework for the p(x)-Laplacian</li>
   </ol>
@@ -655,4 +655,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `d45f407` on 2026-09-17 14:14 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `cfdd794` on 2026-09-17 14:33 UTC_
