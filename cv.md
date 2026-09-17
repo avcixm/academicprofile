@@ -321,6 +321,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 
 
   <ol>
+    <li>Normalized solutions for singular regularized p(x)-Laplacian problems</li>
     <li>Linearized spectral structure for the p(x)-Laplacian</li>
     <li>A regularized Ito diffusion framework for the p(x)-Laplacian</li>
   </ol>
@@ -655,4 +656,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `43652d6` on 2026-09-17 14:34 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `e95e0c5` on 2026-09-17 14:37 UTC_
