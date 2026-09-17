@@ -293,6 +293,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 <details>
   <summary><small>Work in progress</small></summary>
   <ol>
+    <li>Normalized solutions for singular regularized p(x)-Laplacian problems</li>
     <li>Linearized spectral structure for the p(x)-Laplacian</li>
     <li>A regularized Ito diffusion framework for the p(x)-Laplacian</li>
   </ol>
