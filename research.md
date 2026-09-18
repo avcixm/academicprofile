@@ -279,6 +279,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 <details>
   <summary><small>Submitted</small></summary>
   <ol>
+    <li>Positive normalized solutions for a singular regularized $p(x)$-Laplacian Dirichlet problem. Under review.</li>
     <li>A Topological approach to singular double-phase equations with variable exponents. Under review.</li>
     <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity. Under review.</li>
     <li>Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients. Under review.</li>
@@ -293,7 +294,6 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 <details>
   <summary><small>Work in progress</small></summary>
   <ol>
-    <li>Normalized solutions for singular regularized p(x)-Laplacian problems</li>
     <li>Linearized spectral structure for the p(x)-Laplacian</li>
     <li>A regularized Ito diffusion framework for the p(x)-Laplacian</li>
   </ol>
