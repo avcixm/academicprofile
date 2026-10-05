@@ -302,6 +302,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 
 
   <ol>
+    <li>Geometric and stochastic framework for a regularized p(x)-Laplacian. Under review.</li>
     <li>Positive normalized solutions for a singular regularized p(x)-Laplacian Dirichlet problem. Under review.</li>
     <li>A Topological approach to singular double-phase equations with variable exponents. Under review.</li>
     <li>Positive weak solutions of a double-phase variable exponent problem with a fractional-Hardy-type singular potential and superlinear nonlinearity. Under review.</li>
@@ -656,4 +657,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `e29f604` on 2026-09-18 02:08 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `8ab830a` on 2026-10-05 02:03 UTC_
