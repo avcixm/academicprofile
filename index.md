@@ -57,7 +57,7 @@ I am an Associate Professor in Applied Mathematics Department at Athabasca Unive
  - BSc Mathematics, Dicle University - 2001
 
 ## Professional Experience
- - Assistant Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2022-2026/7)
+ - Assistant Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2022/7-2026/7)
  - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
  - Tutor, Faculty of Science and Technology, Athabasca University (2021-2022/7)
  - Tutor, Faculty of Business, Athabasca University (2020-2022/7)
