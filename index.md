@@ -52,16 +52,13 @@ I am an Associate Professor in Applied Mathematics Department at Athabasca Unive
 <!-- CV:START HOME -->
 
 ## Degrees
- - PhD Mathematics, Dicle University - 2011
- - MSc Mathematics, Dicle University - 2007
- - BSc Mathematics, Dicle University - 2001
+ - PhD Mathematics, Dicle University
+ - MSc Mathematics, Dicle University
+ - BSc Mathematics, Dicle University
 
 ## Professional Experience
  - Assistant Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2022/7-2026/7)
  - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
- - Tutor, Faculty of Science and Technology, Athabasca University (2021-2022/7)
- - Tutor, Faculty of Business, Athabasca University (2020-2022/7)
- - Mathematics Facilitator (Online), Durham College (2020-2022)
  - Assistant Professor (Limited Term), Department of Mathematics, Trent University (2020/8 - 2021/7).
  - Instructor (Limited Term), Department of Science and Technology, Northwestern Polytechnic (Grande Prairie Reg Coll.) (2019/8 - 2020/4)
  - Instructor (Sessional), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2019/5 - 2019/8).
