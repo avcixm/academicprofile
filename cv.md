@@ -18,7 +18,8 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
  - BSc Mathematics, Dicle University
 
 ## Professional Experience
- - Assistant Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2022/7-2026/7)
+ - Associate Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2026/7--)
+ - Assistant Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2022/7-2026/6)
  - Lecturer (Term), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2021/7 - 2022/6).
  - Assistant Professor (Limited Term), Department of Mathematics, Trent University (2020/8 - 2021/7).
  - Instructor (Limited Term), Department of Science and Technology, Northwestern Polytechnic (Grande Prairie Reg Coll.) (2019/8 - 2020/4)
