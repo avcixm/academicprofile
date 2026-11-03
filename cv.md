@@ -13,9 +13,9 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
 
 ## 
 ## Degrees
- - PhD Mathematics, Dicle University - 2011
- - MSc Mathematics, Dicle University - 2007
- - BSc Mathematics, Dicle University - 2001
+ - PhD Mathematics, Dicle University 
+ - MSc Mathematics, Dicle University 
+ - BSc Mathematics, Dicle University 
 
 ## Professional Experience
  - Assistant Professor, Faculty of Science and Technology, Applied Mathematics, Athabasca University (2022/7-2026/7)
