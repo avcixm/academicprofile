@@ -13,9 +13,11 @@ permalink: /supervision/
 
 <!-- CV:START SUPERVISION -->
 ## <small>AU Undergraduate Student Supervision</small>
-- Mahin Khan - MATH 493 Special Study II. (2026/2 - ) <br>
+- Adriana	Vincelli-Joma - MATH 495 Mathematics Projects I. (2026/10 --) <br>
+  Project Title: A Comparative Analysis of Option Pricing Models Incorporating Partial Differential Equations and Stochastic Volatility
+- Mahin Khan - MATH 493 Special Study II. (2026/2 - 2026/9) <br>
   Project Title: Stochastic Calculus
-- Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
+- Keith Ganzer - MATH 492 Special Study I. (2026/1 - 2026/6) <br>
   Project Title: Probability and Introduction to Stochastic Processes
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
   Project Title: Advanced Engineering Mathematics Focusing on Differential Equations
