@@ -456,9 +456,11 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 
 ## Supervision
 ## AU Undergraduate Student Supervision
-- Mahin Khan - MATH 493 Special Study II. (2026/2 - ) <br>
+- Adriana	Vincelli-Joma - MATH 495 Mathematics Projects I. (2026/10 --) <br>
+  Project Title: A Comparative Analysis of Option Pricing Models Incorporating Partial Differential Equations and Stochastic Volatility
+- Mahin Khan - MATH 493 Special Study II. (2026/2 - 2026/9) <br>
   Project Title: Stochastic Calculus
-- Keith Ganzer - MATH 492 Special Study I. (2026/1 - ) <br>
+- Keith Ganzer - MATH 492 Special Study I. (2026/1 - 2026/6) <br>
   Project Title: Probability and Introduction to Stochastic Processes
 - M. Rizwan Hamidi - MATH 492 Special Study I. (2025/3 - 2025/12) <br>
   Project Title: Advanced Engineering Mathematics Focusing on Differential Equations
@@ -656,4 +658,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `68a9b6b` on 2026-11-03 20:18 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `465dfd3` on 2026-11-05 04:04 UTC_
