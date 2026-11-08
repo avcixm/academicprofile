@@ -567,6 +567,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 
   <ol>
     <li>Reviewer for American Mathematical Society/MathSciNet Reviews</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
+    <li>Abstract and Applied Analysis</li>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
     <li>Acta Mathematica Scienta</li>
     <li>Acta Universitatis Sapientiae, Mathematica</li>
@@ -574,12 +575,14 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Afrika Matematika</li>
     <li>AIMS Mathematics</li>
     <li>Annals of the Alexandru Ioan Cuza University – Mathematics</li>
+    <li>Annales Polonici Mathematici</li>
     <li>An International Journal of Optimization and Control: Theories &amp; Applications</li>
     <li>Applicable Analysis</li>
     <li>Applied Mathematics E-Notes</li>
     <li>AppliedMath</li>
     <li>Arabian Journal of Mathematics</li>
     <li>Asian Journal of Mathematics and Computer Research</li>
+    <li>Asymptotic Analysis</li>
     <li>Axioms</li>
     <li>Boletim da Sociedade Paranaense de Matemática</li>
     <li>Boundary Value Problems</li>
@@ -588,6 +591,8 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>British Journal of Applied Science and Technology</li>
     <li>Complex Variables and Elliptic Equations</li>
     <li>Computation</li>
+    <li>Computers and Operations Research</li>
+    <li>Communications in Analysis and Mechanics</li>
     <li>Contemporary Mathematics</li>
     <li>Discrete Dynamics in Nature and Society</li>
     <li>Discrete and Continuous Dynamical Systems, Series S</li>
@@ -609,11 +614,13 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Journal of Pseudo-Differential Operators and Applications</li>
     <li>Kragujevac Journal of Mathematics</li>
     <li>International Journal of Differential Equations</li>
+    <li>Integral Transforms and Special Functions</li>
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
     <li>Nonlinear Analysis Real World Applications</li>
     <li>Numerical Algorithms</li>
+    <li>Optimization</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
     <li>Rocky Mountain Journal of Mathematics</li>
     <li>Qualitative Theory of Dynamical Systems</li>
@@ -658,4 +665,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `465dfd3` on 2026-11-05 04:04 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `9b5f006` on 2026-11-08 02:56 UTC_
