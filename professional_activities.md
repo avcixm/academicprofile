@@ -83,6 +83,7 @@ permalink: /professional_activities/
     <li>Discrete and Continuous Dynamical Systems, Series S</li>
     <li>Differential Equations and Dynamical Systems</li>
     <li>Electronic Research Archive</li>
+    <li>Electronic Journal of Differential Equations</li>
     <li>Entropy</li>
     <li>FILOMAT</li>
     <li>Foundations</li>
