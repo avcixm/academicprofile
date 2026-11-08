@@ -52,6 +52,7 @@ permalink: /professional_activities/
   <summary><small>List</small></summary>
   <ol>
     <li>Reviewer for American Mathematical Society/MathSciNet Reviews</li> <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/849785" target="_blank" rel="noopener">Website</a>
+    <li>Abstract and Applied Analysis</li>
     <li>Acta et Commentationes Universitatis Tartuensis de Mathematica</li>
     <li>Acta Mathematica Scienta</li>
     <li>Acta Universitatis Sapientiae, Mathematica</li>
@@ -59,12 +60,14 @@ permalink: /professional_activities/
     <li>Afrika Matematika</li>
     <li>AIMS Mathematics</li>
     <li>Annals of the Alexandru Ioan Cuza University – Mathematics</li>
+    <li>Annales Polonici Mathematici</li>
     <li>An International Journal of Optimization and Control: Theories &amp; Applications</li>
     <li>Applicable Analysis</li>
     <li>Applied Mathematics E-Notes</li>
     <li>AppliedMath</li>
     <li>Arabian Journal of Mathematics</li>
     <li>Asian Journal of Mathematics and Computer Research</li>
+    <li>Asymptotic Analysis</li>
     <li>Axioms</li>
     <li>Boletim da Sociedade Paranaense de Matemática</li>
     <li>Boundary Value Problems</li>
@@ -73,6 +76,8 @@ permalink: /professional_activities/
     <li>British Journal of Applied Science and Technology</li>
     <li>Complex Variables and Elliptic Equations</li>
     <li>Computation</li>
+    <li>Computers and Operations Research</li>
+    <li>Communications in Analysis and Mechanics</li>
     <li>Contemporary Mathematics</li>
     <li>Discrete Dynamics in Nature and Society</li>
     <li>Discrete and Continuous Dynamical Systems, Series S</li>
@@ -94,11 +99,13 @@ permalink: /professional_activities/
     <li>Journal of Pseudo-Differential Operators and Applications</li>
     <li>Kragujevac Journal of Mathematics</li>
     <li>International Journal of Differential Equations</li>
+    <li>Integral Transforms and Special Functions</li>
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
     <li>Nonlinear Analysis Real World Applications</li>
     <li>Numerical Algorithms</li>
+    <li>Optimization</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
     <li>Rocky Mountain Journal of Mathematics</li>
     <li>Qualitative Theory of Dynamical Systems</li>
