@@ -88,6 +88,8 @@ permalink: /professional_activities/
     <li>Foundations</li>
     <li>Fractal and Fractional</li>
     <li>Georgian Mathematical Journal</li>
+    <li>International Journal of Differential Equations</li>
+    <li>Integral Transforms and Special Functions</li>
     <li>Journal of Mathematics</li>
     <li>Journal of Mathematical Physics</li>
     <li>Journal of Nonlinear Mathematical Physics</li>
@@ -98,8 +100,6 @@ permalink: /professional_activities/
     <li>Journal of Elliptic and Parabolic Equations</li>
     <li>Journal of Pseudo-Differential Operators and Applications</li>
     <li>Kragujevac Journal of Mathematics</li>
-    <li>International Journal of Differential Equations</li>
-    <li>Integral Transforms and Special Functions</li>
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
@@ -107,8 +107,8 @@ permalink: /professional_activities/
     <li>Numerical Algorithms</li>
     <li>Optimization</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
-    <li>Rocky Mountain Journal of Mathematics</li>
     <li>Qualitative Theory of Dynamical Systems</li>
+    <li>Rocky Mountain Journal of Mathematics</li>
     <li>SIAM Journal on Imaging Sciences</li>
     <li>Symmetry</li>
     <li>TWMS Journal of Applied and Engineering Mathematics</li>
