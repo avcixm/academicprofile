@@ -598,6 +598,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Discrete and Continuous Dynamical Systems, Series S</li>
     <li>Differential Equations and Dynamical Systems</li>
     <li>Electronic Research Archive</li>
+    <li>Electronic Journal of Differential Equations</li>
     <li>Entropy</li>
     <li>FILOMAT</li>
     <li>Foundations</li>
@@ -666,4 +667,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `9ac6939` on 2026-11-08 03:03 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `d87a18f` on 2026-11-08 03:06 UTC_
