@@ -107,6 +107,7 @@ permalink: /professional_activities/
     <li>Numerical Algorithms</li>
     <li>Optimization</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
+    <li>Proceedings of the Royal Society of Edinburgh Section A: Mathematical and Physical Sciences</li>
     <li>Qualitative Theory of Dynamical Systems</li>
     <li>Rocky Mountain Journal of Mathematics</li>
     <li>SIAM Journal on Imaging Sciences</li>
