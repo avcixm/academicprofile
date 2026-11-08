@@ -603,6 +603,8 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Foundations</li>
     <li>Fractal and Fractional</li>
     <li>Georgian Mathematical Journal</li>
+    <li>International Journal of Differential Equations</li>
+    <li>Integral Transforms and Special Functions</li>
     <li>Journal of Mathematics</li>
     <li>Journal of Mathematical Physics</li>
     <li>Journal of Nonlinear Mathematical Physics</li>
@@ -613,8 +615,6 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Journal of Elliptic and Parabolic Equations</li>
     <li>Journal of Pseudo-Differential Operators and Applications</li>
     <li>Kragujevac Journal of Mathematics</li>
-    <li>International Journal of Differential Equations</li>
-    <li>Integral Transforms and Special Functions</li>
     <li>Mathematics</li>
     <li>Mathematical Methods in the Applied Sciences</li>
     <li>Nonlinear Analysis</li>
@@ -622,8 +622,8 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Numerical Algorithms</li>
     <li>Optimization</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
-    <li>Rocky Mountain Journal of Mathematics</li>
     <li>Qualitative Theory of Dynamical Systems</li>
+    <li>Rocky Mountain Journal of Mathematics</li>
     <li>SIAM Journal on Imaging Sciences</li>
     <li>Symmetry</li>
     <li>TWMS Journal of Applied and Engineering Mathematics</li>
@@ -665,4 +665,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `9b5f006` on 2026-11-08 02:56 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `fe763c1` on 2026-11-08 02:59 UTC_
