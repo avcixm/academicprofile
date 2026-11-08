@@ -622,6 +622,7 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
     <li>Numerical Algorithms</li>
     <li>Optimization</li>
     <li>Proceedings of the Edinburgh Mathematical Society</li>
+    <li>Proceedings of the Royal Society of Edinburgh Section A: Mathematical and Physical Sciences</li>
     <li>Qualitative Theory of Dynamical Systems</li>
     <li>Rocky Mountain Journal of Mathematics</li>
     <li>SIAM Journal on Imaging Sciences</li>
@@ -665,4 +666,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `fe763c1` on 2026-11-08 02:59 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `9ac6939` on 2026-11-08 03:03 UTC_
