@@ -24,8 +24,8 @@ mavci@athabascau.ca · https://avcixm.github.io/academicprofile/
  - Assistant Professor (Limited Term), Department of Mathematics, Trent University (2020/8 - 2021/7).
  - Instructor (Limited Term), Department of Science and Technology, Northwestern Polytechnic (Grande Prairie Reg Coll.) (2019/8 - 2020/4)
  - Instructor (Sessional), Department of Finance and Management Science, Edwards School of Business, University of Saskatchewan (2019/5 - 2019/8).
- - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10). (on leave from Batman University)
  - Associate Professor, Department of Economics and Administrative Sciences, Batman University (2013/3 - 2018/10).
+ - Postdoctoral Fellow, Department of Mathematics, Morgan State University (2014/9 - 2015/10). (on leave from Batman University)
  - Instructor, Economics and Administrative Sciences Programs, Dicle University (2009/1 - 2013/3).
 
 ## Research
@@ -78,6 +78,8 @@ Variable Exponent Lebesgue-Sobolev Spaces; PDEs; Calculus of Variations; Topolog
 
 
   <ol>
+    <li>Variational and nonvariational solutions for double phase variable exponent problems.<em>Mathematics, Informatics, Physics: Science and Education</em>.Vol. 7: No. 3. <strong>(2026)</strong>.
+<a href="https://intranet.vspu.edu.ua/miph/index.php/journal/index" target="_blank" rel="noopener">Website</a>.</li>
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
 Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
       <a href="https://repository.lsu.edu/josa/vol7/iss3/3/" target="_blank" rel="noopener">Website</a>.</li>
@@ -667,4 +669,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `d87a18f` on 2026-11-08 03:06 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `89d3815` on 2026-11-26 04:07 UTC_
