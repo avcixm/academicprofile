@@ -78,7 +78,7 @@ Variable Exponent Lebesgue-Sobolev Spaces; PDEs; Calculus of Variations; Topolog
 
 
   <ol>
-    <li>Variational and nonvariational solutions for double phase variable exponent problems.<em>Mathematics, Informatics, Physics: Science and Education</em>.Vol.3, No. 2.<strong>(2026)</strong>.
+    <li>Variational and nonvariational solutions for double phase variable exponent problems.<em> Mathematics, Informatics, Physics: Science and Education</em>. Vol.3, No. 2. <strong>(2026)</strong>.
 <a href="https://intranet.vspu.edu.ua/miph/index.php/journal/article/view/84" target="_blank" rel="noopener">Website</a>.</li>
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
 Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
@@ -669,4 +669,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `f45cfaf` on 2026-11-26 04:08 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `6082a2b` on 2026-11-26 04:09 UTC_
